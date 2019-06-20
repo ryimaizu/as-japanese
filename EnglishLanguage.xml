@@ -1,0 +1,1923 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <LanguageTable>
+    <Name>Reimagine</Name>
+    <Value>Reimagine</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Rethink</Name>
+    <Value>Rethink</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Recreate</Name>
+    <Value>Recreate</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>QueenBOT</Name>
+    <Value>QueenBOT</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ANTstein</Name>
+    <Value>ANTstein</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Antworks</Name>
+    <Value>Antworks</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Triangle</Name>
+    <Value>Triangle</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Welcome Admin</Name>
+    <Value>Welcome Admin</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>I am</Name>
+    <Value>I am</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Password</Name>
+    <Value>Password</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Let's go</Name>
+    <Value>Let's go</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Login </Name>
+    <Value>Login </Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ANTstein queenBOT:BOTbuilder</Name>
+    <Value>ANTstein queenBOT:BOTbuilder</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File</Name>
+    <Value>File</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>View</Name>
+    <Value>View</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Tools</Name>
+    <Value>Tools</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Settings</Name>
+    <Value>Settings</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>User management</Name>
+    <Value>User management</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Bot scheduler</Name>
+    <Value>Bot scheduler</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Orchestrator</Name>
+    <Value>Orchestrator</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>canvas menu</Name>
+    <Value>canvas menu</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Tool box</Name>
+    <Value>Tool box</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Frequently used</Name>
+    <Value>Frequently used</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Arithmetic</Name>
+    <Value>Arithmetic</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Cognitive machine reading</Name>
+    <Value>Cognitive machine reading</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Conditional (decision)</Name>
+    <Value>Conditional (decision)</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Database</Name>
+    <Value>Database</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Display</Name>
+    <Value>Display</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Document</Name>
+    <Value>Document</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Email</Name>
+    <Value>Email</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel</Name>
+    <Value>Excel</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Field analyzer</Name>
+    <Value>Field analyzer</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File system</Name>
+    <Value>File system</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>frame work</Name>
+    <Value>frame work</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Linking </Name>
+    <Value>Linking </Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>parser</Name>
+    <Value>parser</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Runner</Name>
+    <Value>Runner</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SMS</Name>
+    <Value>SMS</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Webcomponent</Name>
+    <Value>Webcomponent</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Welcome:admin</Name>
+    <Value>Welcome:admin</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Spark44 newest</Name>
+    <Value>Spark44 newest</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Spark</Name>
+    <Value>Spark</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Folder watcher</Name>
+    <Value>Folder watcher</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Rename</Name>
+    <Value>Rename</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Newname</Name>
+    <Value>Newname</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Required fields</Name>
+    <Value>Required fields</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Solution explorer</Name>
+    <Value>Solution explorer</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Properties</Name>
+    <Value>Properties</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Help</Name>
+    <Value>Help</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Name type</Name>
+    <Value>Name type</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Refresh</Name>
+    <Value>Refresh</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Select</Name>
+    <Value>Select</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Add</Name>
+    <Value>Add</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Variables</Name>
+    <Value>Variables</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Solution explorer</Name>
+    <Value>Solution explorer</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Properties</Name>
+    <Value>Properties</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>About</Name>
+    <Value>About</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Queen BOT orchestrator</Name>
+    <Value>Queen BOT orchestrator</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Triangale</Name>
+    <Value>Triangale</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ok</Name>
+    <Value>ok</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>License information</Name>
+    <Value>License information</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Version</Name>
+    <Value>Version</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Bot builder</Name>
+    <Value>Bot builder</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ANT bot</Name>
+    <Value>ANT bot</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Activated on</Name>
+    <Value>Activated on</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Expires on</Name>
+    <Value>Expires on</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Status</Name>
+    <Value>Status</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Triangle</Name>
+    <Value>Triangle</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Activated</Name>
+    <Value>Activated</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Expired</Name>
+    <Value>Expired</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ok</Name>
+    <Value>ok</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Return to landing page</Name>
+    <Value>Return to landing page</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Functionbox_1</Name>
+    <Value>Functionbox_1</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Functionbox_2</Name>
+    <Value>Functionbox_2</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Functionbox_3</Name>
+    <Value>Functionbox_3</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel reader</Name>
+    <Value>Excel reader</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Pattern searcher</Name>
+    <Value>Pattern searcher</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Console display</Name>
+    <Value>Console display</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>String merger</Name>
+    <Value>String merger</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Web runner</Name>
+    <Value>Web runner</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Orchestrator</Name>
+    <Value>Orchestrator</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process</Name>
+    <Value>Process</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process creator</Name>
+    <Value>Process creator</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Date time</Name>
+    <Value>Date time</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target machines</Name>
+    <Value>Target machines</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target machine name</Name>
+    <Value>Target machine name</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IP address</Name>
+    <Value>IP address</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Active ANTbots</Name>
+    <Value>Active ANTbots</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Activated at</Name>
+    <Value>Activated at</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Status</Name>
+    <Value>Status</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Antbot status</Name>
+    <Value>Antbot status</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Active</Name>
+    <Value>Active</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Bot builder status</Name>
+    <Value>Bot builder status</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FTP server status</Name>
+    <Value>FTP server status</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Admin</Name>
+    <Value>Admin</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Tool box</Name>
+    <Value>Tool box</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Refresh</Name>
+    <Value>Refresh</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Help</Name>
+    <Value>Help</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process details</Name>
+    <Value>Process details</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Required fields</Name>
+    <Value>Required fields</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Deployed machines</Name>
+    <Value>Deployed machines</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process ID</Name>
+    <Value>Process ID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process name</Name>
+    <Value>Process name</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process creator</Name>
+    <Value>Process creator</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Description</Name>
+    <Value>Description</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IP address</Name>
+    <Value>IP address</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Email To</Name>
+    <Value>Email To</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Emails</Name>
+    <Value>Emails</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>send crash report</Name>
+    <Value>send crash report</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Multiple emails can be separated by semicolon</Name>
+    <Value>Multiple emails can be separated by semicolon</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Publish date</Name>
+    <Value>Publish date</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target machine ID</Name>
+    <Value>Target machine ID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Deploy</Name>
+    <Value>Deploy</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Edit config</Name>
+    <Value>Edit config</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Delete process</Name>
+    <Value>Delete process</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Ant bot status</Name>
+    <Value>Ant bot status</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Active</Name>
+    <Value>Active</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Bot builder status</Name>
+    <Value>Bot builder status</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Refresh</Name>
+    <Value>Refresh</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Help</Name>
+    <Value>Help</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process</Name>
+    <Value>Process</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process details</Name>
+    <Value>Process details</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>deployed details</Name>
+    <Value>deployed details</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target machine details</Name>
+    <Value>Target machine details</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Name</Name>
+    <Value>Name</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Ip address</Name>
+    <Value>Ip address</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process creator</Name>
+    <Value>Process creator</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process</Name>
+    <Value>Process</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Email To</Name>
+    <Value>Email To</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Emailcc</Name>
+    <Value>Emailcc</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Admin</Name>
+    <Value>Admin</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Stock watcher outlook</Name>
+    <Value>Stock watcher outlook</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Machine details</Name>
+    <Value>Machine details</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Antbot start</Name>
+    <Value>Antbot start</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Clear temp files</Name>
+    <Value>Clear temp files</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Remove proc</Name>
+    <Value>Remove proc</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Edit config</Name>
+    <Value>Edit config</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Resource details</Name>
+    <Value>Resource details</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Computer name</Name>
+    <Value>Computer name</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Processor</Name>
+    <Value>Processor</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Intel®Core™</Name>
+    <Value>Intel®Core™</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Installed memory(RAM)</Name>
+    <Value>Installed memory(RAM)</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>System type</Name>
+    <Value>System type</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>64 bit operating systems</Name>
+    <Value>64 bit operating systems</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>OS version</Name>
+    <Value>OS version</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Microsoft windows NT</Name>
+    <Value>Microsoft windows NT</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Available memory(RAM)</Name>
+    <Value>Available memory(RAM)</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>OK</Name>
+    <Value>OK</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Config parameter</Name>
+    <Value>Config parameter</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Save</Name>
+    <Value>Save</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Queenbot</Name>
+    <Value>Queenbot</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Active</Name>
+    <Value>Active</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error</Name>
+    <Value>Error</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>console logs</Name>
+    <Value>console logs</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Activity</Name>
+    <Value>Activity</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process name</Name>
+    <Value>Process name</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>started at</Name>
+    <Value>started at</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Ip address</Name>
+    <Value>Ip address</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Debug</Name>
+    <Value>Debug</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Activate</Name>
+    <Value>Activate</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Clear log</Name>
+    <Value>Clear log</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Stop</Name>
+    <Value>Stop</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Queenbot</Name>
+    <Value>Queenbot</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Active</Name>
+    <Value>Active</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error</Name>
+    <Value>Error</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>console logs</Name>
+    <Value>console logs</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Activity</Name>
+    <Value>Activity</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Refresh</Name>
+    <Value>Refresh</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Date time</Name>
+    <Value>Date time</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Message</Name>
+    <Value>Message</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error message</Name>
+    <Value>Error message</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Debug</Name>
+    <Value>Debug</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Activate</Name>
+    <Value>Activate</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Clear log</Name>
+    <Value>Clear log</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Stop</Name>
+    <Value>Stop</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Queenbot</Name>
+    <Value>Queenbot</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Active</Name>
+    <Value>Active</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error</Name>
+    <Value>Error</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>console logs</Name>
+    <Value>console logs</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Activity</Name>
+    <Value>Activity</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Refresh</Name>
+    <Value>Refresh</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Waiting for activation from Queenbot</Name>
+    <Value>Waiting for activation from Queenbot</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Activated</Name>
+    <Value>Activated</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>End of log</Name>
+    <Value>End of log</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Debug</Name>
+    <Value>Debug</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Activate</Name>
+    <Value>Activate</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Clear log</Name>
+    <Value>Clear log</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Stop</Name>
+    <Value>Stop</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Queenbot</Name>
+    <Value>Queenbot</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Active</Name>
+    <Value>Active</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error</Name>
+    <Value>Error</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>console logs</Name>
+    <Value>console logs</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Activity</Name>
+    <Value>Activity</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Refresh</Name>
+    <Value>Refresh</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>System log</Name>
+    <Value>System log</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Folder watcher_1 succeeded</Name>
+    <Value>Folder watcher_1 succeeded</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel row reader_3 succeeded</Name>
+    <Value>Excel row reader_3 succeeded</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Web runner_4</Name>
+    <Value>Web runner_4</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Test 2</Name>
+    <Value>Test 2</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>AM</Name>
+    <Value>AM</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>End of log</Name>
+    <Value>End of log</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Debug</Name>
+    <Value>Debug</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Activate</Name>
+    <Value>Activate</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Clear log</Name>
+    <Value>Clear log</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Stop</Name>
+    <Value>Stop</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Username</Name>
+    <Value>Username</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>User role</Name>
+    <Value>User role</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Email</Name>
+    <Value>Email</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>LDAP</Name>
+    <Value>LDAP</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Edit </Name>
+    <Value>Edit </Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Delete</Name>
+    <Value>Delete</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New user</Name>
+    <Value>New user</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process</Name>
+    <Value>Process</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target machines</Name>
+    <Value>Target machines</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Active ANT bots</Name>
+    <Value>Active ANT bots</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Status</Name>
+    <Value>Status</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Pending</Name>
+    <Value>Pending</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>User management</Name>
+    <Value>User management</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Add user details</Name>
+    <Value>Add user details</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>User name</Name>
+    <Value>User name</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Password</Name>
+    <Value>Password</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Confirm password</Name>
+    <Value>Confirm password</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>User role</Name>
+    <Value>User role</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Email</Name>
+    <Value>Email</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Required fields</Name>
+    <Value>Required fields</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Submit</Name>
+    <Value>Submit</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Bot scheduler</Name>
+    <Value>Bot scheduler</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Schedule list</Name>
+    <Value>Schedule list</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Required fields</Name>
+    <Value>Required fields</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Add</Name>
+    <Value>Add</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>List</Name>
+    <Value>List</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>All</Name>
+    <Value>All</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target machine</Name>
+    <Value>Target machine</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process</Name>
+    <Value>Process</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Status</Name>
+    <Value>Status</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>From</Name>
+    <Value>From</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>To</Name>
+    <Value>To</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Apply</Name>
+    <Value>Apply</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Delete</Name>
+    <Value>Delete</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Bot scheduler</Name>
+    <Value>Bot scheduler</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>scheduler</Name>
+    <Value>scheduler</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Required fields</Name>
+    <Value>Required fields</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target machine</Name>
+    <Value>Target machine</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process</Name>
+    <Value>Process</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Repeat</Name>
+    <Value>Repeat</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Every</Name>
+    <Value>Every</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Mins</Name>
+    <Value>Mins</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>End after</Name>
+    <Value>End after</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>occurrences</Name>
+    <Value>occurrences</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Ends on</Name>
+    <Value>Ends on</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>HH:MM</Name>
+    <Value>HH:MM</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Activate</Name>
+    <Value>Activate</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Stop</Name>
+    <Value>Stop</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Schedule</Name>
+    <Value>Schedule</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Schedule added successfully</Name>
+    <Value>Schedule added successfully</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Number of BOTs=10</Name>
+    <Value>Number of BOTs=10</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Active Bot builder details</Name>
+    <Value>Active Bot builder details</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IP</Name>
+    <Value>IP</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>User name</Name>
+    <Value>User name</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>User role</Name>
+    <Value>User role</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Close Bot builder</Name>
+    <Value>Close Bot builder</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Active Bot builder :0/2</Name>
+    <Value>Active Bot builder :0/2</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error details</Name>
+    <Value>Error details</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>From date</Name>
+    <Value>From date</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>To date</Name>
+    <Value>To date</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ID</Name>
+    <Value>ID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error type</Name>
+    <Value>Error type</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Message</Name>
+    <Value>Message</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error Message</Name>
+    <Value>Error Message</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error date</Name>
+    <Value>Error date</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Clear </Name>
+    <Value>Clear </Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Clear all</Name>
+    <Value>Clear all</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target machine name</Name>
+    <Value>Target machine name</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target machine IP</Name>
+    <Value>Target machine IP</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Verify</Name>
+    <Value>Verify</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Status</Name>
+    <Value>Status</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Required fields</Name>
+    <Value>Required fields</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Add</Name>
+    <Value>Add</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Function box</Name>
+    <Value>Function box</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel file</Name>
+    <Value>Excel file</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Addition</Name>
+    <Value>Addition</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Division</Name>
+    <Value>Division</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Multiplication</Name>
+    <Value>Multiplication</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Subtraction</Name>
+    <Value>Subtraction</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CMR connector</Name>
+    <Value>CMR connector</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Case</Name>
+    <Value>Case</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Conditional</Name>
+    <Value>Conditional</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DB processor</Name>
+    <Value>DB processor</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DB watcher</Name>
+    <Value>DB watcher</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Grid viewer</Name>
+    <Value>Grid viewer</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Message box</Name>
+    <Value>Message box</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Document</Name>
+    <Value>Document</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>PDF generator</Name>
+    <Value>PDF generator</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Text file</Name>
+    <Value>Text file</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>　generator</Name>
+    <Value>　generator</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Email sender</Name>
+    <Value>Email sender</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Email watcher</Name>
+    <Value>Email watcher</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel file</Name>
+    <Value>Excel file</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel</Name>
+    <Value>Excel</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel macro</Name>
+    <Value>Excel macro</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel searcher</Name>
+    <Value>Excel searcher</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>String operator</Name>
+    <Value>String operator</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>String searcher</Name>
+    <Value>String searcher</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>String</Name>
+    <Value>String</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File operator</Name>
+    <Value>File operator</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Path operator</Name>
+    <Value>Path operator</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process</Name>
+    <Value>Process</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Custom error</Name>
+    <Value>Custom error</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Delay</Name>
+    <Value>Delay</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>End bot</Name>
+    <Value>End bot</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Function box</Name>
+    <Value>Function box</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>invoker</Name>
+    <Value>invoker</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Iteration</Name>
+    <Value>Iteration</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Metrics</Name>
+    <Value>Metrics</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Safe handler</Name>
+    <Value>Safe handler</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Stop timer</Name>
+    <Value>Stop timer</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Timer</Name>
+    <Value>Timer</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Linker</Name>
+    <Value>Linker</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Linker input</Name>
+    <Value>Linker input</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Linker output</Name>
+    <Value>Linker output</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Dynamic HTML</Name>
+    <Value>Dynamic HTML</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output</Name>
+    <Value>Output</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Json parser</Name>
+    <Value>Json parser</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>XML parser</Name>
+    <Value>XML parser</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Remote runner</Name>
+    <Value>Remote runner</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Windows</Name>
+    <Value>Windows</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Web API</Name>
+    <Value>Web API</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Project Name</Name>
+    <Value>Project Name</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Project Folder Path</Name>
+    <Value>Project Folder Path</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Create Directory</Name>
+    <Value>Create Directory</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New Project</Name>
+    <Value>New Project</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Build Canvas</Name>
+    <Value>Build Canvas</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Run Exe</Name>
+    <Value>Run Exe</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Connector </Name>
+    <Value>Connector </Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Options</Name>
+    <Value>Options</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Zoom</Name>
+    <Value>Zoom</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Component Info</Name>
+    <Value>Component Info</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Dynamic HTML Filler</Name>
+    <Value>Dynamic HTML Filler</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>web api invoker</Name>
+    <Value>web api invoker</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SMS Responder</Name>
+    <Value>SMS Responder</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Windows Runner</Name>
+    <Value>Windows Runner</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Linking</Name>
+    <Value>Linking</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>linkerinput</Name>
+    <Value>linkerinput</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>linkeroutput</Name>
+    <Value>linkeroutput</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FrameWork</Name>
+    <Value>FrameWork</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>metricsupdater</Name>
+    <Value>metricsupdater</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Safe Handler</Name>
+    <Value>Safe Handler</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process Invoker</Name>
+    <Value>Process Invoker</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process Watcher</Name>
+    <Value>Process Watcher</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel File Reader</Name>
+    <Value>Excel File Reader</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel Generator</Name>
+    <Value>Excel Generator</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel Macro Runner</Name>
+    <Value>Excel Macro Runner</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Email Sender (Outlook)</Name>
+    <Value>Email Sender (Outlook)</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Email Watcher (Outlook)</Name>
+    <Value>Email Watcher (Outlook)</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Document Generator</Name>
+    <Value>Document Generator</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Document Processor</Name>
+    <Value>Document Processor</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>PDF Generator</Name>
+    <Value>PDF Generator</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Text File Reader</Name>
+    <Value>Text File Reader</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Text Generator</Name>
+    <Value>Text Generator</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Case...</Name>
+    <Value>Case...</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Conditional component</Name>
+    <Value>Conditional component</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New</Name>
+    <Value>New</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Open</Name>
+    <Value>Open</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Import Process…</Name>
+    <Value>Import Process…</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Save As</Name>
+    <Value>Save As</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Save All</Name>
+    <Value>Save All</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Close</Name>
+    <Value>Close</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Close All</Name>
+    <Value>Close All</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Close All But This One</Name>
+    <Value>Close All But This One</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>QueenBot Settings</Name>
+    <Value>QueenBot Settings</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DataBase Settings</Name>
+    <Value>DataBase Settings</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Email Settings</Name>
+    <Value>Email Settings</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Change Password</Name>
+    <Value>Change Password</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Web Recorder </Name>
+    <Value>Web Recorder </Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Windows Recorder</Name>
+    <Value>Windows Recorder</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Remote Recorder</Name>
+    <Value>Remote Recorder</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Property Window</Name>
+    <Value>Property Window</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output Window</Name>
+    <Value>Output Window</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Tool Bar</Name>
+    <Value>Tool Bar</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>About License</Name>
+    <Value>About License</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>About Queen Bot Orchestrator</Name>
+    <Value>About Queen Bot Orchestrator</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Queen Bot IP</Name>
+    <Value>Queen Bot IP</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Ant IP</Name>
+    <Value>Ant IP</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Queen Bot Port</Name>
+    <Value>Queen Bot Port</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Default Gateway IP</Name>
+    <Value>Default Gateway IP</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Queen Bot Salt Key</Name>
+    <Value>Queen Bot Salt Key</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>WFML Window</Name>
+    <Value>WFML Window</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>C# Code Window</Name>
+    <Value>C# Code Window</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ANTstein - QueenBOT Details</Name>
+    <Value>ANTstein - QueenBOT Details</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Database Connectivity</Name>
+    <Value>Database Connectivity</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Database Type :</Name>
+    <Value>Database Type :</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DatabaseServer Name /IP :</Name>
+    <Value>DatabaseServer Name /IP :</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Authentication :</Name>
+    <Value>Authentication :</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Database User Name :</Name>
+    <Value>Database User Name :</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Database Password :</Name>
+    <Value>Database Password :</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Database Name :</Name>
+    <Value>Database Name :</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>E-MAIL Configuration</Name>
+    <Value>E-MAIL Configuration</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>QueenBOT Eamail :</Name>
+    <Value>QueenBOT Eamail :</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Email Password :</Name>
+    <Value>Email Password :</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SMTP Type :</Name>
+    <Value>SMTP Type :</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SMTP Port :</Name>
+    <Value>SMTP Port :</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Encryption</Name>
+    <Value>Encryption</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Connect</Name>
+    <Value>Connect</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Configure</Name>
+    <Value>Configure</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Hi there! Setting up for the first time?</Name>
+    <Value>Hi there! Setting up for the first time?</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Show Debug Window</Name>
+    <Value>Show Debug Window</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Re-Sequence</Name>
+    <Value>Re-Sequence</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Auto-Activate/Debug</Name>
+    <Value>Auto-Activate/Debug</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Straight Line</Name>
+    <Value>Straight Line</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Flow editor</Name>
+    <Value>Flow editor</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel mapping</Name>
+    <Value>Excel mapping</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Preview</Name>
+    <Value>Preview</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Open </Name>
+    <Value>Open </Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>save</Name>
+    <Value>save</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>save as</Name>
+    <Value>save as</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>clear </Name>
+    <Value>clear </Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>update</Name>
+    <Value>update</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Select file</Name>
+    <Value>Select file</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Select sheet name</Name>
+    <Value>Select sheet name</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Bot builder:Dashboard</Name>
+    <Value>Bot builder:Dashboard</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process name </Name>
+    <Value>Process name </Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>description</Name>
+    <Value>description</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>created at</Name>
+    <Value>created at</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Ip address</Name>
+    <Value>Ip address</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Service status</Name>
+    <Value>Service status</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Compression 4</Name>
+    <Value>Compression 4</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Win recorder</Name>
+    <Value>Win recorder</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Continuous control reading</Name>
+    <Value>Continuous control reading</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Continuous location reading</Name>
+    <Value>Continuous location reading</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Run</Name>
+    <Value>Run</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Recording actions</Name>
+    <Value>Recording actions</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Start application</Name>
+    <Value>Start application</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Find application</Name>
+    <Value>Find application</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Mouse</Name>
+    <Value>Mouse</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>keyboard</Name>
+    <Value>keyboard</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Select item</Name>
+    <Value>Select item</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set date</Name>
+    <Value>Set date</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Check </Name>
+    <Value>Check </Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>get value</Name>
+    <Value>get value</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set value</Name>
+    <Value>Set value</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Clip board</Name>
+    <Value>Clip board</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Delay</Name>
+    <Value>Delay</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>View log</Name>
+    <Value>View log</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Message box</Name>
+    <Value>Message box</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Is window exists</Name>
+    <Value>Is window exists</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Read excel cell</Name>
+    <Value>Read excel cell</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel row count</Name>
+    <Value>Excel row count</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Write excel cell</Name>
+    <Value>Write excel cell</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Search text</Name>
+    <Value>Search text</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Close window</Name>
+    <Value>Close window</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Close application</Name>
+    <Value>Close application</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set output parameter</Name>
+    <Value>Set output parameter</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set input parameter</Name>
+    <Value>Set input parameter</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set config data</Name>
+    <Value>Set config data</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get config data</Name>
+    <Value>Get config data</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Show ANT code</Name>
+    <Value>Show ANT code</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Selected application</Name>
+    <Value>Selected application</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Window details</Name>
+    <Value>Window details</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Browser action</Name>
+    <Value>Browser action</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New tab</Name>
+    <Value>New tab</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Refresh</Name>
+    <Value>Refresh</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Backward</Name>
+    <Value>Backward</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Forward</Name>
+    <Value>Forward</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Close tab</Name>
+    <Value>Close tab</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Close all tabs</Name>
+    <Value>Close all tabs</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Clear cache</Name>
+    <Value>Clear cache</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Toggle ANT file</Name>
+    <Value>Toggle ANT file</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Toggle panel</Name>
+    <Value>Toggle panel</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target machine</Name>
+    <Value>Target machine</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error view grid</Name>
+    <Value>Error view grid</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Active bot builders grid</Name>
+    <Value>Active bot builders grid</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Clears all stopped BOTs</Name>
+    <Value>Clears all stopped BOTs</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error type</Name>
+    <Value>Error type</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error message</Name>
+    <Value>Error message</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error date</Name>
+    <Value>Error date</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Remove</Name>
+    <Value>Remove</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel searcher</Name>
+    <Value>Excel searcher</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>String searcher</Name>
+    <Value>String searcher</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Pattern searcher</Name>
+    <Value>Pattern searcher</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Text file</Name>
+    <Value>Text file</Value>
+  </LanguageTable>
+</DocumentElement>

@@ -1,0 +1,1679 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <LanguageTable>
+    <Name>Mail Server Name is Empty</Name>
+    <Value>メールサーバー名が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>EmailId Name is Empty</Name>
+    <Value>電子メールIDの名前が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsDownload Indicator is Empty</Name>
+    <Value>ダウンロードインジケータが空ですか</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Download File Location doesn't exist </Name>
+    <Value>ダウンロードファイルのロケーションが存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Read Unseen mail Indicator is Empty</Name>
+    <Value>読んでいないメールインジケータが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Containing Text cannot be empty for filtering</Name>
+    <Value>フィルタリングの為の含むテキストは空にする事は出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Collection Name cant be Empty</Name>
+    <Value>収集名を空にする事は出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Exception Message is empty</Name>
+    <Value>例外メッセージが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Duration is Empty or invalid</Name>
+    <Value>期間が空または無効です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Variable of this User Defined Type cannot be initialzied with Real Type Data</Name>
+    <Value>使用者が記載された変数は実数型データで初期化する事は出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Left side value cannot be empty</Name>
+    <Value>左側の値は空にする事は出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Expression cannot be Empty</Name>
+    <Value>表現は空にする事は出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Right side value cannot be empty</Name>
+    <Value>右側の値は空にする事は出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Right side value should be empty</Name>
+    <Value>右側の値は空にする必要があります</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Invalid Increment Operator.. Please refer the description for valid increment operators..</Name>
+    <Value>無効なインクリメント演算子。。。有効なインクリメント演算子の記載を参照して下さい</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Number of Iterations is Empty or invalid</Name>
+    <Value>反復回数が空または無効</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Initial Value is Empty or invalid</Name>
+    <Value>初期値が空または無効です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CodeBlockEvent field is a mandatory which is currently empty</Name>
+    <Value>コードブロックイベントフィールドは必須ですが、現在は空です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Both Condition and Custom Expression cannot be empty</Name>
+    <Value>条件式とカスタム式の両方は空にする事は出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Both Condition and Custom Expression are NOT allowed. Please give either</Name>
+    <Value>条件式とカスタム式の両方は許可出来ません。1つを選択してください</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Canvas Name cannot be emtpy;</Name>
+    <Value>キャンバス名は空にする事は出来ません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>All Input values cannot be empty:</Name>
+    <Value>全ての入力値は空にする事は出来ません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Custom Condition field is Empty</Name>
+    <Value>カスタム条件のフィールドが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Mandatory to give either of the conditions when custom condition is not given</Name>
+    <Value>カスタム条件が指定されていない時にいずれかの条件を指定する事は必須です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Mandatory to give Left value 1 when Expression 1 is given</Name>
+    <Value>表現1が与えられた時に左値1を与える事は必須です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Mandatory to give Right value 1 when Expression 1 is given</Name>
+    <Value>表現1が与えられた時に右値1を与える事は必須です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Mandatory to give Left value 2 when Expression 2 is given</Name>
+    <Value>表現２が与えられた時に左値２を与える事は必須です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Mandatory to give Right value 2 when Expression 2 is given</Name>
+    <Value>表現２が与えられた時に右値２を与える事は必須です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Mandatory to give multiple condition when both experssions are given</Name>
+    <Value>両方の表現が与えられた時に複数の条件を与える事は必須です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>LeftValue1 is given as string,so Greater than/Less than conditions can't be used </Name>
+    <Value>左の値1はストリングとして与えられますので”より大きい/以下”条件が使う出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RightValue1 is given as string,so Greater than/Less than conditions can't be used </Name>
+    <Value>右の値1はストリングとして与えられますので”より大きい/以下”条件が使う出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>LeftValue2is given as string,so Greater than/Less than conditions can't be used </Name>
+    <Value>左の値２はストリングとして与えられますので”より大きい/以下”条件が使う出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RightValue2 is given as string,so Greater than/Less than conditions can't be used </Name>
+    <Value>右の値２はストリングとして与えられますので”より大きい/以下”条件が使う出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Case field cannot be Empty</Name>
+    <Value>ケースフィールドは空にする事は出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Events field cannot be Empty</Name>
+    <Value>イベントフィールドは空にする事は出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Condition Value field cannot be Empty</Name>
+    <Value>条件値フィールドは空にする事は出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Timer Event cannot be Empty</Name>
+    <Value>タイマーイベントは空にする事は出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Timer Id value cannot be empty:</Name>
+    <Value>タイマーIDの値は空にする事は出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Keys cannot be empty</Name>
+    <Value>キーは空にする事は出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Values cannot be empty</Name>
+    <Value>値は空にする事は出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Number1 is not a valid number. Please enter only Numbers</Name>
+    <Value>番号1は有効な番号ではありません。 数字だけを入力して下さい</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Number2 is not a valid number..Please enter only Numbers</Name>
+    <Value>番号２は有効な番号ではありません。 数字だけを入力して下さい</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>All the number fields are empty. At least one input property need to be filled</Name>
+    <Value>全ての番号フィールドは空です。 少なくとも1つの入力プロパティを記入必要があります</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Number1 is not a valid number</Name>
+    <Value>番号1は有効な番号ではありません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Number2 is not a valid number</Name>
+    <Value>番号２は有効な番号ではありません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Numerator property is a mandatory field and can't be empty.</Name>
+    <Value>分子プロパティは必須フィールドです。それは空にする事は出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Denominator property is a mandatory field and can't be empty.</Name>
+    <Value>分母プロパティは必須フィールドです。それは空にする事は出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Host Name is Empty</Name>
+    <Value>ホスト名が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FromId Name is Empty</Name>
+    <Value>送信者ID が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Password is Empty</Name>
+    <Value>パスワードが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Port is Empty</Name>
+    <Value>ポートは空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Html Body File is Empty while HTML body indicator is selected</Name>
+    <Value>HTMLのボディインジケータが選択されている間に、Htmlボディファイルが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Html Body File doesn't exist </Name>
+    <Value>Htmlボディファイルが存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>EmailTo is Empty</Name>
+    <Value>電子メールToは空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Subject is Empty</Name>
+    <Value>件名が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IMAP port is required when reply message id is provided</Name>
+    <Value>IMAPポートは、返信メッセージIDが指定されている場合に必要です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IMAP port has to be a digit</Name>
+    <Value>IMAPポートはディジットでなければなりません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Message is Empty</Name>
+    <Value>メッセージが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>HtmlBody Indicator is Empty</Name>
+    <Value>HTMLのボディインジケータが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CMR output File detail is mandatory and it is empty</Name>
+    <Value>CMR出力ファイルの詳細は必須です。それは空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CMR output File doesn't exist in the given path</Name>
+    <Value>CMR出力ファイルが指定されたパスに存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Sheet Name is Empty</Name>
+    <Value>シート名が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel File detail is mandatory and it is empty</Name>
+    <Value>エクセルファイルの詳細は必須です。それは空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel File doesn't exist in the given path</Name>
+    <Value>エクセルファイルが指定されたパスに存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Folder Name is Empty</Name>
+    <Value>フォルダ名が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Folder Name doesn't exist</Name>
+    <Value>フォルダ名が存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel File Name is Empty</Name>
+    <Value>エクセルファイル名が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ColumnID is Empty. Default is 1</Name>
+    <Value>列IDが空です。 既定は1です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Column Id value has to be digits</Name>
+    <Value>列IDの値はディジットでなければなりません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RowID is Empty. Default is 1</Name>
+    <Value>行IDが空です。 既定は1です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RowID value has to be digits</Name>
+    <Value>行IDの値はディジットでなければなりません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>HasHeader is empty. Default is TRUE</Name>
+    <Value>ヘッダーは空ですか？ デフォルトは真です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Watching Folder is Empty</Name>
+    <Value>見ているフォルダが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Watching Folder doesn't exist</Name>
+    <Value>見ているフォルダが存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Display Message is empty</Name>
+    <Value>表示メッセージが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Caption Message is empty</Name>
+    <Value>キャプションメッセージが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Result Properties is empty</Name>
+    <Value>結果のプロパティは空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Button Option is empty</Name>
+    <Value>ボタンオプションが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Data is Empty</Name>
+    <Value>入力データが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File Path and File name both are Empty</Name>
+    <Value>ファイルパスとファイル名が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File Path doesn't exist</Name>
+    <Value>ファイルパスが存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel Data is Empty</Name>
+    <Value>エクセルデータが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>OverWrite is empty. Default is Yes</Name>
+    <Value>上書きは空です。既定ははいです</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsAppend is empty. Default is No</Name>
+    <Value>追加（アペンド）は空ですか。 既定はいいえです</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Destination Folder Path is Empty</Name>
+    <Value>宛先フォルダのパスが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Destination Folder Path doesn't exist</Name>
+    <Value>宛先フォルダパスが存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File name is Empty</Name>
+    <Value>ファイル名前が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Data field is Empty</Name>
+    <Value>入力データフィールドが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target Folder Path is Empty</Name>
+    <Value>ターゲットフォルダのパスが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target Folder Path doesn't exist</Name>
+    <Value>ターゲットフォルダパスが存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Operation Type is invalid. It should be only Insert/Delete/Select/Update</Name>
+    <Value>オペレーションタイプが無効です。 挿入/削除/選択/更新のみにする必要があります</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Server name is mandatory when Connection string is not provided.</Name>
+    <Value>接続ストリングが指定されていない場合はサーバー名は必須です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DBName name is mandatory when Connection string is not provided.</Name>
+    <Value>接続ストリングが指定されていない場合はデータベース名は必須です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Username is mandatory when Connection string is not provided.</Name>
+    <Value>接続ストリングが指定されていない場合は使用者名前名は必須です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Password is mandatory when Connection string is not provided.</Name>
+    <Value>接続ストリングが指定されていない場合はパスワードは必須です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Table name is mandatory when Query is not provided.</Name>
+    <Value>問いが提供されていない場合はテーブル名は必須です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Columns name is mandatory when Query is not provided.</Name>
+    <Value>問いが提供されていない場合は列名は必須です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Values is mandatory when Query is not provided.</Name>
+    <Value>問いが提供されていない場合は値は必須です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Access File Type field is mandatory when MS ACCESS table is selected</Name>
+    <Value>MS アクセステーブルが選択された時にアクセスタイプフィールドは必須です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Access File field is mandatory when MS ACCESS table is selected</Name>
+    <Value>MS アクセステーブルが選択された時にアクセスファイルフィールドは必須です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Source File detail is mandatory</Name>
+    <Value>ソースファイルの詳細は必須です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Source File doesn't exist in the given path</Name>
+    <Value>ソースファイルが指定されたパスに存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Destination Path is not provided</Name>
+    <Value>宛先パスが指定されていません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process name to watch is Empty</Name>
+    <Value>見ているプロセス名は空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Regexstring field is Empty</Name>
+    <Value>正規表現ストリングのフィールドが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Matchstring field is Empty</Name>
+    <Value>一致ストリングフィールドが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SearchKeyword field is Empty</Name>
+    <Value>検索キーワードフィールドが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SearchContent field is Empty</Name>
+    <Value>検索内容フィールドが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Case Senstive field is Empty</Name>
+    <Value>大文字小文字の区別フィールドが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Word Match field is Empty</Name>
+    <Value>単語一致フィールドが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>All the number fields are empty. Both the input properties are to be filled</Name>
+    <Value>全ての番号フィールドは空です。2つの入力プロパティを入力する必要があります</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Database Type is empty. It should be any of these (MySQL / MS Access / MS SQL / Oracle)</Name>
+    <Value>データベースタイプは空です。 それはこれらのいずれかでなければなりません（MySQL / MS Access / MS SQL / Oracle）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Database Type is invalid. It should be any of these (MySQL / MS Access / MS SQL / Oracle)</Name>
+    <Value>データベースの種類が無効です。 それはこれらのいずれかでなければなりません（MySQL / MS Access / MS SQL / Oracle）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Table name is mandatory</Name>
+    <Value>テーブル名は必須です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>String1 field is Empty</Name>
+    <Value>ストリング1フィールドが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DBName is Empty</Name>
+    <Value>データベース名が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>String2 field is Empty</Name>
+    <Value>ストリング2フィールドが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>String3 field is Empty</Name>
+    <Value>ストリング3フィールドが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>String4 field is Empty</Name>
+    <Value>ストリング4フィールドが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input String field is Empty</Name>
+    <Value>入力ストリングフィールドが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>String Operator field is Empty</Name>
+    <Value>文字列演算子フィールドが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Parameter String cannot be empty for IndexOf operator</Name>
+    <Value>インデックス演算子のパラメータストリングが空にする事は出来ません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Parameter String cannot be empty for Replace operator</Name>
+    <Value>取り替える演算子のパラメータストリングが空にする事は出来ません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Invalid String Operator</Name>
+    <Value>無効なストリング演算子</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel Filename has invalid extenstion</Name>
+    <Value>エクセルファイル名は無効拡張子を持つ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Host URL is Empty</Name>
+    <Value>ホストURLが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>API URL is Empty</Name>
+    <Value>API URLが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Code Filename is empty</Name>
+    <Value>コードファイル名が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Code Filename doesn't exist in the given path</Name>
+    <Value>コードファイル名が指定されたパスに存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel Filename is Empty</Name>
+    <Value>エクセルファイル名が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel Filename doesn't exist in the given path</Name>
+    <Value>エクセルファイル名が指定されたパスに存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SheetName is mandatory when Excel file name is given</Name>
+    <Value>エクセルファイル名が指定されている場合はシート名は必須です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Delimiter field is Empty</Name>
+    <Value>デリミタフィールドが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>TextData field is Empty</Name>
+    <Value>テキストデータのフィールドが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Destination Path is Empty</Name>
+    <Value>宛先パスが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Destination Path doesn't exist</Name>
+    <Value>宛先パスが存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input file doesn't exist</Name>
+    <Value>入力ファイルが存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Operation is Empty</Name>
+    <Value>オペレーションが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New name field is mandatory when RENAME is requested</Name>
+    <Value>リネームが要求された場合は新しい名前フィールドが必須です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New name field is Empty</Name>
+    <Value>新しい名前フィールドが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Overwrite option is empty.</Name>
+    <Value>上書きオプションが空です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input File name is mandatory and it is Empty</Name>
+    <Value>入力ファイル名は必須です。それは空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Search Text is Empty</Name>
+    <Value>検索テキストが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Both Column IDs and Header Data cannot be Empty.</Name>
+    <Value>列IDとヘッダーデータの両方を空にする事は出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Exact/Contains field is empty. Default is CONTAINS</Name>
+    <Value>正確/含むフィールドが空です。既定は含むです</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Folder Path and File name both are Empty</Name>
+    <Value>フォルダパスとファイル名の両方が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Folder Path doesn't exist</Name>
+    <Value>フォルダパスが存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FolderName is Empty</Name>
+    <Value>フォルダ名が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FolderName doesn't exist</Name>
+    <Value>フォルダ名が存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>MacroName is Empty</Name>
+    <Value>マクロ名が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ShowExcel is empty. Default is No</Name>
+    <Value>ショーエクセルが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CSV File Name is Empty</Name>
+    <Value>CSVファイル名が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>This is not a CSV file</Name>
+    <Value>これはCSVファイルではありません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Reference Date should be either Today or any dd-MM-yyyy</Name>
+    <Value>参照日付は、今日またはどれかの日-月-年でなければなりません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Command should not be empty</Name>
+    <Value>コマンドは空であってはいけません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Invalid Working directory</Name>
+    <Value>無効な作業ディレクトリ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Time should be greater than current time</Name>
+    <Value>時間は現在の時間より大きくなければなりません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Only functionbox events are allowed in TimerEvent....</Name>
+    <Value>タイマーイベントでは、ファンクションボックスイベントのみが許可されます</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Only Integer values allowed in Interval Property...</Name>
+    <Value>インターバルプロパティでは、整数値のみ許可されます</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Invalid Time Format in Timer Field...</Name>
+    <Value>タイマーフィールドで無効な時間形式</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Interval field cannot be empty...</Name>
+    <Value>合間フィールドは空にする事は出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Timer Event cannot be empty...</Name>
+    <Value>タイマーイベントは空にする事は出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>XML string &amp; fiename both cannot be empty</Name>
+    <Value>XMLストリングとファイル名の両方を空にする事は出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Invalid XML input</Name>
+    <Value>XML入力が無効です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>XML File not found</Name>
+    <Value>XMLファイルが見つかりません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Invalid XML file</Name>
+    <Value>XMLファイルが無効です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>XML Node cannot be empty</Name>
+    <Value>XMLノードを空にする事は出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>HTML string &amp; fiename both cannot be empty</Name>
+    <Value>HTMLストリングとファイル名の両方が空にする事は出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>HTML File not found</Name>
+    <Value>HTMLファイルが見つかりません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Filler data cannot be empty</Name>
+    <Value>フィラーデータは空ではありません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>`Target filename cannot be empty</Name>
+    <Value>ターゲットファイル名は空ではありません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target File not found</Name>
+    <Value>ターゲットファイルが見つかりません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Username is Empty</Name>
+    <Value>使用者名前が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>From Mobile field is Empty</Name>
+    <Value>送信者の電話フィールドは空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>From Mobile number is invalid</Name>
+    <Value>送信者の電話番号は空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>To Mobile field is Empty</Name>
+    <Value>受信者の電話フィールドが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>To Mobile number is invalid</Name>
+    <Value>受信者の電話番号が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Warning</Name>
+    <Value>警告</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Exception</Name>
+    <Value>例外</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error</Name>
+    <Value>エラー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>None of the events are provided. It is mandatory to have at least one event to be selected. (False Event / True Event)</Name>
+    <Value>イベントは提供されません。少なくとも1つのイベントを選択することは必須です。(偽イベント/真のイベント)</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>None of the events are provided. It is mandatory to have at least one event to be selected. (Process Start Event / Stop Event)</Name>
+    <Value>イベントは提供されません。少なくとも1つのイベントを選択することは必須です。(プロセス開始イベント/停止イベント)</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Expression 1 value is invalid. It has to be any of these ( ==  Or !=  Or &lt;= Or &gt;= Or &lt; Or &gt; )</Name>
+    <Value>式1の値が無効です。それはこれらのいずれかでなければなりません（== Or！= Or &lt;= Or&gt; = Or &lt;Or&gt;）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Expression 2 value is invalid. It has to be any of these ( ==  Or !=  Or &lt;= Or &gt;= Or &lt; Or &gt; )</Name>
+    <Value>式2の値が無効です。それはこれらのいずれかでなければなりません（== Or！= Or &lt;= Or&gt; = Or &lt;Or&gt;）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Multiple Expression value is invalid. It has to be any of these ( ==  Or !=  Or &lt;= Or &gt;= Or &lt; Or &gt; )</Name>
+    <Value>複数の式の値が無効です。それはこれらのいずれかでなければなりません（== Or！= Or &lt;= Or&gt; = Or &lt;Or&gt;）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Same FunctionBox name is selected in both events</Name>
+    <Value>両方のイベントで同じ関数ボックス名が選択されている</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>LeftValue2 as string cannot be compared using &lt; or &gt;</Name>
+    <Value>&lt;または&gt;を使用して文字列としての左の値2を比較することはできません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RightValue2 as string cannot be compared using &lt; or &gt;</Name>
+    <Value>文字列としての正しい値2は、&lt;または&gt;を使用して比較することはできません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>LeftValue1 as string cannot be compared using &lt; or &gt;</Name>
+    <Value>&lt;または&gt;を使用して文字列としての左の値1を比較することはできません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RightValue1 as string cannot be compared using &lt; or &gt;</Name>
+    <Value>文字列としての正しい値1は、&lt;または&gt;を使用して比較することはできません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Please set the values for all fields in condition 2</Name>
+    <Value>条件2のすべてのフィールドの値を設定してください</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Mandatory to give both Conditions when Multiple Expression is used</Name>
+    <Value>複数表現を使用する場合に両方の条件を指定することは必須です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New Email ArrivedEvent is Empty</Name>
+    <Value>新しいメールの到着予定が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsDownload Indicator field is invalid. It should be any of these (YES / NO)</Name>
+    <Value>ダウンロードインジケータフィールドが無効です。 それはこれらのいずれかでなければなりません（はい/いいえ）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Invaild Filter Field (Subject/Body/FromID)</Name>
+    <Value>無効なフィルタフィールド（件名/本文/ IDから）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Read Unseen mail Indicator field is invalid. It should be any of these (TRUE / FALSE )</Name>
+    <Value>未読メールのインジケータフィールドは無効です。 それはこれらのいずれかである必要があります（真/偽）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>does not exist.</Name>
+    <Value>存在しない。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Single '&amp;' is not a valid logical operator, use &amp;&amp;</Name>
+    <Value>単一の '＆'は有効な論理演算子ではありません。&amp;&amp;</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Single 'PIPE' is not a valid logical operator, use double PIPE</Name>
+    <Value>シングル'パイプ'は有効な論理演算子ではありません。ダブルパイプ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Object reference not set to an instance of an object.</Name>
+    <Value>オブジェクト参照がオブジェクトインスタンスに設定されていません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Source Path is Empty</Name>
+    <Value>ソースパスが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Operation mode is empty.It should be any of these(Create/Move/Copy/Delete/Rename)</Name>
+    <Value>操作モードは空です。これらのいずれか（作成/移動/コピー/削除/名前変更）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>None of the file events are provided. It is mandatory to have at least one event to be selected.(File Added/Deleted/Renamed)</Name>
+    <Value>いずれのファイルイベントも提供されていません。 少なくとも1つのイベントを選択することが必須です。 （ファイルの追加/削除/名前の変更）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Operation Type is empty. It should be any of these (Insert/Delete/Select/Update)</Name>
+    <Value>操作タイプが空です。 これは、これらのいずれかでなければなりません（挿入/削除/選択/更新）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Database Type is invalid. It should be MS SQL only</Name>
+    <Value>データベースの種類が無効です。 それはMS SQLのみでなければなりません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Database Type is empty. It should be MS SQL only</Name>
+    <Value>データベースタイプは空です。 それはMS SQLのみでなければなりません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Extension is empty. It should be any of these (DOC / DOCX)</Name>
+    <Value>内線番号は空です。 それはこれらのいずれかでなければなりません（DOC / DOCX）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Extension is invalid. It should be any of these (DOC / DOCX)</Name>
+    <Value>拡張子が無効です。 それはこれらのいずれかでなければなりません（DOC / DOCX）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Source File extenstion has to be one of these (.XLS, .XLSX, .PDF or .TXT)</Name>
+    <Value>ソースファイルの展開は、これらのファイル（.XLS、.XLSX、.PDF、または.TXT）のいずれかでなければなりません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Type is invalid. It should be any of these (TEXT / HTML)</Name>
+    <Value>入力タイプが無効です。 それはこれらのいずれかでなければなりません（TEXT / HTML）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Type is empty. It should be any of these (TEXT / HTML)</Name>
+    <Value>入力タイプが空です。 それはこれらのいずれかでなければなりません（TEXT / HTML）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Excel File doesn't exist.</Name>
+    <Value>入力Excelファイルが存在しません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Excel File is not TXT file type.</Name>
+    <Value>入力ExcelファイルはTXTファイルタイプではありません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>PDF file name is empty.</Name>
+    <Value>PDFファイル名が空です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output path does not exist.</Name>
+    <Value>出力パスが存在しません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Invalid Input Format !</Name>
+    <Value>入力フォーマットが無効です！</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File May Not Exist or Wrong File Format Supplied !</Name>
+    <Value>ファイルが存在しないか、または間違ったファイル形式が提供される可能性があります。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Excel Filename is empty.</Name>
+    <Value>入力Excelファイル名が空です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Excel File is neither XLS nor XLSX.</Name>
+    <Value>入力ExcelファイルはXLSでもXLSXでもありません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Unable to open the DB.</Name>
+    <Value>DBを開くことができません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Write Mode is invalid. It should be any of these (AP / OW)</Name>
+    <Value>書き込みモードが無効です。 それはこれらのどれかでなければなりません（AP / OW）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Write Mode is empty. It should be any of these (AP / OW)</Name>
+    <Value>書き込みモードは空です。 それはこれらのどれかでなければなりません（AP / OW）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Unable to create message object.</Name>
+    <Value>メッセージオブジェクトを作成できません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Unable to connect to mail server.</Name>
+    <Value>メールサーバーに接続できません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>HtmlBody Indicator field is invalid. It should be any of these (TRUE / FALSE)</Name>
+    <Value>HtmlBodyインジケータフィールドが無効です。 それはこれらのいずれかである必要があります（真/偽）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>No Account with SmtpAddress: {0} exists!</Name>
+    <Value>Smtpアドレスを持つアカウントがありません：{0}が存在します！</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Unable to connect to Outlook server.</Name>
+    <Value>見通しサーバーに接続できません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Unable to open the mail box.</Name>
+    <Value>メールボックスを開くことができません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Invaild mail object.</Name>
+    <Value>メールオブジェクトが無効です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>HasHeader value is invalid. It should be any of these (TRUE / FALSE)</Name>
+    <Value>ヘッダー値が無効です。 それはこれらのいずれかである必要があります（真/偽）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsAppend value is invalid. It should be any of these (Yes / No)</Name>
+    <Value>追加する値が無効です。 これらのいずれかにする必要があります（はい/いいえ）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>OverWrite value is invalid. It should be any of these (Yes / No)</Name>
+    <Value>上書き値が無効です。 これらのいずれかにする必要があります（はい/いいえ）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RowID is Empty.</Name>
+    <Value>行IDが空です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ColumnID is Empty.</Name>
+    <Value>列IDが空です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Excel Filename is empty during Initiation.</Name>
+    <Value>入力Excelファイル名は開始時には空です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Excel XLSX Filename is empty.</Name>
+    <Value>入力Excel XLSXファイル名が空です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Unable to read the Input Excel File.</Name>
+    <Value>入力Excelファイルを読み取ることができません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Excel Filename XLS is empty.</Name>
+    <Value>入力Excelファイル名XLSは空です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Unable to read the Input Excel XLS File</Name>
+    <Value>入力Excel XLSファイルを読み取ることができません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ShowExcel value is invalid. It should be any of these (Yes / No) or a component Property</Name>
+    <Value>Excelの値を表示するが無効です。 これらのいずれか（はい/いいえ）またはコンポーネントプロパティ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Unable to read the Input Excel File workbook.</Name>
+    <Value>入力Excelファイルブックを読み取ることができません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Unable to read the Input Excel File Object.</Name>
+    <Value>入力Excelファイルオブジェクトを読み取ることができません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CMR output File extenstion has to be one of these (.XLS, .XLSX)</Name>
+    <Value>CMR出力ファイル拡張子は、これらのいずれかでなければなりません（.XLS、.XLSX）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input CMR Connector Extraction Filename is empty.</Name>
+    <Value>入力CMRコネクタ抽出ファイル名が空です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input CMR Connector Extraction File is nether XLS nor XLSX.</Name>
+    <Value>入力CMRコネクタ抽出ファイルはXLSでもXLSXでもありません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input CMR Connector Extraction Filename doesn't exist.</Name>
+    <Value>入力CMRコネクタ抽出ファイル名が存在しません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Unable to read the input CMR Connector Extraction File.</Name>
+    <Value>入力CMRコネクタ抽出ファイルを読み取ることができません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Unable to read the input CMR Connector Extraction File / Sheet.</Name>
+    <Value>入力CMRコネクタ抽出ファイル/シートを読み取ることができません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel File extenstion has to be one of these (.XLS, .XLSX)</Name>
+    <Value>Excelのファイル拡張子は、これらのファイル（.XLS、.XLSX）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>During Initiation - Input Excel Filename doesn't exist .</Name>
+    <Value>開始時 - 入力Excelファイル名が存在しません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>During Initiation - Input Excel File extension is neither XLS not XLSX</Name>
+    <Value>起動中 - 入力Excelファイルの拡張子がXLSではないXLS</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Sheet Name Error in the Input Excel File in Reading Excel Sheet.</Name>
+    <Value>Excelシートを読み込む際の入力Excelファイルのシート名エラー。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Excel File XLS does not exist or File name is empty.</Name>
+    <Value>入力ExcelファイルXLSが存在しないか、ファイル名が空です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Unable to read Input Excel (XLS) File.</Name>
+    <Value>入力Excel（XLS）ファイルを読み取ることができません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>This is not a valid excel file.</Name>
+    <Value>これは有効なExcelファイルではありません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Invalid Excel sheet.</Name>
+    <Value>Excelシートが無効です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Unable to read the sheet.</Name>
+    <Value>シートを読み取ることができません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Column ID should be a non-negative integer</Name>
+    <Value>列IDは負でない整数でなければなりません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Invalid Sheet ID</Name>
+    <Value>シートIDが無効です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Please input either Sheet Name or Sheet ID</Name>
+    <Value>シート名またはシートIDを入力してください</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Please Select Any one Sheet Name or Sheet ID</Name>
+    <Value>任意のシート名またはシートIDを選択してください</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel File doesn't exist</Name>
+    <Value>Excelファイルが存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>This is not an excel file.</Name>
+    <Value>これはExcelファイルではありません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Unable to read the Input Excel XLS File.</Name>
+    <Value>入力Excel XLSファイルを読み取ることができません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Sheet Name Error in the Input Excel File.</Name>
+    <Value>入力Excelファイルのシート名エラー。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Exact/Contains field is invalid. It should be any of these (EXACT / CONTAINS)</Name>
+    <Value>正確/包含フィールドが無効です。 それはこれらのいずれかでなければなりません（正確/含有）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Invalid Case Senstive data (Yes/No/True/False)</Name>
+    <Value>無効な大文字と小文字を区別するデータ（はい/いいえ/真/偽）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Invalid Word Match data (Yes/No/True/False)</Name>
+    <Value>無効な単語一致データ（はい/いいえ/真/偽）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Overwrite option field is invalid. It should be any of these (YES / NO)</Name>
+    <Value>上書きオプションフィールドが無効です。 それはこれらのいずれかでなければなりません（はい/いいえ）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Operation mode is invalid. It should be any of these (Move/Copy/Delete/Rename)</Name>
+    <Value>操作モードが無効です。 これは、これらのいずれかである必要があります（移動/コピー/削除/名前変更）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Operation mode is empty. It should be any of these (Move/Copy/Delete/Rename)</Name>
+    <Value>操作モードが空です。 これは、これらのいずれかである必要があります（移動/コピー/削除/名前変更）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>During RENAME/DELETE operation target folder name  is not consider</Name>
+    <Value>名前の変更中/削除操作の対象フォルダ名は考慮されていません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Filename is empty.</Name>
+    <Value>ファイル名は空です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New name is empty.</Name>
+    <Value>新しい名前は空です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Destination path does not exist.</Name>
+    <Value>宛先パスが存在しません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Please Leave blank in NewName.</Name>
+    <Value>新しい名前で空白のままにしてください。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>NewFolder name is already Exist in Source folder.</Name>
+    <Value>新しいフォルダ名は既にソースフォルダに存在します。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Operation mode is invalid. It should be any of these (Create/Move/Copy/Delete/Rename)</Name>
+    <Value>操作モードが無効です。 それはこれらのいずれかでなければなりません（作成/移動/コピー/削除/名前変更）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Operation mode is empty. It should be any of these (Create/Move/Copy/Delete/Rename)</Name>
+    <Value>操作モードが空です。 それはこれらのいずれかでなければなりません（作成/移動/コピー/削除/名前変更）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Source Path doesn't exist</Name>
+    <Value>ソースパスが存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>During RENAME/CREATE/DELETE operation target folder name  is not consider</Name>
+    <Value>名前変更/作成/削除中に操作対象フォルダ名が考慮されていない</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Invalid value in Run As Admin </Name>
+    <Value>実行管理者の値が無効です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Command is empty</Name>
+    <Value>コマンドが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process name is empty.</Name>
+    <Value>プロセス名が空です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Empty input.</Name>
+    <Value>空の入力。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Invalid Json string.</Name>
+    <Value>無効なJson文字列です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Invalid xml data.</Name>
+    <Value>XMLデータが無効です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Node name is empty.</Name>
+    <Value>ノード名は空です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Key is null or empty</Name>
+    <Value>キーがヌルまたは空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Key size is not valid</Name>
+    <Value>鍵のサイズが無効です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Data are empty</Name>
+    <Value>データが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>The CSV File is Invalid. See Inner Exception for more inoformation.</Name>
+    <Value>CSVファイルが無効です。 詳細については、内部例外を参照してください。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error: Empty line at line number: {0}</Name>
+    <Value>エラー：行番号の空の行：{0}</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Stream did not contain properly formatted byte array</Name>
+    <Value>ストリームに正しくフォーマットされたバイト配列が含まれていない</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Did not read byte array properly</Name>
+    <Value>バイト配列を正しく読み取れませんでした</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Unknown exception occured!</Name>
+    <Value>不明な例外が発生しました！</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>An attempt was made to use a name that does not exist in the class, namespace, or scope. Check the spelling of the name and check your using statements and assembly references to make sure that the name you are trying to use is available. </Name>
+    <Value>クラス、ネームスペース、またはスコープに存在しない名前を使用しようとしました。 名前のつづりを確認し、使うステートメントとアセンブリ参照を調べて、使用しようとしている名前が使用可能であることを確認してください。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Destination Path is Empty</Name>
+    <Value>送り先パスは空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Destination Path doesn't exist</Name>
+    <Value>送り先パスは存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File name is Empty</Name>
+    <Value>ファイル名が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input file doesn't exist</Name>
+    <Value>入力ファイルが 存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Convert option field is invalid. It should be any of these (YES / NO)</Name>
+    <Value>変換オプションフィールドが無効です。これの一つになります（はい / いいえ）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Convert option is empty.</Name>
+    <Value>変換オプションが空です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Enter the Compression Value</Name>
+    <Value>圧縮値を入力します</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Enter the Percent Value</Name>
+    <Value>パーセント値を入力する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Enter the Image Type</Name>
+    <Value>イメージタイプを入力する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Source Path is Empty</Name>
+    <Value>ソースパスが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Enter the Password</Name>
+    <Value>パスワードを入力します</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Password must be of minimum 4 characters</Name>
+    <Value>パスワードは4文字以上でなければなりません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Password must be of maximum 8 characters</Name>
+    <Value>パスワードは最大8文字でなければなりません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Overwrite option is empty.</Name>
+    <Value>上書きオプションが空です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>InlineScript or SriptFile  property need to be filled</Name>
+    <Value>インラインスクリプトまたはスクリプトファイルプロパティーを入力する必要があります</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SriptFile to be choose</Name>
+    <Value>スクリプトファイルを選択する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Sript Name to be choose</Name>
+    <Value>スクリプト名を選択する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Request ID is Empty</Name>
+    <Value>リクエストIDが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>The responce String is Empty</Name>
+    <Value>応答ストリングが空くです</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Url is Empty</Name>
+    <Value>Url が空くです</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>None of the file events are provided. It is mandatory to have at least one event to be selected. (Url's ArrivedEvent)</Name>
+    <Value>ファイルイベントは提供されません。少なくとも1つのイベントを選択する必要があります</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Host URL is Empty</Name>
+    <Value>ホストURLが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Collection Name cant be Empty</Name>
+    <Value>コレクション名は空にできません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Invalid Input Data Table</Name>
+    <Value>無効な入力データテーブル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Search Header is Empty</Name>
+    <Value>検索ヘッダーが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Search Text is Empty.</Name>
+    <Value>検索テキストが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Invalid Row ID</Name>
+    <Value>行IDは無効です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Sorting order is empty. Default is Ascending.</Name>
+    <Value>ソート順は空です。 既定は昇順です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Exact/Contains field is invalid. It should be any of these (EXACT / CONTAINS)</Name>
+    <Value>正確/ 含むフィールドは無効です。これの一つになります（正解/ 含む）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input DataTable is null</Name>
+    <Value>入力データ表がヌルです</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input DataTable is empty</Name>
+    <Value>入力データ表が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Folder doesn't exist</Name>
+    <Value>フォルダが存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File doesn't exist</Name>
+    <Value>ファイルが存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Idle Time is Empty</Name>
+    <Value>アイドル時間は空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Idle Time should be a positive interger</Name>
+    <Value>アイドル時間はポジティブ整数でなければなりません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Threshold Time is Empty</Name>
+    <Value>スレシュホールド時間は空くです</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Threshold Time should be a positive interger</Name>
+    <Value>スレシュホールド時間はポジティブ整数でなければなりません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>This is not a CSV file</Name>
+    <Value>これは CSV ファイルないです</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ColumnID is Empty. Default is 1</Name>
+    <Value>列IDが空です。既定は1</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Column Id value has to be digits</Name>
+    <Value>列ID値は数字でなければなりません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RowID is Empty. Default is 1</Name>
+    <Value>行IDが空です。既定は1</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RowID value has to be digits</Name>
+    <Value>行ID値は数字でなければなりません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>HasHeader is empty. Default is TRUE</Name>
+    <Value>ヘッダーが空です。既定は真です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>HasHeader value is invalid. It should be any of these (TRUE / FALSE)</Name>
+    <Value>ヘッダーの値が無効です。これの一つになります（真 / 為）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Folder name is empty.</Name>
+    <Value>フォルダ名が空です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Excel XLSX Filename is empty.</Name>
+    <Value>入力エクセル XLSXファイル名が空くです</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Unable to create the output Excel File.</Name>
+    <Value>出力エクセルファイルを作成できません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Unable to create the Excel Sheet</Name>
+    <Value>エクセルシートを作成出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Unable to create the output Excel File . </Name>
+    <Value>出力エクセルファイルを作成出来ません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Invalid input CSV file</Name>
+    <Value>無効な入力CSVファイルです</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel File name is Empty</Name>
+    <Value>エクセルファイル名が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel File Path is Empty</Name>
+    <Value>エクセルファイルパスが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel File Path doesn't exist</Name>
+    <Value>エクセルファイルパスが存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CSV File name is Empty</Name>
+    <Value>CSVファイル名が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel Sheet name is Empty</Name>
+    <Value>エクセルシート名が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>OverWrite is empty. Default is Yes</Name>
+    <Value>上書きが空くです。既定は”はい”です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>OverWrite value is invalid. It should be any of these (Yes / No)</Name>
+    <Value>上書きの値が無効です。これの一つになります（はい/ いいえ）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsAppend is empty. Default is No</Name>
+    <Value>追加が空くですか。既定はいいえです。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsAppend value is invalid. It should be any of these (Yes / No)</Name>
+    <Value>追加の値が無効です。これの一つになります（はい / いいえ）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>XML string &amp; filename both cannot be empty</Name>
+    <Value>XML文字列とファイル名の両方を空にすることはできません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>XML Node cannot be empty</Name>
+    <Value>XMLノードは空にできません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>XML File not found</Name>
+    <Value>XMLファイルが見つかりません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>JSon input cannot be empty</Name>
+    <Value>JSon入力は空にできません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RowIdentifier is empty. Data will be written in single row</Name>
+    <Value>行識別子が空です。 データは単一行で書き込まれます</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>HTML string &amp; filename both cannot be empty</Name>
+    <Value>HTML文字列とファイル名の両方を空にすることはできません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Source File Name is Empty </Name>
+    <Value>ソースファイル名が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Source folder does not exists</Name>
+    <Value>ソースフォルダが存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Source File doesn't exist</Name>
+    <Value>ソースファイルが存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target folder is empty</Name>
+    <Value>ターゲットフォルダが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Events should end with pipe symbol</Name>
+    <Value>イベントはパイプ記号で終わります</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Function Box doesnot exists...</Name>
+    <Value>機能ボックスが存在しません...</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Function Box doesnot exists...</Name>
+    <Value>機能ボックスが存在しません...</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Case cannot be empty</Name>
+    <Value>ケースは空にできません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Events cannot be empty</Name>
+    <Value>イベントは空にできません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Condition value cannot be empty</Name>
+    <Value>条件値は空にできません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Custom condition is empty</Name>
+    <Value>カスタム条件が空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>At least one condition is required</Name>
+    <Value>少なくとも1つの条件が必要です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Either Expression or Customer Expression has to be entered..</Name>
+    <Value>式または顧客式のいずれかを入力する必要があります。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Left Value is Empty or invalid</Name>
+    <Value>左の値が空または無効です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Right Value is Empty or invalid</Name>
+    <Value>正しい値が空または無効です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Queue ID is empty</Name>
+    <Value>キューIDが空です</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Security Token is Empty</Name>
+    <Value>セキュリティトークンが空です</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Status should be Invalid/Success</Name>
+    <Value>ステータスは無効/成功です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Code Block Event field is empty</Name>
+    <Value>コードブロックイベントフィールドが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Select at least one event (True/False)</Name>
+    <Value>少なくとも1つのイベントを選択してください（本当 / 偽）</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Receiving mail ID is Empty</Name>
+    <Value>受信メールIDが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Email ID field is Empty</Name>
+    <Value>EメールIDフィールドが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Both Column IDs and Header Data are Empty.</Name>
+    <Value>列IDとヘッダーデータの両方が空です。</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Regex Pattern field is Empty</Name>
+    <Value>正規表現パターン]フィールドが空です</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Input Text field is Empty</Name>
+    <Value>入力テキストフィールドが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Text Values field is Empty</Name>
+    <Value>「テキスト値」フィールドが空です</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>File does not exists...</Name>
+    <Value>ファイルが存在しません...</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CSV file does not exist</Name>
+    <Value>CSVファイルが存在しません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel File does not exist.</Name>
+    <Value>Excelファイルが存在しません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Excel File does not exist.</Name>
+    <Value>入力Excelファイルが存在しません。</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Sending mail ID is Empty</Name>
+    <Value>送信メールIDが空です</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Attachment File is not exist</Name>
+    <Value>添付ファイルが存在しません</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Mandatory to give multiple condition when both expressions are given</Name>
+    <Value>両方の式が与えられたときに複数の条件を与えるために必須</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Safe Handle cannot by Empty</Name>
+    <Value>安全なハンドルは空にできません</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Handle Event cannot by Empty</Name>
+    <Value>ハンドルイベントは空にできません</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Event and Interval property is mandatory.</Name>
+    <Value>イベントと間隔のプロパティは必須です</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Canvas Name cannot be empty;</Name>
+    <Value>ャンバス名は空にできません</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>XML string and filename both cannot be empty</Name>
+    <Value>XML文字列とファイル名の両方を空にすることはできません</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>XML string and filename both cannot be empty</Name>
+    <Value>XML文字列とファイル名の両方を空にすることはできません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>XML Node is empty</Name>
+    <Value>XMLノードが空です</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Inline Script or Script File  property need to be filled</Name>
+    <Value>インラインスクリプトまたはスクリプトファイルプロパティを設定する必要があります</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>User Name or Name Key is Empty</Name>
+    <Value>ユーザー名または名前キーが空です</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>From Mobile field /key is Empty</Name>
+    <Value>携帯からフィールド/キーが空です</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>To Mobile field / Key is Empty</Name>
+    <Value>モバイルフィールドへ/キーが空です</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Message / Key is Empty</Name>
+    <Value>メッセージ/キーが空です</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Collection name cannot be empty</Name>
+    <Value>コレクション名は空にできません</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Illegal case value.. Please Enter the switch data according to Case Values.</Name>
+    <Value>ケース値が正しくありません。ケース値に従ってスイッチデータを入力してください。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>UserId  property is mandatory.</Name>
+    <Value>ユーザーIDプロパティは必須です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Password  property is mandatory.</Name>
+    <Value>パスワードプロパティは必須です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>UserName property is mandatory.</Name>
+    <Value>ユーザー名プロパティは必須です。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Enter any one operation of Zip/UnZip Destination Path</Name>
+    <Value>Zip/UnZip宛先パスのいずれかの操作を入力</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Enter any one operation of Zip/UnZip Source Path</Name>
+    <Value>Zip/UnZipソースパスのいずれかの操作を入力してください</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target Path is Empty</Name>
+    <Value>ターゲットパスが空です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Cases/Function Box mapping mismatch.. Please provide in correct format..</Name>
+    <Value>ケース/ファンクションボックスのマッピングが一致しません。正しい形式で入力してください</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel sheet name doesn't exists.</Name>
+    <Value>Excelシート名が存在しません.</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Same function Box is used for different events(File Added/Deleted/Renamed)</Name>
+    <Value>同じ機能ボックスが異なるイベントに使用される（ファイル追加/削除/名前変更）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Database name is mandatory when Connection string is not provided.</Name>
+    <Value>接続文字列が指定されていない場合、データベース名は必須です。</Value>
+  </LanguageTable>
+</DocumentElement>

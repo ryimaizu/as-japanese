@@ -1,0 +1,3650 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <LanguageTable>
+    <Name>Reimagine</Name>
+    <Value>再想像</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Rethink</Name>
+    <Value>再考</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Recreate</Name>
+    <Value>再作成</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ANTstein</Name>
+    <Value>ANTstein</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Antworks</Name>
+    <Value>Antworks</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Triangle</Name>
+    <Value>トライアングル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>I am</Name>
+    <Value>わたしは</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Let's go</Name>
+    <Value>行きましょ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Login </Name>
+    <Value>ログイン</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File</Name>
+    <Value>ファイル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>View</Name>
+    <Value>ビュー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Tools</Name>
+    <Value>ツール</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Settings</Name>
+    <Value>設定</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>canvas menu</Name>
+    <Value>キャンバスメニュー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Frequently used</Name>
+    <Value>よく使う</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Arithmetic</Name>
+    <Value>四則演算</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Cognitive machine reading</Name>
+    <Value>コグニティブ機械読書</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Conditional (decision)</Name>
+    <Value>状態による（決定）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Database</Name>
+    <Value>データベース</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Display</Name>
+    <Value>表示</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Field analyzer</Name>
+    <Value>フィールドアナライザ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File system</Name>
+    <Value>ファイルシステム</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>frame work</Name>
+    <Value>フレームワーク</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Linking </Name>
+    <Value>連係</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>parser</Name>
+    <Value>パーザー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Runner</Name>
+    <Value>ランナー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SMS</Name>
+    <Value>SMS（伝言）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Webcomponent</Name>
+    <Value>ウェブコンポーネント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Welcome:</Name>
+    <Value>ようこそ：</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Spark44 newest</Name>
+    <Value>最新のスパーク44</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Spark</Name>
+    <Value>スパーク</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Folder watcher</Name>
+    <Value>フォルダ監視</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Rename</Name>
+    <Value>リネーム</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Newname</Name>
+    <Value>新しい名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Name type</Name>
+    <Value>名前のタイプ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Select</Name>
+    <Value>選択</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Variables</Name>
+    <Value>変数</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Solution explorer</Name>
+    <Value>ソリューションエクスプローラ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Properties</Name>
+    <Value>プロパティ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>About</Name>
+    <Value>アバウト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Queen BOT orchestrator</Name>
+    <Value>Queen BOT　オーケストレーター</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Triangale</Name>
+    <Value>トライアングル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>License information</Name>
+    <Value>ライセンス情報</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Version</Name>
+    <Value>バージョン</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Bot builder</Name>
+    <Value>ボットビルダー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ANT bot</Name>
+    <Value>ANT bot</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Activated on</Name>
+    <Value>アクティブ化の日時</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Expires on</Name>
+    <Value>期限の日時</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Expired</Name>
+    <Value>期限切れ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Return to landing page</Name>
+    <Value>ログインページの前のページに戻る</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Functionbox</Name>
+    <Value>ファンクションボックス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel reader</Name>
+    <Value>エクセル読み込み</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Text Classifier</Name>
+    <Value>テキスト分類子</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Console display</Name>
+    <Value>コンソール表示</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>String merger</Name>
+    <Value>文字列の結合</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Web runner</Name>
+    <Value>ウェブランナー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Orchestrator</Name>
+    <Value>オーケストレーター</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Active ANTbots</Name>
+    <Value>活動的なアントボット</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Activated at</Name>
+    <Value>活性化の日時</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Antbot status</Name>
+    <Value>Antbotの状態</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FTP server status</Name>
+    <Value>FTPサーバーの状態</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Tool box</Name>
+    <Value>ツールボックス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Deployed machines</Name>
+    <Value>デプロイされたマシン</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process ID</Name>
+    <Value>プロセスID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Emails</Name>
+    <Value>電子メール</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>send crash report</Name>
+    <Value>クラッシュ報告を送信する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Multiple emails can be separated by semicolon</Name>
+    <Value>複数のメールアドレスをセミコロンで分離できます</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Publish date</Name>
+    <Value>公開日時</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Date</Name>
+    <Value>日付</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target machine ID</Name>
+    <Value>ターゲットマシンID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Deploy</Name>
+    <Value>デプロイ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Delete process</Name>
+    <Value>プロセス削除</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Ant bot status</Name>
+    <Value>Ant botの状態</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Bot builder status</Name>
+    <Value>ボットビルダーの状態</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Help</Name>
+    <Value>助ける</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process details</Name>
+    <Value>プロセスの詳細</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>deployed details</Name>
+    <Value>デプロイれたの詳細</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target machine details</Name>
+    <Value>ターゲットマシンの詳細</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Name</Name>
+    <Value>名前</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process creator</Name>
+    <Value>プロセスの作成者</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Email To</Name>
+    <Value>メール TO</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Emailcc</Name>
+    <Value>メール CC</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Stock watcher outlook</Name>
+    <Value>ストック観客アウトルック</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Machine details</Name>
+    <Value>マシンの詳細</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Antbot start</Name>
+    <Value>Antbot を開始する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Clear temp files</Name>
+    <Value>一時的なファイルをクリアする</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Remove proc</Name>
+    <Value>手順を削除する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Edit config</Name>
+    <Value>構成を編集する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Resource details</Name>
+    <Value>リソースの詳細</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Computer name</Name>
+    <Value>コンピュータネーム</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Processor</Name>
+    <Value>プロセッサー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Intel®Core™</Name>
+    <Value>インテル®コア™</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Installed memory(RAM)</Name>
+    <Value>インストールされたメモリ（RAM）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>System type</Name>
+    <Value>システムタイプ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>64 bit operating systems</Name>
+    <Value>64ビットオペレーティングシステム</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>OS version</Name>
+    <Value>OSバージョン</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Microsoft windows NT</Name>
+    <Value>マイクロソフトウィンドウズNT</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Available memory(RAM)</Name>
+    <Value>利用可能なメモリ（RAM）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>OK</Name>
+    <Value>オーケー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Config parameter</Name>
+    <Value>パラメータを設定する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process name</Name>
+    <Value>プロセス名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>started at</Name>
+    <Value>開始日時</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Date time</Name>
+    <Value>日時</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Waiting for activation from Queenbot</Name>
+    <Value>クインボットから活性化為に待っている</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Activated</Name>
+    <Value>アクティベート</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Queenbot</Name>
+    <Value>クイーンボット</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Active</Name>
+    <Value>活動的</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error</Name>
+    <Value>エラー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>console logs</Name>
+    <Value>コンソールログ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Activity</Name>
+    <Value>活動</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>System log</Name>
+    <Value>システムログ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Test 2</Name>
+    <Value>テスト2</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>AM</Name>
+    <Value>午前</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>End of log</Name>
+    <Value>ログの終わり</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Debug</Name>
+    <Value>デバッグ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Clear log</Name>
+    <Value>ログをクリアする</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Username</Name>
+    <Value>使用者名前</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>LDAP</Name>
+    <Value>LDAP</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Edit </Name>
+    <Value>編集</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New user</Name>
+    <Value>新しい使用者</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target machines</Name>
+    <Value>ターゲットマシン</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Active ANT bots</Name>
+    <Value>アクティブなアントボット</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Pending</Name>
+    <Value>未決</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>User management</Name>
+    <Value>使用者管理</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Add user details</Name>
+    <Value>使用者の詳細を追加する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Password</Name>
+    <Value>パスワード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Confirm password</Name>
+    <Value>パスワードを確認する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Email</Name>
+    <Value>電子メール</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Submit</Name>
+    <Value>提出</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Schedule list</Name>
+    <Value>スケジュール一覧</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>List</Name>
+    <Value>一覧</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>All</Name>
+    <Value>全て</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>From</Name>
+    <Value>から</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>To</Name>
+    <Value>まで</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Apply</Name>
+    <Value>適用</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Delete</Name>
+    <Value>削除</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Bot scheduler</Name>
+    <Value>ボットスケジューラ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>scheduler</Name>
+    <Value>スケジューラ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Repeat</Name>
+    <Value>繰り返す</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Every</Name>
+    <Value>毎</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Mins</Name>
+    <Value>分</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>End after</Name>
+    <Value>終了後で</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>occurrences</Name>
+    <Value>発生</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Ends on</Name>
+    <Value>終わり</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>HH:MM</Name>
+    <Value>時：分</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Activate</Name>
+    <Value>アクティブ化</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Stop</Name>
+    <Value>停止</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Schedule</Name>
+    <Value>スケジュール</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Schedule added successfully</Name>
+    <Value>スケジュールが正常に追加されました</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Number of BOTs=10</Name>
+    <Value>ボット数= 10</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Active Bot builder details</Name>
+    <Value>活動的なボットビルダーの詳細</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IP</Name>
+    <Value>IP</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>User name</Name>
+    <Value>使用者名前</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>User role</Name>
+    <Value>使用者役割</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Close Bot builder</Name>
+    <Value>ボットビルダーを閉じる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error details</Name>
+    <Value>エラーの詳細</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>From date</Name>
+    <Value>日付から</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>To date</Name>
+    <Value>日付まで</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ID</Name>
+    <Value>ID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Clear all</Name>
+    <Value>全てのクリア</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target machine name</Name>
+    <Value>ターゲットマシン名前</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target machine IP</Name>
+    <Value>ターゲットマシンIP</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Verify</Name>
+    <Value>確認</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Status</Name>
+    <Value>状態</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Required fields</Name>
+    <Value>必須項目</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Add</Name>
+    <Value>追加</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Addition</Name>
+    <Value>足し算</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Division</Name>
+    <Value>割り算</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Multiplication</Name>
+    <Value>掛け算</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Subtraction</Name>
+    <Value>引き算</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CMR connector</Name>
+    <Value>CMRコネクタ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Case</Name>
+    <Value>ケース</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Conditional</Name>
+    <Value>状態による</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DB processor</Name>
+    <Value>データベースのプロセッサー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DB watcher</Name>
+    <Value>データベース監視</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Grid viewer</Name>
+    <Value>グリッドビューア</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Document</Name>
+    <Value>文書</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>generator</Name>
+    <Value>ジェネレータ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Email sender</Name>
+    <Value>メール送信</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Email watcher</Name>
+    <Value>メールウォッチャ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel file</Name>
+    <Value>エクセルファイル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel</Name>
+    <Value>エクセル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel macro</Name>
+    <Value>エクセルマクロ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>String operator</Name>
+    <Value>ストリングのオペレーター</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>String</Name>
+    <Value>ストリング</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File operator</Name>
+    <Value>ファイルオペレーター</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Path operator</Name>
+    <Value>パスのオペレーター</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process</Name>
+    <Value>プロセス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Custom error</Name>
+    <Value>カスタムエラー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>End bot</Name>
+    <Value>ボットを終了する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Function box</Name>
+    <Value>ファンクションボックス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>invoker</Name>
+    <Value>インボーカー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Iteration</Name>
+    <Value>反復</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Metrics</Name>
+    <Value>メトリック</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Stop timer</Name>
+    <Value>タイマを停止する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Timer</Name>
+    <Value>タイマ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Linker</Name>
+    <Value>リンカ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Linker input</Name>
+    <Value>リンカ入力</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Linker output</Name>
+    <Value>リンカ出力</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Dynamic HTML</Name>
+    <Value>ダイナミックHTML</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output</Name>
+    <Value>出力</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Json parser</Name>
+    <Value>Jsonパーサー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>XML parser</Name>
+    <Value>XML パーサー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Remote runner</Name>
+    <Value>リモートランナー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Windows</Name>
+    <Value>ウィンドウズ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Web API</Name>
+    <Value>ウェブAPI</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Project Name</Name>
+    <Value>プロジェクト名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Project Folder Path</Name>
+    <Value>プロジェクトのフォルダパス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Create Directory</Name>
+    <Value>ディレクトリを作成</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New Project</Name>
+    <Value>新しいプロジェクト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Build Canvas</Name>
+    <Value>キャンバスをビルド（確認）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Run Exe</Name>
+    <Value>実行を実行する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Connector </Name>
+    <Value>コネクタ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Options</Name>
+    <Value>オプション</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Zoom</Name>
+    <Value>ズーム</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Component Info</Name>
+    <Value>コンポーネントの情報</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Dynamic HTML Filler</Name>
+    <Value>ダイナミックHTMLフィラー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>web api invoker</Name>
+    <Value>ウェブAPIインボーカー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SMS Responder</Name>
+    <Value>SMSレスポンダー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Windows Runner</Name>
+    <Value>ウィンドウズランナー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Linking</Name>
+    <Value>連係</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>linkerinput</Name>
+    <Value>リンカ入力</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>linkeroutput</Name>
+    <Value>リンカ出力</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FrameWork</Name>
+    <Value>フレームワーク</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>metricsupdater</Name>
+    <Value>メトリクスのアップデータ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Safe Handler</Name>
+    <Value>セーフハンドラー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process Invoker</Name>
+    <Value>プロセス実行</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process Watcher</Name>
+    <Value>プロセス監視</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel File Reader</Name>
+    <Value>エクセルファイル読者</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel Generator</Name>
+    <Value>エクセルジェネレータ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel Macro Runner</Name>
+    <Value>エクセルマクロランナー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Email Sender (Outlook)</Name>
+    <Value>メール送信(Outlook)</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Email Watcher (Outlook)</Name>
+    <Value>メール監視(Outlook)</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Document Generator</Name>
+    <Value>Wordファイル作成</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Document Processor</Name>
+    <Value>Wordファイル編集</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>PDF Generator</Name>
+    <Value>PDFジェネレータ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Text File Reader</Name>
+    <Value>テキストファイル読み込み</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Text Generator</Name>
+    <Value>テキストジェネレータ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Case…</Name>
+    <Value>ケース</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Conditional component</Name>
+    <Value>状態によるコンポーネント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New</Name>
+    <Value>新規</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Open</Name>
+    <Value>開く</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Import Process</Name>
+    <Value>インポートプロセス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Save All</Name>
+    <Value>全てを保存</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Close</Name>
+    <Value>閉じる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Close All</Name>
+    <Value>全てを閉じる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Close All But This One</Name>
+    <Value>これ以外の全てを閉じる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>QueenBot Settings</Name>
+    <Value>QueenBotの設定</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DataBase Settings</Name>
+    <Value>データベースの設定</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Email Settings</Name>
+    <Value>電子メールの設定</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Change Password</Name>
+    <Value>パスワードを変更する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Web Recorder </Name>
+    <Value>ウェブレコーダー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Windows Recorder</Name>
+    <Value>ウィンドウズレコーダー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Remote Recorder</Name>
+    <Value>リモートレコーダー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Property Window</Name>
+    <Value>プロパティウィンドウ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output Window</Name>
+    <Value>出力ウィンドウ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Tool Bar</Name>
+    <Value>ツールバー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>About License</Name>
+    <Value>ライセンスについて</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>About Queen Bot Orchestrator</Name>
+    <Value>Queen Bot オーケストレーターについて</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Queen Bot IP</Name>
+    <Value>Queen Bot　IP</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Ant IP</Name>
+    <Value>ANT IP</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Queen Bot Port</Name>
+    <Value>Queen Bot　ポート</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Default Gateway IP</Name>
+    <Value>既定ゲートウェイIP</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Queen Bot Salt Key</Name>
+    <Value>Queen Bot ソルトキー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>WFML Window</Name>
+    <Value>WFML　ウィンドウ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>C# Code Window</Name>
+    <Value>C＃コードウィンドウ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ANTstein - QueenBOT Details</Name>
+    <Value>ANTstein - QueenBOT の詳細</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Database Connectivity</Name>
+    <Value>データベース接続</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Database Type :</Name>
+    <Value>データベースタイプ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DatabaseServer Name /IP :</Name>
+    <Value>データベースサーバー名/ IP</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Authentication :</Name>
+    <Value>認証</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Database User Name :</Name>
+    <Value>データベース使用者名前</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Database Password :</Name>
+    <Value>データベースパスワード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Database Name :</Name>
+    <Value>データベース名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>E-MAIL Configuration</Name>
+    <Value>電子メール構成</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>QueenBOT Eamail :</Name>
+    <Value>QueenBOT の電子メール</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Email Password :</Name>
+    <Value>電子メールパスワード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SMTP Type :</Name>
+    <Value>SMTP タイプ :</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SMTP Port :</Name>
+    <Value>SMTP ポート</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Encryption</Name>
+    <Value>暗号化</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Connect</Name>
+    <Value>接続する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Configure</Name>
+    <Value>設定する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Hi there! Setting up for the first time?</Name>
+    <Value>こんにちは、初めてセットアップする</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Show Debug Window</Name>
+    <Value>デバッグウィンドウを見せる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Re-Sequence</Name>
+    <Value>リシーケンス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Auto-Activate/Debug</Name>
+    <Value>自動ーアクティブ化/デバッグ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Straight Line</Name>
+    <Value>直線</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Flow editor</Name>
+    <Value>フロー編者</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel mapping</Name>
+    <Value>エクセルマッピング</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Preview</Name>
+    <Value>プレビュー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Open </Name>
+    <Value>開く</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>save</Name>
+    <Value>保存</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>save as</Name>
+    <Value>新規保存</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>clear </Name>
+    <Value>クリア</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>update</Name>
+    <Value>更新</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Select file</Name>
+    <Value>ファイルを選択する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Select sheet name</Name>
+    <Value>シート名を選択する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Bot builder:Dashboard</Name>
+    <Value>ボットビルダ：ダッシュボード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process name </Name>
+    <Value>プロセス名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>description</Name>
+    <Value>説明</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>created at</Name>
+    <Value>作成されたの日時</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Ip address</Name>
+    <Value>IPアドレス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Service status</Name>
+    <Value>サービスの状態</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Win recorder</Name>
+    <Value>ウィンドウズレコーダー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Continuous control reading</Name>
+    <Value>連続的な管理読み取り</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Continuous location reading</Name>
+    <Value>連続的なロケーション読み取り</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Run</Name>
+    <Value>実行</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Recording actions</Name>
+    <Value>録画アクション</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Start application</Name>
+    <Value>アプリケーションを開始する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Find application</Name>
+    <Value>アプリケーションを探す</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Mouse</Name>
+    <Value>マウス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>keyboard</Name>
+    <Value>キーボード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Select item</Name>
+    <Value>アイテムを選択する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set date</Name>
+    <Value>日付を設定する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Check </Name>
+    <Value>確認</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>get value</Name>
+    <Value>値を得る</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set value</Name>
+    <Value>値を設定</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Clip board</Name>
+    <Value>クリップボード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Delay</Name>
+    <Value>遅れ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>View log</Name>
+    <Value>ビューログ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Message box</Name>
+    <Value>メッセージボックス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Is window exists</Name>
+    <Value>ウィンドウが存在するか</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Read excel cell</Name>
+    <Value>エクセルセルを読む</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel row count</Name>
+    <Value>エクセルの行カウント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Write excel cell</Name>
+    <Value>エクセルセルを書く</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Search text</Name>
+    <Value>テキストを探す</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Close window</Name>
+    <Value>ウィンドウを閉じる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Close application</Name>
+    <Value>アプリケーションを閉じる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set output parameter</Name>
+    <Value>出力パラメータを設定する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set input parameter</Name>
+    <Value>入力パラメータを設定する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set config data</Name>
+    <Value>構成データを設定する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get config data</Name>
+    <Value>構成データを取得する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Show ANT code</Name>
+    <Value>ANTコードを見せる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Selected application</Name>
+    <Value>選択されたアプリケーション</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Window details</Name>
+    <Value>ウィンドウの詳細</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Browser Actions</Name>
+    <Value>ブラウザアクション</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New tab</Name>
+    <Value>新しいタブ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Refresh</Name>
+    <Value>リフレッシュ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Backward</Name>
+    <Value>後方</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Forward</Name>
+    <Value>前方</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Close tab</Name>
+    <Value>タブを閉じる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Close all tabs</Name>
+    <Value>全てのタブを閉じる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Clear cache</Name>
+    <Value>キャッシュをクリアする</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Toggle ANT file</Name>
+    <Value>アントファイルを切り替え</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Toggle panel</Name>
+    <Value>パネルを切り替え</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target machine</Name>
+    <Value>ターゲットマシン</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error view grid</Name>
+    <Value>エラービューグリッド</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Active bot builders grid</Name>
+    <Value>アクティブなボットビルダーグリッド</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Clears all stopped BOTs</Name>
+    <Value>停止した全てのボットをクリアする</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error type</Name>
+    <Value>エラータイプ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error message</Name>
+    <Value>エラーメッセージ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error date</Name>
+    <Value>エラー日付</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Remove</Name>
+    <Value>削除</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel searcher</Name>
+    <Value>エクセル検索</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>String searcher</Name>
+    <Value>文字列の検索</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Pattern searcher</Name>
+    <Value>パターン検索</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Text file</Name>
+    <Value>テキストファイル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Disconnect</Name>
+    <Value>切断する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Sum</Name>
+    <Value>合計</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Go</Name>
+    <Value>行く</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Code</Name>
+    <Value>コード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Type</Name>
+    <Value>タイプ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Credential Access</Name>
+    <Value>信任状アクセス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CyberArc Connector</Name>
+    <Value>サイバーアートコネクタ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Publish Package</Name>
+    <Value>パッケージを公開する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Bot publish</Name>
+    <Value>ボットを公開する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Canvas</Name>
+    <Value>キャンバス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Project</Name>
+    <Value>プロジェクト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output pane</Name>
+    <Value>出力ペイン</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error list</Name>
+    <Value>エラーリスト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Numeric searcher</Name>
+    <Value>数値検索</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Orchestrator Menu</Name>
+    <Value>オーケストレーターメニュー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Add Target Machine</Name>
+    <Value>ターゲットマシンを追加する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Yes</Name>
+    <Value>はい</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>No</Name>
+    <Value>いいえ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Cancel</Name>
+    <Value>キャンセル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Log console</Name>
+    <Value>ログコンソール</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Launch application</Name>
+    <Value>アプリケーションを起動する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ANTstein QueenBOT suite</Name>
+    <Value>ANTstein QueenBOT組 </Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Code View</Name>
+    <Value>コードビュー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ANTstein QueenBOT</Name>
+    <Value>ANTstein-QueenBOT</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>BOTbuilder</Name>
+    <Value>ボットビルダー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ANTstein QueenBOT : BOTbuilder</Name>
+    <Value>ANTstein QueenBOT:ボットビルダー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Global variable</Name>
+    <Value>グローバル変数</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Runtime variable</Name>
+    <Value>ランタイム変数</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Property Modifiers</Name>
+    <Value>プロパティモディファイウズ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>POP-OUT</Name>
+    <Value>ポップアウト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>POP-IN</Name>
+    <Value>ポップイン</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Stop Recording</Name>
+    <Value>録画を停止する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Continuous Recording</Name>
+    <Value>録画を連続</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Continuous Control Recording</Name>
+    <Value>連続的な管理録画</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Continuous Location Recording</Name>
+    <Value>連続的なロケーション録画</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Sign off  Exit</Name>
+    <Value>サインオフ＆エグジット</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File Name</Name>
+    <Value>ファイル名前</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Message</Name>
+    <Value>メッセージ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Action on Hover</Name>
+    <Value>ホバー上のアクション</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ANT File</Name>
+    <Value>ANTファイル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Stright Line</Name>
+    <Value>直線</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>String Tokenizer</Name>
+    <Value>文字列のトークン化</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input data from</Name>
+    <Value>データの入力元</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error Grid</Name>
+    <Value>エラーグリッド</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Activity Log</Name>
+    <Value>活動ログ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Property Value</Name>
+    <Value>プロパティ値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Data Table</Name>
+    <Value>データ表</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SelectedValue</Name>
+    <Value>選択された値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Select Folder</Name>
+    <Value>フォルダーを選択</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FunctionBox information</Name>
+    <Value>ファンクションボックスの情報</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Antbot server is not started in the target machine.please start it and try again</Name>
+    <Value>アントボットサーバーがターゲットマシンで起動していません。起動してもう一度お試し下さい</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Variable mapping</Name>
+    <Value>変数マッピング</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>If ant file have input parameters then map the variables with global variables and click ok</Name>
+    <Value>アントファイルが入力パラメータがある場合は、変数をグローバル変数にマップし、”オーケー”をクリックします。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>If ant file have output parameters then click ok</Name>
+    <Value>アントファイルが出力パラメータがある場合は、”オーケー”をクリックします</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>If antfile havent output or input parameters then click ok</Name>
+    <Value>アントファイルが出力または入力パラメータを持ってない場合は、”オーケー”をクリックします</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Timer Input</Name>
+    <Value>タイマー入力</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Canvas Name</Name>
+    <Value>キャンバス名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Please wait</Name>
+    <Value>お待ちください</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Params</Name>
+    <Value>入力パラメータ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Global Variables</Name>
+    <Value>グローバル変数</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>QueenBOT Email</Name>
+    <Value>QueenBOT電子メール</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ANTbot machines</Name>
+    <Value>ANTbot のマシン</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ANTbot machine</Name>
+    <Value>ANTbot のマシン</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Folder Operator</Name>
+    <Value>フォルダオペレータ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File Lister</Name>
+    <Value>ファイルリスター</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Add Antbot machine</Name>
+    <Value>Antbotマシンを追加</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Antbot machine Name</Name>
+    <Value>Antbotマシン名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Antbot machine IP</Name>
+    <Value>AntbotマシンIP</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Multiline</Name>
+    <Value>複数行</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Open Project</Name>
+    <Value>プロジェクトを開く</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New Canvas</Name>
+    <Value>新しいキャンバス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Resequence</Name>
+    <Value>リシーケンス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Build</Name>
+    <Value>ビルド</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RunExe</Name>
+    <Value>実行を実行する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Publish</Name>
+    <Value>公開する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Special characters are not allowed.</Name>
+    <Value>特殊文字は使用できません。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Variable List</Name>
+    <Value>変数リスト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Variable Value</Name>
+    <Value>変数値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Assign Value</Name>
+    <Value>値を割り当てる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Assign</Name>
+    <Value>割り当て</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Initialize</Name>
+    <Value>初期化する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Condition</Name>
+    <Value>調子</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Increment</Name>
+    <Value>インクリメント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Value</Name>
+    <Value>値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Operator</Name>
+    <Value>オペレーター</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Enter Value</Name>
+    <Value>値を入力</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set</Name>
+    <Value>セット</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Clear</Name>
+    <Value>クリア</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Validate</Name>
+    <Value>検証</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Edit</Name>
+    <Value>編集</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RowID</Name>
+    <Value>行ID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>LineNum</Name>
+    <Value>行番号</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RowType</Name>
+    <Value>行タイプ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Custom Config Data</Name>
+    <Value>カスタム構成データ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Variable Name</Name>
+    <Value>変数名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Update Variable Value</Name>
+    <Value>変数値の更新</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Minimize</Name>
+    <Value>最小化する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Sign Off</Name>
+    <Value>サインオフ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Enter User Name</Name>
+    <Value>ユーザー名を入力してください</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Enter Password</Name>
+    <Value>パスワードを入力する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel Sorter</Name>
+    <Value>エクセルソーター</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Very Weak</Name>
+    <Value>非常に弱い</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Weak</Name>
+    <Value>弱い</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Medium</Name>
+    <Value>中</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Strong</Name>
+    <Value>強い</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Very Strong</Name>
+    <Value>とても強い</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Blank</Name>
+    <Value>ブランク</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Used to fill a set of pipe separated input texts to the dynamic HTML wherever {n} is/are available.</Name>
+    <Value>{n}が利用可能であるかどうかにかかわらず、パイプで区切られた入力テキストのセットをダイナミックHTMLに入力するために使用されます。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Used to parse a Json data and gives the value(s) of a given set of keys.</Name>
+    <Value>Jsonデータを解析するために使用され、与えられたキーのセットの値を返します。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Used to parse an XML data and gives the node value(s) for a given node name and attiribute name/value.</Name>
+    <Value>XMLデータを解析するために使用され、指定されたノード名と名前/値を付与するノード値を与えます。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Undo</Name>
+    <Value>元に戻す</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Redo</Name>
+    <Value>やり直し</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Colony Name</Name>
+    <Value>コロニー名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Package</Name>
+    <Value>パッケージ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File System Status</Name>
+    <Value>ファイルシステムのステータス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Folder</Name>
+    <Value>フォルダ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Time</Name>
+    <Value>時間</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Idle Time(sec)</Name>
+    <Value>アイドル時間（秒）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Threshold Time</Name>
+    <Value>スレシュホールド時間（秒）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CSV Reader</Name>
+    <Value>CSVリーダー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CSV to Excel Converter</Name>
+    <Value>CSVからエクセルに変える</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>User Details</Name>
+    <Value>ユーザーの詳細</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New Colony</Name>
+    <Value>ニューコロニー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Forced Logout</Name>
+    <Value>無理やりログアウト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Colony</Name>
+    <Value>コロニー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Colony ID</Name>
+    <Value>コロニーID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Loggedin User</Name>
+    <Value>ログインユーザー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Logout</Name>
+    <Value>ログアウト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Script Caller</Name>
+    <Value>スクリプト呼び出し</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Script</Name>
+    <Value>スクリプト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Move Up</Name>
+    <Value>上に移動</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Move Down</Name>
+    <Value>下に移動</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Add to Queue</Name>
+    <Value>キューに追加する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Queue Name</Name>
+    <Value>キュー名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Queue</Name>
+    <Value>キュー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Queue_Order</Name>
+    <Value>待ち行列順</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Queue_Name</Name>
+    <Value>キュー名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FireAnt_Name</Name>
+    <Value>火の蟻の名前</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process_name</Name>
+    <Value>プロセス名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>API Invokers</Name>
+    <Value>API呼び出し</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Logical</Name>
+    <Value>論理的</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Add Break Point</Name>
+    <Value>ブレークポイントを追加</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>REST API Invoker</Name>
+    <Value>REST API 呼び出し</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SOAP API Invoker</Name>
+    <Value>SOAP API 呼び出し</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Image Operator</Name>
+    <Value>イメージコンプレッサー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Zip Operator</Name>
+    <Value>ジップオペレーター</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Http Responder</Name>
+    <Value>HTTPレスポンダ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Http Watcher</Name>
+    <Value>HTTPウォッチャー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Switch To Dark</Name>
+    <Value>ダークに変更する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SWITCH TO LIGHT</Name>
+    <Value>ライトに変更する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ScriptCaller</Name>
+    <Value>スクリプトコーラー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CollectionData</Name>
+    <Value>収集データ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DataTable Operator</Name>
+    <Value>データ表オペレーター</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Wait For</Name>
+    <Value>待機</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Field</Name>
+    <Value>入力フィールド</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DoWhile</Name>
+    <Value>一方を行います</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Custom Expression</Name>
+    <Value>カスタム表現</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>StringSearch</Name>
+    <Value>ストリングの検索</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>StringTocken</Name>
+    <Value>ストリングのトーケニザー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>PathOperation</Name>
+    <Value>パスのオペレーター</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DelayComponent</Name>
+    <Value>ディレイコンポーネント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>UpdateCustomField</Name>
+    <Value>カスタムフィールドを更新する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>TimerComp</Name>
+    <Value>タイマ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FillDynamicHTML</Name>
+    <Value>ダイナミックHTMLを記入</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ParseJSon</Name>
+    <Value>Jsonパーサー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ParseXML</Name>
+    <Value>XML パーサー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RemoteAppRunner</Name>
+    <Value>リモートアプリケーションランナー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>WinAppRunner</Name>
+    <Value>ウィンドウズアプリケーションランナー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>WebAPICall</Name>
+    <Value>ウェブAPI 呼び出し</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SwitchComponent</Name>
+    <Value>スイッチコンポーネント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Logical branch</Name>
+    <Value>論理ブランチ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CMessageBox</Name>
+    <Value>メッセージボックス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>PDFgenerate</Name>
+    <Value>PDFジェネレータ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>TextReader</Name>
+    <Value>テキストファイル読者</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>TextGenerate</Name>
+    <Value>テキストジェネレータ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>OutlookEmailSender</Name>
+    <Value>アウトルック電子メール送信者</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>OutlookEmailWatcher</Name>
+    <Value>電子メール観客</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ExcelRowReader</Name>
+    <Value>エクセル行読者</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ExcelSearch</Name>
+    <Value>エクセルの検索</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>NumberSearch</Name>
+    <Value>数字の検索</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RegexSearch</Name>
+    <Value>模様検索</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Reset Connection Settings</Name>
+    <Value>接続設定をリセットする</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Stopped</Name>
+    <Value>停止</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Scheduler Status</Name>
+    <Value>スケジューラステータス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ThresholdBOT</Name>
+    <Value>スレシュホールドボット</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Componenty_Name</Name>
+    <Value>コンポーネント名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Tool_Tip</Name>
+    <Value>ツール＿チップ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Component_Group</Name>
+    <Value>コンポーネント＿グループ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Generate</Name>
+    <Value>生成する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Code Window</Name>
+    <Value>コードウィンドウ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Event</Name>
+    <Value>イベント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Test</Name>
+    <Value>テスト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Property</Name>
+    <Value>プロパティー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Component Creator</Name>
+    <Value>コンポーネント作成者</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Reference</Name>
+    <Value>参照</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Component</Name>
+    <Value>コンポーネント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Default Property</Name>
+    <Value>デフォルトプロパティ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Property Details</Name>
+    <Value>プロパティーの詳細</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Custom Property</Name>
+    <Value>カスタムプロパティ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Component Description</Name>
+    <Value>コンポーネント記載</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Chrome Recorder</Name>
+    <Value>クロムレコーダー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Internet Explorer Recorder</Name>
+    <Value>インターネットエクスプローラーレコーダー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Current Message</Name>
+    <Value>現在のメッセージ：</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Console Window</Name>
+    <Value>コンソールウィンドウ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Reset Password</Name>
+    <Value>パスワードをリセットする</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New Password</Name>
+    <Value>新しいパスワード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Edit User Detail(s)</Name>
+    <Value>ユーザー詳細の編集</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Categorized</Name>
+    <Value>分類された</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Alphabetical</Name>
+    <Value>アルファベット</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Property Pages</Name>
+    <Value>プロパティページ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ANTbot Machine details</Name>
+    <Value>アントボットマシンの詳細</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ANTbot machine ID</Name>
+    <Value>アントボットマシンID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Machine</Name>
+    <Value>マシン</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Mode</Name>
+    <Value>モード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FireID</Name>
+    <Value>火災ID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Inactive</Name>
+    <Value>イナクティブ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Select Headers</Name>
+    <Value>ヘッダを選択</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>First Row Header</Name>
+    <Value>最初の行ヘッダ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Filter Text</Name>
+    <Value>テキストをフィルタ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Extraction Using Filter</Name>
+    <Value>フィルタを用いた抽出</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Compression</Name>
+    <Value>イメージコンプレッサー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Bot Queue</Name>
+    <Value>ボットキュー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target machine Colony</Name>
+    <Value>ターゲットマシンコロニー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DeleteStatus</Name>
+    <Value>ステータスを削除</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Deployed by</Name>
+    <Value>によって配備された</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DeleteFlag</Name>
+    <Value>フラグを削除</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Do While</Name>
+    <Value>一方を行います</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Threshold Increment</Name>
+    <Value>しきい値の増分</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Threshold Decrement</Name>
+    <Value>しきい値の減少</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Parameter Name</Name>
+    <Value>パラメータ名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>AutoScaling BOTList</Name>
+    <Value>オートスケーリングボットリ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>AutoScaleID</Name>
+    <Value>オートスケールID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>machinename</Name>
+    <Value>マシン名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Row No</Name>
+    <Value>行番号</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Export Bots </Name>
+    <Value>ボットをエクスポート</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Import Bots </Name>
+    <Value>ボットをインポート</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Package to Process</Name>
+    <Value>処理するパッケージ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>AutoScalling Bots</Name>
+    <Value>自動スケーリングボット</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Action Analyse</Name>
+    <Value>アクション分析</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ChromeBrowser</Name>
+    <Value>クロムブラウザ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IERecorder</Name>
+    <Value>インターネットレコーダー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Publish Selected Package</Name>
+    <Value>選択したパッケージを公開</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Users</Name>
+    <Value>ユーザー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Colony Management</Name>
+    <Value>コロニー管理</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>User Forced Logout</Name>
+    <Value>ユーザ強制ログアウト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>User Email</Name>
+    <Value>ユーザーのメールアドレス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>StatusUpdater</Name>
+    <Value>ステータスアップデータ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SMS Sender</Name>
+    <Value>SMS送信</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Component count</Name>
+    <Value>コンポーネントカウント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CyberArk Connector</Name>
+    <Value>サイバーアークコネクタ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Debug window</Name>
+    <Value>デバッグウィンドウ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Import Path</Name>
+    <Value>インポートパス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ColonyName</Name>
+    <Value>コロニー名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Import</Name>
+    <Value>インポート</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Export</Name>
+    <Value>取得</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Export Path</Name>
+    <Value>取得パス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ExportBot Details</Name>
+    <Value>取得ボットの詳細</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Active BOTbuilder</Name>
+    <Value>アクティブ状態のボットビルダー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Add new schedule</Name>
+    <Value>新しいスケジュールを追加してください</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Disable</Name>
+    <Value>無効にする</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Threshold</Name>
+    <Value>スレシュホールド</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>NumberofMachines</Name>
+    <Value>マシン数</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Enable</Name>
+    <Value>有効にする</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Toggle</Name>
+    <Value>トグル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Orchestrator Information</Name>
+    <Value>オーケストレーター情報</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Event</Name>
+    <Value>イベント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>EventName</Name>
+    <Value>イベント名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>EventOutput</Name>
+    <Value>イベント出力</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Properties</Name>
+    <Value>プロパティ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Browsable</Name>
+    <Value>閲覧可能</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Category</Name>
+    <Value>カテゴリー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DefaultValue</Name>
+    <Value>既定値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Description</Name>
+    <Value>記載</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Editor</Name>
+    <Value>編集者</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Name</Name>
+    <Value>名称</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ReadOnly</Name>
+    <Value>リードオンリー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DisplayName</Name>
+    <Value>表示名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Breakpoint</Name>
+    <Value>ブレークポイント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Sequence ID</Name>
+    <Value>シーケンスID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>State</Name>
+    <Value>状態</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>checkbox</Name>
+    <Value>チェックボックス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>QueueOrderID</Name>
+    <Value>キュー注文ID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Login Type</Name>
+    <Value>ログインタイプ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Total Users</Name>
+    <Value>総ユーザー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Remove Colony</Name>
+    <Value>コロニーを削除</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SSL Encryption</Name>
+    <Value>SSLエンクリプション</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Entity</Name>
+    <Value>エンティティ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Version name</Name>
+    <Value>バージョン名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Version ID</Name>
+    <Value>バージョンID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>About ANTstein QueenBOT</Name>
+    <Value>ANTstein QueenBOTについて</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Add</Name>
+    <Value>追加</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Hold Key</Name>
+    <Value>キーを保留</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Show Text</Name>
+    <Value>テキストを見せる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Ok </Name>
+    <Value>オーケー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Clear</Name>
+    <Value>クリア</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Cancel</Name>
+    <Value>キャンセル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Please Click the ReleaseKey button!</Name>
+    <Value>リリースキーボタンをクリックしてください。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Collection List</Name>
+    <Value>コレクション一覧</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Collection Type</Name>
+    <Value>コレクションリスト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Row Number</Name>
+    <Value>行番号</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Column Name</Name>
+    <Value>列名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get Specific</Name>
+    <Value>特定を取得</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get Collection</Name>
+    <Value>コレクションを取得</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>List Items</Name>
+    <Value>リスト項目</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get Column Data</Name>
+    <Value>列データを取得する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get Mentioned Row Data</Name>
+    <Value>記載された行データを取得する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Index Based</Name>
+    <Value>インデックスベース</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Make New a Collection</Name>
+    <Value>新しいコレクションを作る</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Extraction Using Filter</Name>
+    <Value>フィルタを使用して抽出する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Choose Attributes</Name>
+    <Value>属性を選択</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>All</Name>
+    <Value>全て</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Individual</Name>
+    <Value>個々</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Attributes</Name>
+    <Value>属性</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Custom Value</Name>
+    <Value>カスタム値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Constains</Name>
+    <Value>含む</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Not Contains</Name>
+    <Value>含まない</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Validate</Name>
+    <Value>検証</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Parent Elements</Name>
+    <Value>親要素</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Submit</Name>
+    <Value>提出する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Component Name</Name>
+    <Value>コンポーネント名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Hidden Properties</Name>
+    <Value>プロパティを隠す</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Remove</Name>
+    <Value>削除</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Collection Name</Name>
+    <Value>コレクション名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Selected Items</Name>
+    <Value>選択された項目</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Select Headers</Name>
+    <Value>ヘッダを選択</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>First Row Header</Name>
+    <Value>最初の行ヘッダ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Filter Text</Name>
+    <Value>テキストをフィルタ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Save</Name>
+    <Value>保存</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Close</Name>
+    <Value>閉じる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Custome Value</Name>
+    <Value>カスタム値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Release key</Name>
+    <Value>キーを解放する</Value>
+  </LanguageTable>
+  
+  <LanguageTable>
+    <Name>Intelligent Management</Name>
+    <Value>インテリジェント管理</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Check Point</Name>
+    <Value>チェックポイント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Message Queue Push</Name>
+    <Value>メッセージキュープッシュ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Message Queue Pull</Name>
+    <Value>メッセージキュープル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Enter a valid user name. User Name must contain at least 5 characters (maximum 14 characters).</Name>
+    <Value>有効なユーザー名を入力してください。パスワードには少なくても5文字含める必要があります。（最大14文字</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>LDAP user Does not exist</Name>
+    <Value>LDAPユーザー名は存在しません。</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Select a user role.</Name>
+    <Value>ユーザーの役割を選択してください。</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Select a user colony.</Name>
+    <Value>ユーザーコロニーを選択してください。</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Enter an e-mail ID.</Name>
+    <Value>メールIDを入力してください</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Passwords must contain at least 6 characters, including uppercase, lowercase letters and numbers</Name>
+    <Value>パスワードには、大文字、小文字、数字など6文字以上を含める必要があります</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Password must contain at least 6 characters, including uppercase, lowercase and numbers.</Name>
+    <Value>パスワードには、大文字、小文字、数字など6文字以上を含める必要があります</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Password and confirmation password do not match</Name>
+    <Value>パスワードと確認パスワードが一致しません。</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Provide a valid e-mail address.</Name>
+    <Value>有効なメールアドレスを入力してください。</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>list items</Name>
+    <Value>リスト項目</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>check items</Name>
+    <Value>チェック項目</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>User is unauthorized to login.Please contact admin.</Name>
+    <Value>ユーザーはログインを許可されていません。管理者に連絡してください。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>User Name or password do not match. Try again.</Name>
+    <Value>ユーザー名またはパスワードが一致しません。 もう一回試してください。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>User Name exist in the system already.Do you want to Logoff</Name>
+    <Value>ユーザー名は既にシステムに存在します。ログオフしますか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>User Name exist in the system already.</Name>
+    <Value>ユーザー名は既にシステムに存在します。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Unable to connect to the Database. Please check your database connection settings.</Name>
+    <Value>データベースに接続できません。 データベース接続設定をチェックしてください。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error in establishing DB connection. Check the parameters and try again.</Name>
+    <Value>DB接続の確立中にエラーが発生しました。 パラメーターをチェックしてやり直してください。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Select a database type.</Name>
+    <Value>データベースのタイプを選択してください。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Enter a database server name or IP Address.</Name>
+    <Value>データベースサーバー名またはIPアドレスを入力してください。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Enter a database user name.</Name>
+    <Value>データベースのユーザー名を入力してください。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Enter the database password.</Name>
+    <Value>データベースのパスワードを入力してください。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Connection established successfully.</Name>
+    <Value>接続は確立されました。</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Provide a valid e-mail address.</Name>
+    <Value>有効なメールアドレスを入力してください</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>E-mail configured successfully.</Name>
+    <Value>電子メールは設定されました。</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Selected User is successfully Logoff.</Name>
+    <Value>選択したユーザーはログオフしました</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Do you want to close the selected BOT Builder?</Name>
+    <Value>選択したBOTビルダーを閉じますか？</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Active BOTs are closed successfully</Name>
+    <Value>アクティブなBOTは閉じられました</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Enter user name</Name>
+    <Value>ユーザー名を入力してください</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Enter the password</Name>
+    <Value>パスワードを入力してください</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>--- Select component ---</Name>
+    <Value>---コンポーネントを選択---</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Select a valid component</Name>
+    <Value>有効なコンポーネントを選択してください</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Selected item is empty. Either add property to it or remove the collection name.</Name>
+    <Value>選択した項目は空です。プロパティを追加するか、コレクション名を削除してください。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Select any one item property before removing</Name>
+    <Value>削除する前にアイテムプロパティを1つ選択してください</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Enter a collection name</Name>
+    <Value>コレクション名を入力</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Function Box information</Name>
+    <Value>ファンクションボックスの情報</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Select Folder Location</Name>
+    <Value>フォルダの場所を選択</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Website</Name>
+    <Value>ウェブサイト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Custom Configuration Data</Name>
+    <Value>カスタム構成データ</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>chrome Browser Recording</Name>
+    <Value>クロムブラウザの記録</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Do you want to sleep until browser loads?</Name>
+    <Value>ブラウザが起動するまでスリープしますか？</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Key Name</Name>
+    <Value>キー名</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>     Get Specific Data</Name>
+    <Value>特定のデータを取得する</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Single Column Selection</Name>
+    <Value>単一列選択</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>---select Option---</Name>
+    <Value>オプションを選択</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Select Item</Name>
+    <Value>アイテムを選択</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>--Select Option--</Name>
+    <Value>オプションを選択</Value>
+  </LanguageTable>
+     <LanguageTable>
+    <Name>--Select--</Name>
+    <Value>- 選択 -</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>--All--</Name>
+    <Value>- すべて -</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Pending</Name>
+    <Value>保留中</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Started</Name>
+    <Value>始めました</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Completed</Name>
+    <Value>完了しました</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Failed</Name>
+    <Value>失敗しました</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Error</Name>
+    <Value>エラー</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Mins</Name>
+    <Value>分</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Hour</Name>
+    <Value>時</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Day</Name>
+    <Value>日</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Week</Name>
+    <Value>週間</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Month</Name>
+    <Value>月</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>UnCheck</Name>
+    <Value>チェックを外す</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Desktop Recording</Name>
+    <Value>デスクトップレコーディング)</Value>
+</LanguageTable>
+	 <LanguageTable>
+	 <Name>Process workflow is saved successfully.</Name>
+    <Value>プロセスワークフローは正常に保存されました。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Bot Status</Name>
+    <Value>ボットステータス</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Console Window</Name>
+    <Value>コンソールウィンドウ</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Output Window</Name>
+    <Value>出力ウィンドウ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Please open the internet explorer before doing the recording action</Name>
+    <Value>記録操作を行う前にインターネットエクスプローラを開いてください</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>QueenBOT Web Recording</Name>
+    <Value>QueenBOT Webレコーディング</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>IE Browser Recorder</Name>
+    <Value>IEブラウザレコーダ</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>QueenBOT Remote Recording</Name>
+    <Value>QueenBOTリモートレコーディング</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>QueenBOT Windows Recording</Name>
+    <Value>QueenBOT Windowsレコーディング</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Clear Log</Name>
+    <Value>ログをクリア</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Stop</Name>
+    <Value>やめる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>QueenBOT Active</Name>
+    <Value>QueenBOTアクティブ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Activity Log</Name>
+    <Value>活動記録</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Error Grid</Name>
+    <Value>エラーグリッド</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Console Logs</Name>
+    <Value>コンソールログ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process Name</Name>
+    <Value>プロセス名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Started At</Name>
+    <Value>で開始</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IP Address</Name>
+    <Value>IPアドレス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Task Description</Name>
+    <Value>タスク説明</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Password</Name>
+    <Value>パスワード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Debug</Name>
+    <Value>デバッグ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>BOT details </Name>
+    <Value>BOTの詳細</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Refresh</Name>
+    <Value>更新する</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>By Xpath</Name>
+    <Value>Xpathで</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Language</Name>
+    <Value>言語</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Variable Value :</Name>
+    <Value>変数値：</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Variable Name :</Name>
+    <Value>変数名：</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Update Variable Value</Name>
+    <Value>変数値を更新</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>References List</Name>
+    <Value>参考文献リスト</Value>
+  </LanguageTable>
+ <LanguageTable>
+    <Name>--Select--</Name>
+    <Value>--選択する--</Value>
+  </LanguageTable>
+ <LanguageTable>
+    <Name>Multiple</Name>
+    <Value>複数</Value>
+  </LanguageTable>
+ <LanguageTable>
+    <Name>Relative Path</Name>
+    <Value>相対パス</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Text</Name>
+    <Value>テキスト</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Level</Name>
+    <Value>レベル</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Image</Name>
+    <Value>画像</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Property Modifiers</Name>
+    <Value>プロパティ修飾子</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>SequenceEnbale</Name>
+    <Value>シーケンス有効</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Colony Name</Name>
+    <Value>コロニー名</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Value</Name>
+    <Value>値</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Increment</Name>
+    <Value>インクリメント</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Operator</Name>
+    <Value>オペレーター</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Initialize</Name>
+    <Value>初期化</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Loop Name :</Name>
+    <Value>ループ名：</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Looping</Name>
+    <Value>ループ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>for</Name>
+    <Value>にとって</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Do</Name>
+    <Value>行う</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>while</Name>
+    <Value>しながら</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>If</Name>
+    <Value>もし</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>ELSE IF</Name>
+    <Value>そうでなければ</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>ELSE</Name>
+    <Value>それ以外の</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Nil</Name>
+    <Value>無</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>AND</Name>
+    <Value>そして</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>OR</Name>
+    <Value>または</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Operators</Name>
+    <Value>オペレータ</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Line Number</Name>
+    <Value>行番号</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Condition Configuration Data</Name>
+    <Value>条件設定データ</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>MachineID</Name>
+    <Value>機械ID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Orchestrator / BOT Builder</Name>
+    <Value>オーケストレーター/ BOTビルダー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Hi there! Are you setting up for the first time?</Name>
+    <Value>こんにちは！初めて設定しますか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Textbox</Name>
+    <Value>テキストボックス</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Current Password</Name>
+    <Value>現在のパスワード</Value>
+	</LanguageTable>
+	     <LanguageTable>
+    <Name>Minimize</Name>
+    <Value>最小化する</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Sign off</Name>
+    <Value>サインオフ</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Return to Landing Page</Name>
+    <Value>着陸ページに戻る</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Add Key</Name>
+    <Value>キーを追加</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Add Text</Name>
+    <Value>テキストを追加</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Find References</Name>
+    <Value>参考文献を探す</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Download Location</Name>
+    <Value>ダウンロード場所</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>MessageQueue</Name>
+    <Value>メッセージキュー</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Process Metric</Name>
+    <Value>プロセスメトリック</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>AutoScalingBOT</Name>
+    <Value>自動スケーリングBOT</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Add New MessageQueue</Name>
+    <Value>新しいメッセージキューを追加する</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Add New MessageQueue</Name>
+    <Value>新しいメッセージキューを追加する</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>MessageQueue Name</Name>
+    <Value>メッセージキュー名</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Security token</Name>
+    <Value>セキュリティトークン</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Push process</Name>
+    <Value>プッシュ処理</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Pull Process</Name>
+    <Value>引きプロセス</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Seq no</Name>
+    <Value>シーケンス番号</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Add New ProcessMetric</Name>
+    <Value>新しいプロセスメトリックを追加する</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Average Handling Time</Name>
+    <Value>平均処理時間</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Turn Around Time</Name>
+    <Value>ターンアラウンドタイム</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Metric Key</Name>
+    <Value>メトリックキー</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>New Row</Name>
+    <Value>新しい行</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>ProcessMetric List</Name>
+    <Value>プロセスメトリックリスト</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>MessageQueue Average Handling Time</Name>
+    <Value>メッセージキューの平均処理時間</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Queue ID</Name>
+    <Value>キューID</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>MessageQueue List</Name>
+    <Value>メッセージキューリスト</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Seq ID</Name>
+    <Value>シーケンスID</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Enable DownScaling</Name>
+    <Value>ダウンスケーリングを有効にする</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>BOT Capacity</Name>
+    <Value>BOT容量</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Critical RunList</Name>
+    <Value>クリティカルランリスト</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Details</Name>
+    <Value>詳細</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Critical Process</Name>
+    <Value>重要なプロセス</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Clear temporary files</Name>
+    <Value>一時的なクリアファイル</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Edit Configuration</Name>
+    <Value>設定を編集</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Remove process</Name>
+    <Value>プロセスを削除</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>MouseButton</Name>
+    <Value>マウスボタン</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>LastTime</Name>
+    <Value>前回</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsBreakWhenWBCompleted</Name>
+    <Value>WBが完了したらブレイク</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Re-Sequence process is complete.</Name>
+    <Value>再シーケンス処理が完了しました。</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>X</Name>
+    <Value>バツ</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>y</Name>
+    <Value>そして</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>IsShow</Name>
+    <Value>イシュー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsEnableSendKeys</Name>
+    <Value>センド・キーは有効しますか</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FilePath</Name>
+    <Value>ファイルパス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Row</Name>
+    <Value>行</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Column</Name>
+    <Value>カラム</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Extraction Type</Name>
+    <Value>抽出タイプ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsExtractXpath</Name>
+    <Value>Xpathを抽出する</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>IsFrame</Name>
+    <Value>フレームです</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>FrameIndex</Name>
+    <Value>フレームインデックス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsIFrame</Name>
+    <Value>IFrameです</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>IsArrayFormula</Name>
+    <Value>配列式です</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Formula</Name>
+    <Value>式</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Select Table Name</Name>
+    <Value>テーブル名を選択</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>---select option---</Name>
+    <Value>---オプションを選択---</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>First Name:</Name>
+    <Value>ファーストネーム：</Value>
+</LanguageTable>
+<LanguageTable>
+    <Name>Last Name:</Name>
+    <Value>苗字：</Value>
+</LanguageTable>
+<LanguageTable>
+    <Name>E-mail ID:</Name>
+    <Value>電子メールID：</Value>
+</LanguageTable>
+<LanguageTable>
+    <Name>Company Name:</Name>
+    <Value>会社名：</Value>
+</LanguageTable>
+<LanguageTable>
+    <Name>Designation:</Name>
+    <Value>指定：</Value>
+</LanguageTable>
+<LanguageTable>
+    <Name>Contact No:</Name>
+    <Value>連絡先番号：</Value>
+</LanguageTable>
+<LanguageTable>
+    <Name>Country:</Name>
+    <Value>国：</Value>
+</LanguageTable>
+<LanguageTable>
+    <Name>New Registration/Licensing Process</Name>
+    <Value>新規登録/ライセンス取得プロセス</Value>
+</LanguageTable>
+  <LanguageTable>
+    <Name>Select Table Name</Name>
+    <Value>テーブル名を選択</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>---select option---</Name>
+    <Value>---オプションを選択---</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Credential Vault</Name>
+    <Value>クレデンシャルボールト</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Selected schedule exist already. Change the time.</Name>
+    <Value>選択したスケジュールはすでに存在します。時間を変更してください。</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Entered ContactNo is not valid. Please review / correct and try again.</Name>
+    <Value>入力したContactNoは無効です。確認/修正してから、もう一度やり直してください。</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Create Project</Name>
+    <Value>プロジェクトを作成</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Open Solution Explorer</Name>
+    <Value>ソリューションエクスプローラーを開く</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Open Property Window</Name>
+    <Value>プロパティウィンドウを開く</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>C# Code Window</Name>
+    <Value>C＃コードウィンドウ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Open Toolbox</Name>
+    <Value>ツールボックスを開く</Value>
+  </LanguageTable>
+ <LanguageTable>
+    <Name>Open Output Window</Name>
+    <Value>出力ウィンドウを開く</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Open BOTbuilder</Name>
+    <Value>BOTbuilderを開く</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>show and hide Tool Bar</Name>
+    <Value>ツールバーの表示と非表示</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Use LDAP</Name>
+    <Value>つかいます LDAP</Value>
+  </LanguageTable>
+ <LanguageTable>
+    <Name>Reuse Queue</Name>
+    <Value>再利用キュー</Value>
+  </LanguageTable>
+ <LanguageTable>
+    <Name>Enable</Name>
+    <Value>有効にする</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>* Schedule added successfully. Number of Bots = </Name>
+    <Value>*スケジュールを追加しました。ボット数=</Value>
+  </LanguageTable>
+ <LanguageTable>
+    <Name>Unable to add the schedule. Check the input data.</Name>
+    <Value>スケジュールを追加できません。入力データを確認してください。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Save File</Name>
+    <Value>ファイルを保存</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Open File</Name>
+    <Value>ファイルを開く</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Save Name</Name>
+    <Value>名前を保存</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Choose Path</Name>
+    <Value>パスを選択</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Module Path</Name>
+    <Value>モジュールパス</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Absolute Path</Name>
+    <Value>絶対パス</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Auto Flow</Name>
+    <Value>オートフロー</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Monitor</Name>
+    <Value>モニター</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Updated On</Name>
+    <Value>更新日</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Progress Window</Name>
+    <Value>進捗ウィンドウ</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Configuration Parameter</Name>
+    <Value>設定パラメータ</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Active BOT Builder :</Name>
+    <Value>アクティブBOTビルダー：</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Days</Name>
+    <Value>日々</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>in</Name>
+    <Value>に</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Download_Threshold</Name>
+    <Value>ダウンロードしきい値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Is_Exception_Continue_at_Runner_Component</Name>
+    <Value>ランナーコンポーネントで例外が継続するか</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Element_Threshold</Name>
+    <Value>要素しきい値</Value>
+  </LanguageTable>
+</DocumentElement>
+ 
+

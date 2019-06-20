@@ -1,0 +1,1523 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <LanguageTable>
+    <Name>Web recorder</Name>
+    <Value>ウェブレコーダー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Remote recorder</Name>
+    <Value>リモートレコーダー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Pop out</Name>
+    <Value>ポップ・アウト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Continuous reading</Name>
+    <Value>連続的な読み取り</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Run</Name>
+    <Value>実行</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Show ant code</Name>
+    <Value>アントコードを見せる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Start application'</Name>
+    <Value>アプリケーションを開始する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Find application</Name>
+    <Value>アプリケーションを探す</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Mouse</Name>
+    <Value>マウス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Keyboard</Name>
+    <Value>キーボード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Select item</Name>
+    <Value>アイテムを選択する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Log console</Name>
+    <Value>ログコンソール</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Update</Name>
+    <Value>更新</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set date</Name>
+    <Value>日付を設定する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get value</Name>
+    <Value>値を得る</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Image based options</Name>
+    <Value>イメージベースのオプション</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Clipboard</Name>
+    <Value>クリップボード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Delay</Name>
+    <Value>遅れ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>View log</Name>
+    <Value>ビューログ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Message box</Name>
+    <Value>メッセージボックス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IS window exists</Name>
+    <Value>ウィンドウが存在するか</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Read excel cell</Name>
+    <Value>エクセルセルを読む</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Write excel cell</Name>
+    <Value>エクセルセルを書く</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Close window</Name>
+    <Value>ウィンドウを閉じる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set output parameter</Name>
+    <Value>出力パラメータを設定する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set input parameter</Name>
+    <Value>入力パラメータを設定する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set config data</Name>
+    <Value>設定データを設定する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get config data</Name>
+    <Value>設定データを取得する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Win recorder</Name>
+    <Value>ウィンドウズレコーダー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Continous control reading</Name>
+    <Value>連続的な管理読み取り</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Continous location  reading</Name>
+    <Value>連続的なロケーション読み取り</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Recording action</Name>
+    <Value>アクションを録画する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Launch application</Name>
+    <Value>アプリケーションを起動する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Flow editor</Name>
+    <Value>フロー編者</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Open</Name>
+    <Value>開く</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>save</Name>
+    <Value>保存</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>save as</Name>
+    <Value>新規保存</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Clear </Name>
+    <Value>クリア</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Default.ant</Name>
+    <Value>既定。アント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Selected application</Name>
+    <Value>選択されたアプリケーション</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Windows details</Name>
+    <Value>ウィンドウズの詳細</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output</Name>
+    <Value>出力</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Go </Name>
+    <Value>行く</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Extract</Name>
+    <Value>抽出</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Element exists</Name>
+    <Value>要素が存在します</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Fill</Name>
+    <Value>記入</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>click</Name>
+    <Value>クリック</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Save image</Name>
+    <Value>イメージを保存する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Download file</Name>
+    <Value>ファイルをダウンロード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set clipboard text</Name>
+    <Value>クリップボードのテキストを設定する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>get clipboard text</Name>
+    <Value>クリップボードテキストを取得する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel mapping</Name>
+    <Value>エクセルマッピング</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Explore</Name>
+    <Value>探検する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Fill selected excel header</Name>
+    <Value>選択されたエクセルヘッダーを記入</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Fill autocomplete from excel</Name>
+    <Value>エクセルから自動記入</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Log</Name>
+    <Value>ログ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Wait for element</Name>
+    <Value>要素為に待つ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>preview</Name>
+    <Value>プレビュー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Browser actions</Name>
+    <Value>ブラウザアクション</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Toggle ant file</Name>
+    <Value>アントファイルを切り替え</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Toggle panel</Name>
+    <Value>パネルを切り替え</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Elements Tag display on Hover</Name>
+    <Value>ホバーで要素タグ表示</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Attribute</Name>
+    <Value>属性</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Repeat element</Name>
+    <Value>要素を反復する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Text</Name>
+    <Value>テキスト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>HTML</Name>
+    <Value>HTML</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SRC</Name>
+    <Value>SRC</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>URL</Name>
+    <Value>URL</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Selected option</Name>
+    <Value>選択されたオプション</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Table path</Name>
+    <Value>テーブルバス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Table values</Name>
+    <Value>テーブル値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set config value</Name>
+    <Value>構成値を設定</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>get config value</Name>
+    <Value>構成値を取得</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel</Name>
+    <Value>エクセル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>set output variable</Name>
+    <Value>出力変数を設定</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>component invoker</Name>
+    <Value>コンポーネント呼び出し元</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Text box</Name>
+    <Value>テキストボックス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Fill secure key</Name>
+    <Value>安全なキーを記入</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Auto complete</Name>
+    <Value>自動完了</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Using dropdown options</Name>
+    <Value>ドロップダウンオプションを使用している</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Using sendkeys selection</Name>
+    <Value>送信キー選択を使用している</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Fill secure text</Name>
+    <Value>安全なテキストを記入</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Element</Name>
+    <Value>要素</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File upload</Name>
+    <Value>ファイルをアップロード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Reference element</Name>
+    <Value>参照要素</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Reference click</Name>
+    <Value>参照クリック</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get current mouse</Name>
+    <Value>現在のマウスを取得</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>mouse move</Name>
+    <Value>マウスの動き</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>mouse click</Name>
+    <Value>マウスのクリック</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>mouse croll</Name>
+    <Value>マウスのスクロール</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>send text</Name>
+    <Value>テキストを送信</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Read cell excel</Name>
+    <Value>エクセルのセルを読む</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Write cell excel</Name>
+    <Value>エクセルのセルに書く</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Write cell formula</Name>
+    <Value>セル式を書く</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Create folder</Name>
+    <Value>フォルダーを作成</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Code View</Name>
+    <Value>コードビュー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Action on Hover</Name>
+    <Value>ホバー上のアクション</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ANT File</Name>
+    <Value>アントファイル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Add</Name>
+    <Value>追加</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Condition</Name>
+    <Value>条件</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IF</Name>
+    <Value>もし</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Loop</Name>
+    <Value>ループ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>while</Name>
+    <Value>しながら</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>For</Name>
+    <Value>にとって</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Do</Name>
+    <Value>行う</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Break</Name>
+    <Value>ブレーク</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Continue</Name>
+    <Value>持続</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Variable</Name>
+    <Value>変数</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Assign varible</Name>
+    <Value>変数を割り当てる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Edit</Name>
+    <Value>編集</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Cut</Name>
+    <Value>切り取り</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Copy</Name>
+    <Value>コピー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Paste </Name>
+    <Value>貼り付け</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Delete</Name>
+    <Value>削除</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Close Application</Name>
+    <Value>アプリケーションを閉じる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel Row Count</Name>
+    <Value>エクセル行カウント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set Value</Name>
+    <Value>値を設定する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Search text</Name>
+    <Value>テキストを検索する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Check</Name>
+    <Value>確認</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set Clipboard</Name>
+    <Value>クリップボードを設定する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get Clipboard</Name>
+    <Value>クリップボードを取得する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>By Text</Name>
+    <Value>テキストに基づく</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>By Excel</Name>
+    <Value>エクセルに基づく</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>By Secure Text</Name>
+    <Value>安全なテキストに基づく</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>By Control</Name>
+    <Value>コントロール（要素）に基づく</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>By Location</Name>
+    <Value>ロケーションに基づく</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Right Click</Name>
+    <Value>右クリック</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Double Click</Name>
+    <Value>ダブルクリック</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Hover</Name>
+    <Value>ホバー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Click Relative</Name>
+    <Value>参照をクリックする</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Drag Drop</Name>
+    <Value>ドラッグドロップ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>By Keystrokes</Name>
+    <Value>キーストロークに基づく</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>By Position</Name>
+    <Value>位置に基づく</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>By Select Copy</Name>
+    <Value>選択コピーに基づく</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>By Screen Scrapping</Name>
+    <Value>スクリーンスクレイピング（得る）に基づく</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>By Scrape Relative</Name>
+    <Value>スクラップ（得る）参照に基づく</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Image Based Operations</Name>
+    <Value>イメージベースの操作</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Find Image</Name>
+    <Value>イメージを検索</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Wait Image Vanish</Name>
+    <Value>イメージが閉じるまでお待ちください</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Split Count</Name>
+    <Value>カウントを分かれる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Split String</Name>
+    <Value>ストリングを分かれる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Send Keystrokes</Name>
+    <Value>キーストロークを送信</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set Secure Value</Name>
+    <Value>安全な値を設定する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New Tab</Name>
+    <Value>新しいタブ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Refresh</Name>
+    <Value>リフレッシュ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Backward</Name>
+    <Value>逆行</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Forward</Name>
+    <Value>前方</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Close Tab</Name>
+    <Value>タブを閉じる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Close All Tabs</Name>
+    <Value>すべてのタブを閉じる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Clear Cache</Name>
+    <Value>キャッシュをクリアする</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Custom Atttribute</Name>
+    <Value>カスタム属性</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Extract Using Filter</Name>
+    <Value>フィルタを使用して抽出する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get single Element</Name>
+    <Value>シングル要素を取得する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get Entire Element Xpath</Name>
+    <Value>全体要素Xパースを取得する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get Element Collection Count</Name>
+    <Value>要素のコレクション数を取得する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Extract Entire Table</Name>
+    <Value>全体なテーブルを抽出する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Extract Row by Number</Name>
+    <Value>数を使用して行を抽出する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Extract Row by Text</Name>
+    <Value>テキストを使用して行を抽出する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Extract Text Xpath</Name>
+    <Value>テキストXパースを抽出する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Extract by Range</Name>
+    <Value>レンジごとに抽出する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get Row Count</Name>
+    <Value>行数を取得する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get Column Count</Name>
+    <Value>列数を取得する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get Single Cell</Name>
+    <Value>シングルセルを取得する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get Entire Table</Name>
+    <Value>全体な表を取得する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Write ExtractedTable into Excel</Name>
+    <Value>表から抽出されたデータをエクセルに書く</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Filter Table</Name>
+    <Value>フィルタテーブル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Table Xpath</Name>
+    <Value>表Xpath</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Download Click</Name>
+    <Value>ダウンロードをクリックする</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Mouse Double Click</Name>
+    <Value>マウスダブルクリック</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Mouse Scroll</Name>
+    <Value>マウススクロール</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Open Project Folder</Name>
+    <Value>プロジェクトフォルダを開く</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Exclude</Name>
+    <Value>除く</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Import Process</Name>
+    <Value>インポートプロセス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>JS Macro run completed</Name>
+    <Value>JSマクロの実行が完了されました</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>JS Macro running</Name>
+    <Value>JSマクロ実行中</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Enter Row and Column No</Name>
+    <Value>行と列を入力する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Enter Row No</Name>
+    <Value>行番号を入力する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Enter Column No</Name>
+    <Value>列番号を入力する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Cell  Value</Name>
+    <Value>セル値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>UserName</Name>
+    <Value>使用者名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Password</Name>
+    <Value>パスワード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Show Password</Name>
+    <Value>パスワードを見せる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Value: Password not display</Name>
+    <Value>値：パスワードが表示されない</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Application Date Format</Name>
+    <Value>アプリケーション日付フォーマット</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Direction</Name>
+    <Value>方向</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>*Select UP or DOWN based on default \r\n selected item"</Name>
+    <Value>選択された項目に基づいて上または下を選択する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Show Text</Name>
+    <Value>テキストを見せる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>AntInputBox</Name>
+    <Value>アント入力ボックス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set Input Variable</Name>
+    <Value>入力変数を設定する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Mouse Over</Name>
+    <Value>マウスオーバー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Navigate To</Name>
+    <Value>案内する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Fill Inputs</Name>
+    <Value>塗りつぶし入力</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Select Dropdown</Name>
+    <Value>ドロップダウンを選択</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>TextArea</Name>
+    <Value>テキスト領域</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Using Send Keys</Name>
+    <Value>送信キーの使用</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Dropdown</Name>
+    <Value>落ちる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FillSelectedHeader</Name>
+    <Value>選択したヘッダを埋める</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Write excel cell Formula</Name>
+    <Value>エクセルセルを書く式</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File</Name>
+    <Value>ファイル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File Download</Name>
+    <Value>ファイルのダウンロード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set output param</Name>
+    <Value>出力パラメータを設定する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Config Data</Name>
+    <Value>設定データ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Find Element text</Name>
+    <Value>要素テキストを検索</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set Input Collection</Name>
+    <Value>入力コレクションを設定</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set Output Collection</Name>
+    <Value>出力コレクションの設定</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get Collection</Name>
+    <Value>コレクションを入手</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Captcha</Name>
+    <Value>キャプチャ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Text Based Operations</Name>
+    <Value>テキストベースの操作</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Crop Captcha</Name>
+    <Value>クロップキャプチャー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>String Based Operations</Name>
+    <Value>文字列ベースの操作</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Variables</Name>
+    <Value>変数</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Collection</Name>
+    <Value>コレクション</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Find text</Name>
+    <Value>テキストを探す</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Wait For Text Open</Name>
+    <Value>テキストが開くのを待つ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Wait For Text Close</Name>
+    <Value>テキストを待つ閉じる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Wait For Image Open</Name>
+    <Value>画像を開くのを待つ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Wait For Image Close</Name>
+    <Value>画像を待つ閉じる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>By Credential text</Name>
+    <Value>クレデンシャルテキスト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Scroll</Name>
+    <Value>スクロール</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>By Scrap Image Relative</Name>
+    <Value>スクラップイメージによる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>By Scrap Text Relative</Name>
+    <Value>スクラップテキストによる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Toggle Editor</Name>
+    <Value>切り替えエディタ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Start Record</Name>
+    <Value>記録開始</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Open Browse</Name>
+    <Value>ブラウズを開く</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Inspect IFrame</Name>
+    <Value>iframeを調べる</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Next</Name>
+    <Value>次</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Stop Debug</Name>
+    <Value>デバッグを停止</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Start Debug</Name>
+    <Value>デバッグを開始</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>By Secure Value</Name>
+    <Value>安全な値で</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>By Credential Value</Name>
+    <Value>クレデンシャル値で</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Send Secure Text</Name>
+    <Value>安全なテキストを送信する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>By Scrape Image Relative</Name>
+    <Value>スクレープイミッジレラティブで</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>By Scrape Text Relative</Name>
+    <Value>スクレープテキストレラティブで</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Down Scroll</Name>
+    <Value>下スクロール</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Up Scroll</Name>
+    <Value>上スクロール</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Custom Attribute</Name>
+    <Value>カスタム属性</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Value</Name>
+    <Value>値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Image Url</Name>
+    <Value>イメージURL</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>URL</Name>
+    <Value>URL</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>HTML</Name>
+    <Value>HTML</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Secure Text</Name>
+    <Value>安全なテキスト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>AutoComplete Textbox</Name>
+    <Value>オート完了テキストボックス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Attributes</Name>
+    <Value>属性</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Open Browser</Name>
+    <Value>ブラウザを開く</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>GetCollectionData</Name>
+    <Value>収集データを取得する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Reference</Name>
+    <Value>参照</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Start Recording</Name>
+    <Value>録音開始</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Open Browser</Name>
+    <Value>ブラウザを開く</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get get specific cell</Name>
+    <Value>特定のセルを取得 </Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Extract entire table Xpath</Name>
+    <Value>全体テーブルXパスを抽出する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get specific cell</Name>
+    <Value>特定のセルを取得 </Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get entire table Xpath</Name>
+    <Value>全体テーブルXパスを取得する </Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get Input Parameter</Name>
+    <Value>入力パラメータを取得</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Fill Using Credential Vault</Name>
+    <Value>クレデンシャルボールトの使用</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set Configuration Value</Name>
+    <Value>設定値を設定する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get Configuration Value</Name>
+    <Value>設定値を取得する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Parameter</Name>
+    <Value>パラメータ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Save Page</Name>
+    <Value>ページを保存</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Handle Captcha</Name>
+    <Value>ハンドルキャプチャー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Read Cell</Name>
+    <Value>読み取りセル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Write Cell Value</Name>
+    <Value>セル値を書き込む</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Using Dropdown Option </Name>
+    <Value>ドロップダウンオプションを使用する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Write Cell Value Formula </Name>
+    <Value>セル値式を書き込む</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Configuration Data </Name>
+    <Value>構成データ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Get Configuration Data</Name>
+    <Value>設定データを取得する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Set Configuration Data</Name>
+    <Value>設定データの設定</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Using Credential Vault</Name>
+    <Value>資格情報ボールトの使用</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Scroll Down</Name>
+    <Value>下へスクロール</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Scroll Up</Name>
+    <Value>スクロールアップする</Value>
+  </LanguageTable>
+ <LanguageTable>
+    <Name>Seconds</Name>
+    <Value>秒</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsBreakWhenWBCompleted</Name>
+    <Value>WBが完了したらブレイク</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Url</Name>
+    <Value>URL</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>XPath</Name>
+    <Value>Xパス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>show on top</Name>
+    <Value>上に表示</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Text</Name>
+    <Value>テキスト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Type</Name>
+    <Value>タイプ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>iFramePath</Name>
+    <Value>i枠パス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>iframe Name</Name>
+    <Value>iフレーム名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Iframe Xpath</Name>
+    <Value>iframe Xのパス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Value</Name>
+    <Value>値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Iframe Index</Name>
+    <Value>Iframeインデックス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Is FrameSet</Name>
+    <Value>フレームセットです</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>index</Name>
+    <Value>索引</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>isFrame</Name>
+    <Value>フレームです</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>No.</Name>
+    <Value>数</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsEnableSendKeys</Name>
+    <Value>キーを送信する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Location</Name>
+    <Value>ロケーション</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FilePath</Name>
+    <Value>ファイルパス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DirectoryPath</Name>
+    <Value>ディレクトリパス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FolderDirectory</Name>
+    <Value>フォルダディレクトリ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Content</Name>
+    <Value>コンテンツ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FileLocaion</Name>
+    <Value>ファイルの場所</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsOverride</Name>
+    <Value>上書きされます</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FileDirectory</Name>
+    <Value>ファイルディレクトリ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SourceDirectory</Name>
+    <Value>ソースディレクトリ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>TargetDirectory</Name>
+    <Value>ターゲットディレクトリ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsCopySubDirectory</Name>
+    <Value>コピーサブディレクトリ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SourceFileDirectory</Name>
+    <Value>ソースファイルディレクトリ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>TargetFileDirectory</Name>
+    <Value>ターゲットファイルディレクトリ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RegexPattern</Name>
+    <Value>正規表現パターン</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Directory</Name>
+    <Value>ディレクトリ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ExeName</Name>
+    <Value>エグゼ名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Argument</Name>
+    <Value>引数</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SheetName</Name>
+    <Value>シート名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Row</Name>
+    <Value>行</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Column</Name>
+    <Value>カラム</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>MouseButton</Name>
+    <Value>マウスボタン</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>LastTime</Name>
+    <Value>前回</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>X</Name>
+    <Value>Xパス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Y</Name>
+    <Value>Y</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsShow</Name>
+    <Value>ショーです</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Speed</Name>
+    <Value>速度</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Key</Name>
+    <Value>キー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>OptionName</Name>
+    <Value>オプション名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Delay</Name>
+    <Value>ディレイ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsFrameSet</Name>
+    <Value>フレームセットです</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Data</Name>
+    <Value>データ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>EncryptedValue</Name>
+    <Value>暗号化された値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsArrayFormula</Name>
+    <Value>配列式です</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Formula</Name>
+    <Value>式</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>OutputParamName</Name>
+    <Value>出力パラメータ名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>OutputParamValue</Name>
+    <Value>出力パラメータ値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>TableName</Name>
+    <Value>テーブル名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RowId</Name>
+    <Value>行ID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsExtractXpath</Name>
+    <Value>Xpathを抽出する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Extraction Type</Name>
+    <Value>抽出タイプ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FrameIndex</Name>
+    <Value>フレームインデックス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsIFrame</Name>
+    <Value>IFrameです</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File Upload Location</Name>
+    <Value>ファイルアップロード場所</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ElementAttributes</Name>
+    <Value>要素の属性</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ParentXpath</Name>
+    <Value>親Xpath</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File Name</Name>
+    <Value>ファイル名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CheckTimes</Name>
+    <Value>時間をチェック</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>EventThreshold</Name>
+    <Value>イベントしきい値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>EnableSquence</Name>
+    <Value>シーケンスを有効にする</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>iframeXpath</Name>
+    <Value>iframe Xのパス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>iframeElmPath</Name>
+    <Value>iframe要素のパス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>EnableSquenceDownload</Name>
+    <Value>シーケンスダウンロードを有効にする</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>iframeIndex</Name>
+    <Value>iframeインデックス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>iframe ElmXPath</Name>
+    <Value>iframe要素XPath</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CollectionName</Name>
+    <Value>コレクション名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CollectionValue</Name>
+    <Value>収集値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>UserName</Name>
+    <Value>ユーザー名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>status</Name>
+    <Value>状態</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ElementXpath</Name>
+    <Value>要素Xpath</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ResultType</Name>
+    <Value>結果タイプ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>isTableXpath</Name>
+    <Value>テーブルXpath</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FrameXpath</Name>
+    <Value>フレームXパス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Button</Name>
+    <Value>ボタン</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ControlType</Name>
+    <Value>制御タイプ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ControlName</Name>
+    <Value>コントロール名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>AutomationId</Name>
+    <Value>自動化ID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>TextData</Name>
+    <Value>テキストデータ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Title</Name>
+    <Value>タイトル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Handle</Name>
+    <Value>ハンドル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Property</Name>
+    <Value>物件</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Message</Name>
+    <Value>メッセージ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>AppStartPath</Name>
+    <Value>アプリケーション開始パス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ProcessName</Name>
+    <Value>プロセス名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ProcessId</Name>
+    <Value>プロセスID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ApplicationFormat</Name>
+    <Value>アプリケーションフォーマット</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SecuredText</Name>
+    <Value>保護されたテキスト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SecuredValue</Name>
+    <Value>担保価値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>WindowName</Name>
+    <Value>ウィンドウ名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>WindowHandle</Name>
+    <Value>ウィンドウハンドル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>InputVariableName</Name>
+    <Value>入力変数名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>OutputVariableName</Name>
+    <Value>出力変数名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>OutputVariableValue</Name>
+    <Value>出力変数値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>WaitThreshold</Name>
+    <Value>待機しきい値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ScrollCount</Name>
+    <Value>スクロール数</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>TargetImage</Name>
+    <Value>ターゲット画像</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Accuracy</Name>
+    <Value>正確さ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Width</Name>
+    <Value>幅</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Height</Name>
+    <Value>高さ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Download File Name</Name>
+    <Value>ダウンロードファイル名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Download Status</Name>
+    <Value>ダウンロード状況</Value>
+  </LanguageTable>
+ <LanguageTable>
+    <Name>Download website</Name>
+    <Value>Webサイトをダウンロードする</Value>
+  </LanguageTable>
+ <LanguageTable>
+    <Name>No of Position</Name>
+    <Value>ポジション数</Value>
+  </LanguageTable>
+ <LanguageTable>
+    <Name>Select Up/Down based on Selected item</Name>
+    <Value>選択項目に基づいて上/下を選択</Value>
+  </LanguageTable>
+ <LanguageTable>
+    <Name>Set Control Text</Name>
+    <Value>制御テキストを設定</Value>
+  </LanguageTable>
+</DocumentElement>

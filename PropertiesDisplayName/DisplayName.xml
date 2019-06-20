@@ -1,0 +1,2267 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <LanguageTable>
+    <Name>Mail Server</Name>
+    <Value>メールサーバー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Port Number</Name>
+    <Value>ポート番号</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Email ID</Name>
+    <Value>電子メール</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Download Location</Name>
+    <Value>ロケーションをダウンロード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Attachment Filters</Name>
+    <Value>添付フィルタ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Filter Field</Name>
+    <Value>フィルタフィールド</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Containing Text</Name>
+    <Value>テキストを含む</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New mail Arrived Event</Name>
+    <Value>新しいメール到着したイベント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Read Unseen mails?</Name>
+    <Value>見えないメールを読みますか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Email Folder</Name>
+    <Value>電子メールフォルダ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Download Attachments?</Name>
+    <Value>添付ファイルをダウンロードしますか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Status Code</Name>
+    <Value>状態コード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>User Notes</Name>
+    <Value>使用者ノート</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Ignore Exception?</Name>
+    <Value>例外(エラー）を無視しますか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Exception Message</Name>
+    <Value>例外(エラー）メッセージ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Pause Duration</Name>
+    <Value>時間を休止する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Left Value</Name>
+    <Value>左値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Expression</Name>
+    <Value>表現</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Right Value</Name>
+    <Value>右値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>EndValue</Name>
+    <Value>終値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>InitialValue</Name>
+    <Value>初期値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Iterator</Name>
+    <Value>イテレータ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Condition</Name>
+    <Value>条件</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Counter Variable Name</Name>
+    <Value>カウンタ変数名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Customized Expression</Name>
+    <Value>カスタマイズされた表現</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Canvas Name</Name>
+    <Value>キャンバス名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input_1</Name>
+    <Value>入力＿１</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input_2</Name>
+    <Value>入力＿２</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input_3</Name>
+    <Value>入力＿３</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input_4</Name>
+    <Value>入力＿４</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input_5</Name>
+    <Value>入力＿５</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input_6</Name>
+    <Value>入力＿６</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input_7</Name>
+    <Value>入力＿７</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input_8</Name>
+    <Value>入力＿８</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input_9</Name>
+    <Value>入力＿９</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input_10</Name>
+    <Value>入力＿１０</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CanvasName</Name>
+    <Value>キャンバス名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output_1</Name>
+    <Value>出力＿１</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output_2</Name>
+    <Value>出力＿２</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output_3</Name>
+    <Value>出力＿３</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output_4</Name>
+    <Value>出力＿４</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output_5</Name>
+    <Value>出力＿５</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output_6</Name>
+    <Value>出力＿６</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output_7</Name>
+    <Value>出力＿７</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output_8</Name>
+    <Value>出力＿８</Value>
+    <F22>#NAME?</F22>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output_9</Name>
+    <Value>出力＿９</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output_10</Name>
+    <Value>出力＿１０</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>True Event</Name>
+    <Value>真のイベント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>False Event</Name>
+    <Value>偽（フォールス)のイベント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Left Value 1</Name>
+    <Value>左値１</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Right Value 1</Name>
+    <Value>右値1</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Left Value 2</Name>
+    <Value>左値2</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Right Value 2</Name>
+    <Value>右値２</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Switch Data</Name>
+    <Value>データの交換</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Cases</Name>
+    <Value>ケース</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Events</Name>
+    <Value>イベント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Timer Id</Name>
+    <Value>タイマーID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SafeEvent</Name>
+    <Value>セーフイベント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>HandleEvent</Name>
+    <Value>イベントを扱う</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Custom Data Keys</Name>
+    <Value>カスタムデータキー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Custom Data Values</Name>
+    <Value>カスタムデータ値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Sum</Name>
+    <Value>合計</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Numerator</Name>
+    <Value>分子</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Denominator</Name>
+    <Value>分母</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Host Name</Name>
+    <Value>ホスト名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Sending mail ID</Name>
+    <Value>メールIDを送信しています</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SMTP Port Number</Name>
+    <Value>SMTPポート番号</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Enable SSL?</Name>
+    <Value>SSLを有効にしますか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Send as mail ID</Name>
+    <Value>メールIDとして送信する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Message ID</Name>
+    <Value>メッセージID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IMAP Port</Name>
+    <Value>IMAPポート</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Mail Server Specification</Name>
+    <Value>メールサーバーの仕様</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Secure Text</Name>
+    <Value>セーフテキスト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>User Name</Name>
+    <Value>使用者名前</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Receiving mail IDs</Name>
+    <Value>メールID受け取る</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Mail Subject</Name>
+    <Value>メール件名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Mail Content</Name>
+    <Value>メール内容</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Attachment Files</Name>
+    <Value>添付ファイル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Is HTML Body?</Name>
+    <Value>HTMLボディですか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>HTML Body File</Name>
+    <Value>HTMLボディファイル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Dynamic Texts</Name>
+    <Value>ダイナミックなテキスト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Send As</Name>
+    <Value>別名で送信</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Status</Name>
+    <Value>状態</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CMR Output Filename</Name>
+    <Value>CMR出力ファイル名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Has Header?</Name>
+    <Value>ヘッダーはありますか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Range Reading?</Name>
+    <Value>範囲を読みますか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Reading Range</Name>
+    <Value>範囲を読みます</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Watching Folder</Name>
+    <Value>フォルダを見ています</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Type Filter</Name>
+    <Value>タイプフィルター</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File Name Pattern</Name>
+    <Value>ファイル名模様</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File Added Event</Name>
+    <Value>ファイルが追加されたイベント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File Deleted Event</Name>
+    <Value>ファイルが削除されたイベント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File Updated Event</Name>
+    <Value>ファイルが更新されたイベント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File Renamed Event</Name>
+    <Value>ファイルが変更されたイベント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Label</Name>
+    <Value>ラベル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Caption</Name>
+    <Value>キャプション</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Is Password?</Name>
+    <Value>パスワードですか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Display Status</Name>
+    <Value>状態を表示する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>TextBox Value</Name>
+    <Value>テキストボックス値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Display Message</Name>
+    <Value>メッセージを表示する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ButtonOption</Name>
+    <Value>ボタンオプション</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Data</Name>
+    <Value>入力データ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>InputDataTable)</Name>
+    <Value>入力データテーブル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Write Mode (AP/OW)</Name>
+    <Value>書き込み設定(AP(追加)/OW(上書き))</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Text/File</Name>
+    <Value>入力テキスト/ファイル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>TEXT/HTML</Name>
+    <Value>テキスト/HTML</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Pdf Result</Name>
+    <Value>PDFの結果</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Number</Name>
+    <Value>番号</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Connection String</Name>
+    <Value>接続ストリング</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Access File</Name>
+    <Value>アクセスファイル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Access File Type</Name>
+    <Value>アクセスファイルのタイプ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>No.of Rows Affected</Name>
+    <Value>行数が影響された</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Each Record Event</Name>
+    <Value>各レコードイベント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Source Filename</Name>
+    <Value>ソースファイル名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target Filename</Name>
+    <Value>ターゲットファイル名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process Result</Name>
+    <Value>プロセス結果</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process Start Event</Name>
+    <Value>プロセス開始イベント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process Stop Event</Name>
+    <Value>プロセス停止イベント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Regex Pattern</Name>
+    <Value>正規表現模様</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Validation Result</Name>
+    <Value>検証結果</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output Value</Name>
+    <Value>出力値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Search Keyword</Name>
+    <Value>キーワードを検索</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Case Sensitive</Name>
+    <Value>大文字と小文字を区別</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Match Entire Word?</Name>
+    <Value>完全な単語を一致しますか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Product</Name>
+    <Value>製品</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Numbers</Name>
+    <Value>入力番号</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Database Type</Name>
+    <Value>データベースタイプ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Server Name</Name>
+    <Value>サーバーの名前</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Database Name</Name>
+    <Value>データベース名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Table Name</Name>
+    <Value>テーブル名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Changed Data List</Name>
+    <Value>変更されたデータリスト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Data Changed Event</Name>
+    <Value>データが変更されたイベント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Delimiter Position</Name>
+    <Value>デリミタりの位置</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Merged String</Name>
+    <Value>追加されたストリング</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input String</Name>
+    <Value>入力ストリング</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>String Operator</Name>
+    <Value>ストリングオペレーター</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Parameter String</Name>
+    <Value>パラメータストリング</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Replacing String</Name>
+    <Value>ストリングを取り替える</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output String</Name>
+    <Value>出力ストリング</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Text Filename</Name>
+    <Value>テキストファイル名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output Text</Name>
+    <Value>出力テキスト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Piped Text</Name>
+    <Value>パイプされたテキスト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Parameters</Name>
+    <Value>入力パラメータ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Code File</Name>
+    <Value>コードファイル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel File Name</Name>
+    <Value>エクセルファイル名前</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Maintain Session</Name>
+    <Value>セッションを維持する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Search ID</Name>
+    <Value>IDを検索</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Text Values</Name>
+    <Value>テキスト値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Headers</Name>
+    <Value>ヘッダー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Operation</Name>
+    <Value>オペレーション</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New Name (Rename)</Name>
+    <Value>新しい名前（リネーム）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FullFileName</Name>
+    <Value>全てのファイル名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Filename with Extension</Name>
+    <Value>拡張付いたのファイル名前</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Filename Only</Name>
+    <Value>ファイル名前のみ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File Extension</Name>
+    <Value>ファイル拡張</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Search Headers</Name>
+    <Value>ヘッダーを検索</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Search Color</Name>
+    <Value>色を検索</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Column IDs</Name>
+    <Value>列ID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RecordFound?</Name>
+    <Value>レコードが見つかりましたか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Ant File</Name>
+    <Value>Ant ファイル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel Row Count</Name>
+    <Value>エクセル行カウント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FileName</Name>
+    <Value>ファイル名前</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Text</Name>
+    <Value>入力テキスト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DOC/DOCX</Name>
+    <Value>DOC/DOCX</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel Folder</Name>
+    <Value>エクセルフォルダ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Macro Name</Name>
+    <Value>マクロ名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Show Excel?</Name>
+    <Value>エクセルを表示しますか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Macro Status</Name>
+    <Value>マクロの状態</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CSV Folder</Name>
+    <Value>CSVフォルダ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Header Data</Name>
+    <Value>ヘッダデータ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Ref. Date Time</Name>
+    <Value>日付時間を参照する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Increment/Decrement</Name>
+    <Value>インクリメント/デクリメント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Time (24)</Name>
+    <Value>時間（24）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Format String</Name>
+    <Value>形式ストリング</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Date</Name>
+    <Value>日付</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Month Number</Name>
+    <Value>月の番号</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Month Name</Name>
+    <Value>月の名前</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Year</Name>
+    <Value>年</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Full Date</Name>
+    <Value>完全な日付</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Full Date Time</Name>
+    <Value>完全な日付時間</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Hours</Name>
+    <Value>時間</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Minutes</Name>
+    <Value>分</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Seconds</Name>
+    <Value>秒</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Commandline Args</Name>
+    <Value>コマンドライン引数</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Working Path</Name>
+    <Value>ワーキングパス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Run As Admin?</Name>
+    <Value>管理者として実行ですか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Run In Background?</Name>
+    <Value>バックグラウンドで実行ですか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Run In Shell?</Name>
+    <Value>シェルで実行しますか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Execution Status</Name>
+    <Value>実行の状態</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Interval</Name>
+    <Value>合間</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Time to Stop the Timer(Optional)</Name>
+    <Value>タイマーを停止する時間（オプショナル）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Parallel or Sequential</Name>
+    <Value>平行またはシーケンシャル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>JSon String</Name>
+    <Value>JSonストリング</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Keys</Name>
+    <Value>キー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>All Keys Found?</Name>
+    <Value>全てのキーが見つかりましたか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Values of Keys</Name>
+    <Value>キーの値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output Status</Name>
+    <Value>出力の状態</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>XML String</Name>
+    <Value>XML ストリング</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>XML Filename</Name>
+    <Value>XML ファイル名前</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>XML Node</Name>
+    <Value>XMLノード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Attribute Name</Name>
+    <Value>属性名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Attribute Value</Name>
+    <Value>属性値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Node Values</Name>
+    <Value>ノード値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Node Attributes</Name>
+    <Value>ノード属性</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input HTML</Name>
+    <Value>入力HTML</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>HTML Filename</Name>
+    <Value>HTMLのファイル名前</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Dynamic Data</Name>
+    <Value>ダイナミックデータ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Write to File?</Name>
+    <Value>ファイルに書きますか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output HTML</Name>
+    <Value>出力HTML</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>From Mobile</Name>
+    <Value>電話から</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>To Mobile</Name>
+    <Value>電話へ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>API URL</Name>
+    <Value>API URL</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Application ID</Name>
+    <Value>アプリケーションID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Safe</Name>
+    <Value>セーフ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Folder</Name>
+    <Value>フォルダ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Object</Name>
+    <Value>オブジェクト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Connection Port</Name>
+    <Value>接続ポート</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Timeout Duration</Name>
+    <Value>タイムアウト時間</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Reason</Name>
+    <Value>理由</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Other Properties</Name>
+    <Value>その他のプロパティ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Password</Name>
+    <Value>パスワード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Address</Name>
+    <Value>アドレス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Content</Name>
+    <Value>内容</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Database</Name>
+    <Value>データベース</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>PolicyID</Name>
+    <Value>ポリシーID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Result Properties</Name>
+    <Value>結果のプロパティ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Run Local</Name>
+    <Value>ローカルマシンに実行する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Message</Name>
+    <Value>メッセージ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Number1</Name>
+    <Value>番号１</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Number2</Name>
+    <Value>番号２</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Delimiter</Name>
+    <Value>デリミタ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ObjectName</Name>
+    <Value>オブジェクト名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SequenceID</Name>
+    <Value>シーケンスID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Expression2</Name>
+    <Value>表現２</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>MultiplieExpression</Name>
+    <Value>複数表現</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Query</Name>
+    <Value>問い</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Table</Name>
+    <Value>テーブル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Values</Name>
+    <Value>値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Columns</Name>
+    <Value>列</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Operation Type </Name>
+    <Value>オペレーションタイプ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>OutputData</Name>
+    <Value>出力データ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DBStatus</Name>
+    <Value>データベース状態</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Search Keywords</Name>
+    <Value>キーワードを検索</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>string1</Name>
+    <Value>ストリング1</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>string2</Name>
+    <Value>ストリング２</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>string3</Name>
+    <Value>ストリング３</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>string4</Name>
+    <Value>ストリング４</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>string5</Name>
+    <Value>ストリング５</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>string6</Name>
+    <Value>ストリング６</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>string7</Name>
+    <Value>ストリング７</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>string8</Name>
+    <Value>ストリング８</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>string9</Name>
+    <Value>ストリング９</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>string10</Name>
+    <Value>ストリング10</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Expression1</Name>
+    <Value>表現1</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Is processed</Name>
+    <Value>処理されましたか</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Code block event</Name>
+    <Value>コードブロックイベント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IterationCount</Name>
+    <Value>反復カウント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Timer Event</Name>
+    <Value>タイマーイベント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>OperationType</Name>
+    <Value>オペレーションタイプ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SheetID</Name>
+    <Value>シートID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Result</Name>
+    <Value>結果</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New Folder</Name>
+    <Value>新しいフォルダ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Source Folder</Name>
+    <Value>ソースフォルダ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Folder Name</Name>
+    <Value>フォルダ名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File Filter</Name>
+    <Value>ファイルフィルター</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FontName</Name>
+    <Value>フォント名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Is Ascending?</Name>
+    <Value>昇順ですか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Exe Filename</Name>
+    <Value>エクセルファイル名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CustomizedExpression</Name>
+    <Value>カスタマイズされた表現</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Ignore Empty?</Name>
+    <Value>無視するか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Inline Script</Name>
+    <Value>インラインスクリプト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Script Type</Name>
+    <Value>スクリプトの種類</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Script Name</Name>
+    <Value>スクリプト名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Throw Exception?</Name>
+    <Value>例外をスローしますか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Parameter</Name>
+    <Value>入力パラメータ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Namespace</Name>
+    <Value>名前空間</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Script</Name>
+    <Value>スクリプト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Destination</Name>
+    <Value>送り先</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Convert</Name>
+    <Value>変換する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>OpStatus</Name>
+    <Value>オペレーションの状態</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsFileExists</Name>
+    <Value>ファイルが存在しますか</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CompressionValue</Name>
+    <Value>圧縮値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Percent</Name>
+    <Value>パーセント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ImageType</Name>
+    <Value>イメージタイプ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Source File</Name>
+    <Value>送り元ファイル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Overwrite?</Name>
+    <Value>上書きしますか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Operation Status</Name>
+    <Value>オペレーションの状態</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Does File Exist?</Name>
+    <Value>ファイルは存在しますか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Script File</Name>
+    <Value>スクリプトファイル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output</Name>
+    <Value>出力</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RequestID</Name>
+    <Value>リクエストID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Responce String</Name>
+    <Value>応答ストリング</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Url1</Name>
+    <Value>Url1</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Url2</Name>
+    <Value>Url2</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Url3</Name>
+    <Value>Url3</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Url4</Name>
+    <Value>Url4</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Url5</Name>
+    <Value>Url5</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New Url1 Arrived Event</Name>
+    <Value>新しいUrl1が到着したイベント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New Url2 Arrived Event</Name>
+    <Value>新しいUrl2が到着したイベント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New Url3 Arrived Event</Name>
+    <Value>新しいUrl3が到着したイベント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New Url4 Arrived Event</Name>
+    <Value>新しいUrl4が到着したイベント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>New Url5 Arrived Event</Name>
+    <Value>新しいUrl5が到着したイベント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Web Site</Name>
+    <Value>ウェブサイト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Keys</Name>
+    <Value>入力キー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input Values</Name>
+    <Value>入力値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output values</Name>
+    <Value>出力値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Column Index</Name>
+    <Value>列インデックス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Row Index</Name>
+    <Value>行インデックス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Collection Name</Name>
+    <Value>収集名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Input DataTable</Name>
+    <Value>入力データ表</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Column ID or Name</Name>
+    <Value>列IDまたは名前</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Remove Duplicates?</Name>
+    <Value>ユープリケーツを削除しますか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Search Columns</Name>
+    <Value>列を検索</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Exact/Contains</Name>
+    <Value>正確/含む</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Sort Column Id or Name</Name>
+    <Value>列IDまたは名前を並べ替え</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output Data</Name>
+    <Value>出力データ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Row Count</Name>
+    <Value>行数</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Column Count</Name>
+    <Value>例数</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output Table</Name>
+    <Value>出力表</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Watched Folder</Name>
+    <Value>監視フォルダ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Watched File</Name>
+    <Value>監視ファイル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Key Pressed</Name>
+    <Value>押されたキー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Mouse Click/DoubleClick</Name>
+    <Value>マウスクリック/ダブルクリック</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Process Name</Name>
+    <Value>プロセス名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Date &amp;&amp; Time</Name>
+    <Value>日付＆＆時間</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Interval (sec)</Name>
+    <Value>合間（秒）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Threshold (sec)</Name>
+    <Value>スレシュホールド（秒）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Row Read Event</Name>
+    <Value>行読み取りイベント</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Column Delimiter</Name>
+    <Value>列デリミタ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Row Delimiter</Name>
+    <Value>行デリミタ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Column ID</Name>
+    <Value>列ID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Row ID</Name>
+    <Value>行ID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CSV Filename</Name>
+    <Value>CSV ファイル名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Excel Filename</Name>
+    <Value>エクセルファイル名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Target Folder</Name>
+    <Value>ターゲットフォルダ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Sheet Name</Name>
+    <Value>シート名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Overwrite?(Yes/No)</Name>
+    <Value>上書き？（はい/いいえ）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Append?(Yes/No)</Name>
+    <Value>追加しますか？（はい/いいえ）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Skip Empty Rows?(Yes/No)</Name>
+    <Value>空の行をスキップ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Ignore Formula?(Yes/No)</Name>
+    <Value>数式を無視しますか？（はい/いいえ）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Threshold Time(sec)</Name>
+    <Value>スレシュホールド時間（秒）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Applicable only if secure text is enabled.</Name>
+    <Value>セキュリティで保護されたテキストが有効になっている場合にのみ適用されます。</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Security</Name>
+    <Value>セキュリティ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RunTimeList</Name>
+    <Value>ランタイムリスト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>GlobalVarAssigner</Name>
+    <Value>グローバル変数アサイナ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Compnenty_Name</Name>
+    <Value>コンポーネント名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ComponentPropAssigner</Name>
+    <Value>コンポーネントプロパティアサイナ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Idle Time(sec)</Name>
+    <Value>アイドル時間（秒）</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>File System Status</Name>
+    <Value>ファイルシステムのステータス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Numbers</Name>
+    <Value>番号</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Row Identifier</Name>
+    <Value>行ID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Source Compressed File</Name>
+    <Value>ソース圧縮ファイル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Relative Path</Name>
+    <Value>レラティブパス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Modulus</Name>
+    <Value>モジュラス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>UseLocal</Name>
+    <Value>ローカルを使用</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ConnectionTimeout</Name>
+    <Value>接続タイムアウト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>AppID</Name>
+    <Value>アプリケーションID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CondValue</Name>
+    <Value>条件によって値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>MultipleExpression</Name>
+    <Value>複数表現</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CustomeIfElse</Name>
+    <Value>カスタムIf else</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CustExpression</Name>
+    <Value>カスタム表現</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Server</Name>
+    <Value>サーバー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DBName</Name>
+    <Value>DB名称</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RowsAffected</Name>
+    <Value>行が影響された</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Data</Name>
+    <Value>データ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Extension</Name>
+    <Value>拡張</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FolderPath</Name>
+    <Value>フォルダパス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SourcePath</Name>
+    <Value>ソースパス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DestinationPath</Name>
+    <Value>行先パス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>StorageLocation</Name>
+    <Value>ストレージ場所</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>InputType</Name>
+    <Value>入力タイプ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FormId</Name>
+    <Value>フォームID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Host</Name>
+    <Value>ホスト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Port</Name>
+    <Value>ポート</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsSSL</Name>
+    <Value>SSLです</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Subject</Name>
+    <Value>件名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ReplayMessageID</Name>
+    <Value>返信メッセージID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>HTMLBodyVariables</Name>
+    <Value>HTMLボディ変数</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>MaxTrails</Name>
+    <Value>最大トレイル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DownloadFileLocation</Name>
+    <Value>ファイルの場所をダウンロード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsDownload</Name>
+    <Value>ダウンロードです</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ReadUnseenmail</Name>
+    <Value>見えないメールを読む</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>MailFolder</Name>
+    <Value>メールフォルダ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ColDelimiter</Name>
+    <Value>コルデリミタ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsAppend</Name>
+    <Value>追加ですか</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SkipEmptyRows</Name>
+    <Value>空欄の行をスキップ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IgnoreFormula</Name>
+    <Value>数式を無視</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ExcelSheetName</Name>
+    <Value>エクセルシート名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>HeaderRowId</Name>
+    <Value>ヘッダ行ID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RemoveDup</Name>
+    <Value>重複を削除</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SearchHeader</Name>
+    <Value>ヘッダを検査</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>MatchOrContain</Name>
+    <Value>正確または含む</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsRecordFound</Name>
+    <Value>レコーダーが見つかりましたか？</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SelectedRowIds</Name>
+    <Value>選択された行ID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IncludeHeader</Name>
+    <Value>ヘッダを追加する</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>TextInput</Name>
+    <Value>テキスト入力</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Matchstring</Name>
+    <Value>一致文字列</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Regexstring</Name>
+    <Value>正規表現文字列</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DelimterPosition</Name>
+    <Value>デリミタの位置</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ParamString</Name>
+    <Value>パラメータ文字列</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>OutString</Name>
+    <Value>アウトストリング</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SearchContent</Name>
+    <Value>コンテンツを検索</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Keywords</Name>
+    <Value>キーワード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>TextData</Name>
+    <Value>テキストデータ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SecDateTime</Name>
+    <Value>秒日付時間</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>MonthNum</Name>
+    <Value>月数</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DateTimeDifference</Name>
+    <Value>日付時差</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FileList</Name>
+    <Value>ファイルリスト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FileCount</Name>
+    <Value>ファイル数</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IdleTime</Name>
+    <Value>アイドルタイム</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SystemStatus</Name>
+    <Value>システムステータス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsFolderExists</Name>
+    <Value>フォルダが存在するか</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FileConvert</Name>
+    <Value>ファイル変換</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IconSize</Name>
+    <Value>アイコンサイズ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FileNameWithOutExtension</Name>
+    <Value>拡張子なしのファイル名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ExcelFile</Name>
+    <Value>エクセルファイル名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Args</Name>
+    <Value>引数</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RunInBG</Name>
+    <Value>BGに実行</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsprocessID</Name>
+    <Value>処理IDですか</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ExecStatus</Name>
+    <Value>実行状況</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsExact</Name>
+    <Value>正確ですか</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IspProcessID</Name>
+    <Value>処理IDですか</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>UnZipSource</Name>
+    <Value>ソースをアンジップ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>UnZipDestination</Name>
+    <Value>行先をアンジップ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>WatchedFilename</Name>
+    <Value>監視ファイル名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>KeyPress</Name>
+    <Value>キープレス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>MouseAction</Name>
+    <Value>マウスアクション</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Time Taken</Name>
+    <Value>時間を取る</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>IsParallelorSequential</Name>
+    <Value>並列または順次シーケンシャル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>BotStatus</Name>
+    <Value>ボット状態</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>BotMessage</Name>
+    <Value>ボットメッセージ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>NumberofIterations</Name>
+    <Value>反復回数</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Lvalue</Name>
+    <Value>左値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Rvalue</Name>
+    <Value>右値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>EndStatus</Name>
+    <Value>終了ステータス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>EndMessage</Name>
+    <Value>終了メッセージ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Exception</Name>
+    <Value>例外</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ColumnIDName</Name>
+    <Value>列IDの名称</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SearchTexts</Name>
+    <Value>テキストを検索</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SearchColumnIds</Name>
+    <Value>列IDを検索</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ExactOrContains</Name>
+    <Value>正確または含む</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SortColumn</Name>
+    <Value>列をソーティングする</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>InputTableObj</Name>
+    <Value>入力テーブルオブジェクト</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SelectedCanvasName</Name>
+    <Value>選択したキャンバス名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>HTMLFile</Name>
+    <Value>HTMLファイル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>FillerData</Name>
+    <Value>フィラーデータ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>InKeys</Name>
+    <Value>キーで</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>KeyValues</Name>
+    <Value>キー値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>XMLFile</Name>
+    <Value>XMLファイル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>AttrValue</Name>
+    <Value>属性値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>OutputParameters</Name>
+    <Value>出力パラメータ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>BrowserName</Name>
+    <Value>ブラウザ名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SriptFile</Name>
+    <Value>スクリプトファイル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>SriptName</Name>
+    <Value>スクリプト名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>API URL</Name>
+    <Value>API URL</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Responce</Name>
+    <Value>応答</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>HOST URL</Name>
+    <Value>ホストURL</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ResponceResult</Name>
+    <Value>応答結果</Value>
+  </LanguageTable>
+  
+  <LanguageTable>
+    <Name>Value1</Name>
+    <Value>値1</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Value2</Name>
+    <Value>値2</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Value3</Name>
+    <Value>値3</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Value4</Name>
+    <Value>値4</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Value5</Name>
+    <Value>値5</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Value6</Name>
+    <Value>値6</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Value7</Name>
+    <Value>値7</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Value8</Name>
+    <Value>値8</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Value9</Name>
+    <Value>値9</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Value10</Name>
+    <Value>値10</Value>
+  </LanguageTable>
+  
+  <LanguageTable>
+    <Name>Param1</Name>
+    <Value>パラメータ1</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Param2</Name>
+    <Value>パラメータ2</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Param3</Name>
+    <Value>パラメータ3</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Param4</Name>
+    <Value>パラメータ4</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Param5</Name>
+    <Value>パラメータ5</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Param6</Name>
+    <Value>パラメータ6</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Param7</Name>
+    <Value>パラメータ7</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Param8</Name>
+    <Value>パラメータ8</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Param9</Name>
+    <Value>パラメータ9</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Param10</Name>
+    <Value>パラメータ10</Value>
+  </LanguageTable>
+  
+  <LanguageTable>
+    <Name>Security Token</Name>
+    <Value>セキュリティトークン</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Return Code</Name>
+    <Value>戻りコード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Status ID</Name>
+    <Value>ステータスID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Queue Name</Name>
+    <Value>キュー名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Update Queue</Name>
+    <Value>更新キュー</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Sequence Enable</Name>
+    <Value>シーケンス有効</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>True</Name>
+    <Value>本当</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>False</Name>
+    <Value>偽</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output Password</Name>
+    <Value>出力パスワード</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Output Id</Name>
+    <Value>出力ID</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Input Id</Name>
+    <Value>入力ID</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Condition Variable</Name>
+    <Value>条件変数</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Inc/Dec</Name>
+    <Value>増減</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Expression</Name>
+    <Value>式</Value>
+  </LanguageTable>
+ <LanguageTable>
+    <Name>Pattern 1</Name>
+    <Value>パターン 1</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Text Class 1</Name>
+    <Value>テキストクラス 1</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Pattern 2</Name>
+    <Value>パターン 2</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Text Class 2</Name>
+    <Value>テキストクラス 2</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Pattern 3</Name>
+    <Value>パターン 3</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Text Class 3</Name>
+    <Value>テキストクラス 3</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Pattern 4</Name>
+    <Value>パターン 4</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Text Class 4</Name>
+    <Value>テキストクラス 4</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Pattern 5</Name>
+    <Value>パターン 5</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Text Class 5</Name>
+    <Value>テキストクラス 5</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Pattern 6</Name>
+    <Value>パターン 6</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Text Class 6</Name>
+    <Value>テキストクラス 6</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Pattern 7</Name>
+    <Value>パターン 7</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Text Class 7</Name>
+    <Value>テキストクラス 7</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Pattern 8</Name>
+    <Value>パターン 8</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Text Class 8</Name>
+    <Value>テキストクラス 8</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Pattern 9</Name>
+    <Value>パターン 9</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Text Class 9</Name>
+    <Value>テキストクラス 9</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Custom Result</Name>
+    <Value>カスタム結果</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Ignore Case</Name>
+    <Value>大文字と小文字を区別しない</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Default Class</Name>
+    <Value>デフォルトクラス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ClassPattern1</Name>
+    <Value>クラスパターン</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>ClassPattern2</Name>
+    <Value>クラスパターン</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>ClassPattern3</Name>
+    <Value>クラスパターン</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>ClassPattern4</Name>
+    <Value>クラスパターン</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>ClassPattern5</Name>
+    <Value>クラスパターン</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>ClassPattern6</Name>
+    <Value>クラスパターン</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>ClassPattern7</Name>
+    <Value>クラスパターン</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>ClassPattern8</Name>
+    <Value>クラスパターン</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>ClassPattern9</Name>
+    <Value>クラスパターン</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>OutputClass</Name>
+    <Value>出力クラス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>OutputPwd</Name>
+    <Value>出力パスワード</Value>
+  </LanguageTable>
+    <LanguageTable>
+    <Name>Process Name/Process Id</Name>
+    <Value>プロセス名/プロセスID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Exact/Contains/Process Id</Name>
+    <Value>完全/含む/プロセスID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Max.Trials</Name>
+    <Value>最大トライアル</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Date Format</Name>
+    <Value>日付フォーマット</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Second Date Time</Name>
+    <Value>2番目の日時</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Idle Time (In Seconds)</Name>
+    <Value>アイドル時間（秒）</Value>
+  </LanguageTable>
+   <LanguageTable>
+    <Name>Key1</Name>
+    <Value>キー1</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Key2</Name>
+    <Value>キー2</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Key3</Name>
+    <Value>キー3</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Key4</Name>
+    <Value>キー4</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Key5</Name>
+    <Value>キー5</Value>
+  </LanguageTable>
+ <LanguageTable>
+    <Name>Custom URL</Name>
+    <Value>カスタムURL</Value>
+  </LanguageTable>
+ <LanguageTable>
+    <Name>Custom Keys</Name>
+    <Value>カスタムキー</Value>
+  </LanguageTable>
+ <LanguageTable>
+    <Name>Custom Values</Name>
+    <Value>カスタム値</Value>
+  </LanguageTable>
+ <LanguageTable>
+    <Name>Message Key</Name>
+    <Value>メッセージキー</Value>
+  </LanguageTable>
+ <LanguageTable>
+    <Name>From Mobile Key</Name>
+    <Value>携帯キーから</Value>
+  </LanguageTable>
+ <LanguageTable>
+    <Name>User Name Key</Name>
+    <Value>ユーザー名キー</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Output Responce</Name>
+    <Value>出力レスポンス</Value>
+  </LanguageTable>
+<LanguageTable>
+    <Name>Search Columns IDs</Name>
+    <Value>列IDを検索</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Additional Keys</Name>
+    <Value>追加のキー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Password Key</Name>
+    <Value>パスワードキー</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>Additional Values</Name>
+    <Value>追加の値</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>To Mobile Key</Name>
+    <Value>携帯キーへ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CreatedFileNameWithPath</Name>
+    <Value>パスでファイル名を作成</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>CreatedFileName</Name>
+    <Value>作成ファイル名</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ProcessStatus</Name>
+    <Value>プロセス状況</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>eventType</Name>
+    <Value>イベントタイプ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>MailTime</Name>
+    <Value>メール時間</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>MailTo</Name>
+    <Value>にメールする</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>EmailBody</Name>
+    <Value>メール本文</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RequestedID</Name>
+    <Value>要求されたID</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RequestedUrl</Name>
+    <Value>要求されたURL</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RequestedHeader</Name>
+    <Value>要求されたヘッダ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RequestedQueryString</Name>
+    <Value>要求されたクエリ文字列</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>RequestedBody</Name>
+    <Value>要求されたボディ</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>ExcelFileFullPath</Name>
+    <Value>Excelファイルのフルパス</Value>
+  </LanguageTable>
+  <LanguageTable>
+    <Name>DataList</Name>
+    <Value>データリスト</Value>
+  </LanguageTable>
+ <LanguageTable>
+    <Name>Security Tok</Name>
+    <Value>セキュリティトークン</Value>
+  </LanguageTable>
+ <LanguageTable>
+    <Name>TimerInterval</Name>
+    <Value>タイマー間隔</Value>
+  </LanguageTable>
+ <LanguageTable>
+    <Name>Permanent Delete?</Name>
+    <Value>永久削除？</Value>
+  </LanguageTable>
+ <LanguageTable>
+    <Name>Values Delimiter</Name>
+    <Value>値の区切り文字</Value>
+  </LanguageTable>
+</DocumentElement>
