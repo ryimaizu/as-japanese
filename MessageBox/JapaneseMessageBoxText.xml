@@ -2,7 +2,7 @@
 <DocumentElement>
   <LanguageTable>
     <Name>Username / password do not match. Please try again.</Name>
-    <Value>ユーザー名とパスワードが一致しません。 もう一度お試しください。</Value>
+    <Value>ユーザー名とパスワードが一致しません。もう一度お試しください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Please enter either true or false</Name>
@@ -22,7 +22,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Selected Attribute already added. Do you want clear all the conditions?</Name>
-    <Value>選択されたアトリビュートは既に追加されています。 全ての条件をクリアしますか？</Value>
+    <Value>選択されたアトリビュートは既に追加されています。全ての条件をクリアしますか？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ANTstein QueenBot</Name>
@@ -38,11 +38,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Advanced FTP Server is already running in background by some other user. New instance cannot be started.</Name>
-    <Value>Advanced FTPサーバは既に他のユーザーによってバックグラウンドで実行されています。 新しいインスタンスを開始する事はできません。</Value>
+    <Value>Advanced FTPサーバは既に他のユーザーによってバックグラウンドで実行されています。新しいインスタンスを開始する事はできません。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>*- Unable to change password. you are not authorized to perform this action. Contact administrator</Name>
-    <Value> *- パスワードを変更できません。 このアクションを実行する権限がありません。 管理者に連絡してください。</Value>
+    <Value> *- パスワードを変更できません。このアクションを実行する権限がありません。管理者に連絡してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to close the application?</Name>
@@ -66,7 +66,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Canvas connection is failed. Please check the connection.</Name>
-    <Value>キャンバスへの接続が失敗しました。 接続を確認してください。</Value>
+    <Value>キャンバスへの接続が失敗しました。接続を確認してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Only one bot allowed here.</Name>
@@ -82,7 +82,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>QueenBOTSettings.xml setup file is not available. Please check under XmlFiles folder or contact administrator.</Name>
-    <Value>QueenBotの設定ファイル(.xml)がありません。 xmlファイルフォルダを確認してください。または管理者に連絡してください。</Value>
+    <Value>QueenBotの設定ファイル(.xml)がありません。xmlファイルフォルダを確認してください。または管理者に連絡してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>This field is required"</Name>
@@ -130,7 +130,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Runtime variables are not allowed to get input from components.\nThe value would be taken as simple text.\nPlease confirm</Name>
-    <Value>ランタイム変数はコンポーネントからの入力と取得は許可されていません。 値はテキストとして取得しました。確認してください</Value>
+    <Value>ランタイム変数はコンポーネントからの入力と取得は許可されていません。値はテキストとして取得しました。確認してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Please select valid Property Modifiers</Name>
@@ -166,7 +166,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Cannot create New Project with the name. “A folder with the name {0} already exists”</Name>
-    <Value>新しいプロジェクトを同じ名前で作成する事ははできません。 {0}のフォルダ名前が既に存在します。</Value>
+    <Value>新しいプロジェクトを同じ名前で作成する事ははできません。{0}のフォルダ名前が既に存在します。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Sorry, your BOT {0} is existed.Please check on QueenBOT window.</Name>
@@ -210,7 +210,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>                        CanvasSettings.xml setup file is not available. Please check under XmlFiles folder or contact administrator.</Name>
-    <Value>キャンバス設定.xmlセットアップファイルはありません。 xmlファイルフォルダを確認してくださいまたは管理者に連絡してください。</Value>
+    <Value>キャンバス設定.xmlセットアップファイルはありません。xmlファイルフォルダを確認してくださいまたは管理者に連絡してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>                Canvas file is not available .Please open canvas.</Name>
@@ -218,19 +218,19 @@
   </LanguageTable>
   <LanguageTable>
     <Name>                    Process workflow compilation failed. Please check the error log.</Name>
-    <Value>プロセスワークフローのコンパイルが失敗しました。 エラーログを確認してください。</Value>
+    <Value>プロセスワークフローのコンパイルが失敗しました。エラーログを確認してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>                    No valid component found in the process workflow. Please add component and try again. .</Name>
-    <Value>有効なプロセスワークフローでコンポーネントが見つかりませんでした。 コンポーネントを追加してもう一度お試しください。</Value>
+    <Value>有効なプロセスワークフローでコンポーネントが見つかりませんでした。コンポーネントを追加してもう一度お試しください。</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>No valid component found in process workflow. Add component and try again.</Name>
-    <Value>有効なプロセスワークフローでコンポーネントが見つかりませんでした。 コンポーネントを追加してもう一度お試しください。</Value>
+    <Value>有効なプロセスワークフローでコンポーネントが見つかりませんでした。コンポーネントを追加してもう一度お試しください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>                            Build Failed. Unavailable global variable is used in the canvas..</Name>
-    <Value>ビルド（確認）が失敗しました。 利用できませんグローバル変数がキャンバスで使用されています</Value>
+    <Value>ビルド（確認）が失敗しました。利用できませんグローバル変数がキャンバスで使用されています</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>{0} - File copy failed.\nDo you want to overwrite?</Name>
@@ -238,7 +238,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Process workflow build has failed. Refer error log for further detail.</Name>
-    <Value>プロセスワークフローのビルドが（確認）失敗しました。 詳細については、エラーログを参照してください</Value>
+    <Value>プロセスワークフローのビルドが（確認）失敗しました。詳細については、エラーログを参照してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Process workflow build is completed successfully:</Name>
@@ -250,31 +250,31 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Process workflow build has failed. Refer the output window for further detail.</Name>
-    <Value>プロセスワークフローのビルドは（確認）失敗しました。 詳細については、出力ウィンドウを参照してください</Value>
+    <Value>プロセスワークフローのビルドは（確認）失敗しました。詳細については、出力ウィンドウを参照してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Error in saving the process workflow. Please try again. </Name>
-    <Value>プロセスワークフローの保存中にエラーが発生しました。 もう一度お試しください。</Value>
+    <Value>プロセスワークフローの保存中にエラーが発生しました。もう一度お試しください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Connection is Missing in the process workflow. Please Connect the components and try again.</Name>
-    <Value>プロセスワークフローに接続がありません。 コンポーネントを接続してもう一度お試しください</Value>
+    <Value>プロセスワークフローに接続がありません。コンポーネントを接続してもう一度お試しください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>The orchestrator connection is aborted . Please check the connection and try again.</Name>
-    <Value>オーケストレーター接続は中断されます。 接続を確認して、もう一度お試しください。</Value>
+    <Value>オーケストレーター接続は中断されます。接続を確認して、もう一度お試しください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Canvas connection is failed. Please check the connection.</Name>
-    <Value>キャンバス接続は失敗しました。 接続を確認してください。</Value>
+    <Value>キャンバス接続は失敗しました。接続を確認してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Process Workflow name {0} .wfml already exists. Please choose a different canvas name.</Name>
-    <Value>プロセスワークフロー名は{0}です。 .wfmlが既に存在します。 別のキャンバス名を選択してください。</Value>
+    <Value>プロセスワークフロー名は{0}です。.wfmlが既に存在します。別のキャンバス名を選択してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Invalid Process Workflow name. Please choose a different name.</Name>
-    <Value>プロセスワークフロー名が無効です。 別の名前を選択してください。</Value>
+    <Value>プロセスワークフロー名が無効です。別の名前を選択してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Queen Bot repository folder not accessible.</Name>
@@ -282,11 +282,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Error in Process workflow compression. Please try again. If issue persists, Please contact administrator. </Name>
-    <Value>プロセスワークフロー圧縮でエラーが発生しました。 もう一度お試しください。 問題が続く場合は、管理者を連絡してください。</Value>
+    <Value>プロセスワークフロー圧縮でエラーが発生しました。もう一度お試しください。問題が続く場合は、管理者を連絡してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>No component found in the process workflow. Please add component and try again. .</Name>
-    <Value>プロセスワークフローでコンポーネントが見つかりませんでした。 コンポーネントを追加してもう一度お試しください。 </Value>
+    <Value>プロセスワークフローでコンポーネントが見つかりませんでした。コンポーネントを追加してもう一度お試しください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Re-Sequence process is completed.</Name>
@@ -294,11 +294,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Invalid connection in the process. Please check the connection and try again.</Name>
-    <Value>プロセスの接続が無効です。 接続を確認して、もう一度お試しください。</Value>
+    <Value>プロセスの接続が無効です。接続を確認して、もう一度お試しください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>{0}- Connection already exists. Please choose a different connection.</Name>
-    <Value>{0} - 接続は既に存在します。 別の接続を選択してください。</Value>
+    <Value>{0} - 接続は既に存在します。別の接続を選択してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>                    Config Parameter has successfully Saved </Name>
@@ -306,7 +306,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>                Configuration Parameter is Failed. Please try again. </Name>
-    <Value>構成パラメータが失敗しました。 もう一度お試しください。</Value>
+    <Value>構成パラメータが失敗しました。もう一度お試しください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>{0} is a KeyWord..Illega to use in Variable Name..</Name>
@@ -338,7 +338,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Username / password do not match. Please try again.</Name>
-    <Value>ユーザー名/パスワードが一致しません。 もう一度お試しください。</Value>
+    <Value>ユーザー名/パスワードが一致しません。もう一度お試しください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Cannot create New Project with the name. “A folder with the name " + projectName + " already exists”</Name>
@@ -362,7 +362,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Special characters in Password is not allowed.</Name>
-    <Value>パスワードに特別文字は許可されません</Value>
+    <Value>パスワードに特殊文字は許可されません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Please select valid property</Name>
@@ -398,7 +398,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Canvas connection is failed. Please check the connection.</Name>
-    <Value>キャンバス接続は失敗しました。 接続を確認してください。</Value>
+    <Value>キャンバス接続は失敗しました。接続を確認してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>{0}.Process Workflow (.wfml) file already exists.Do you want to replace it?</Name>
@@ -410,19 +410,19 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Special characters in Password is not allowed.</Name>
-    <Value>パスワードに特別文字は許可されません</Value>
+    <Value>パスワードに特殊文字は許可されません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Selected file is a invalid Project file. Please select a valid file.</Name>
-    <Value>選択されたファイルは無効なプロジェクトファイルです。 有効なファイルを選択してください。</Value>
+    <Value>選択されたファイルは無効なプロジェクトファイルです。有効なファイルを選択してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Would you like to remove selected file from Solution Explorer?</Name>
-    <Value>解決の探検家から選択されたファイルを削除したいですか？</Value>
+    <Value>ソリューションエクスプローラから選択されたファイルを削除したいですか？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>This canvas cannot be deleted as it is currently open.  Please close it and try again.</Name>
-    <Value>現在実行されている時にキャンバスを削除できません。それを閉じてもう一度お試しください</Value>
+    <Value>実行中にキャンバスを削除することはできません。終了してからもう一度お試しください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Error in starting the Target Machine server. Please check the Error logs..</Name>
@@ -438,7 +438,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>The current logged-in user cannot be deleted. Please login as different admin user to delete this user profile.</Name>
-    <Value>現在ログインしているユーザーを削除できません。 このユーザーのプロフィールを削除するには、別の管理者としてログインしてください。</Value>
+    <Value>現在ログインしているユーザーを削除できません。このユーザーのプロフィールを削除するには、別の管理者としてログインしてください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to delete this user?</Name>
@@ -458,7 +458,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>The file cannot be opened. Make sure the selected file is a valid file!</Name>
-    <Value>ファイルを開く事ができません。 選択されたファイルが有効である事を確認してください！</Value>
+    <Value>ファイルを開く事ができません。選択されたファイルが有効である事を確認してください！</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Blank Canvas cannot be saved.</Name>
@@ -482,7 +482,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>*- Unable to change password. you are not authorized to perform this action. Contact administrator"</Name>
-    <Value> パスワードを変更できません。このアクションを実行する権限がありません。 管理者を連絡してください。</Value>
+    <Value> パスワードを変更できません。このアクションを実行する権限がありません。管理者を連絡してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Valid EXE not found.</Name>
@@ -506,11 +506,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>*This IP address is already in use. Please reconfigure a different IP address</Name>
-    <Value>このIPアドレスは既に使用されています。 別のIPアドレスを再設定してください。</Value>
+    <Value>このIPアドレスは既に使用されています。別のIPアドレスを再設定してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* ANTbot server is not started in the target machine. Please start it and try again.</Name>
-    <Value>ANT Botサーバーはターゲットマシンで開始されていません。 それを開始してもう一度お試しください。</Value>
+    <Value>ANT Botサーバーはターゲットマシンで開始されていません。それを開始してもう一度お試しください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Selected deployment is Failed. {0}</Name>
@@ -522,11 +522,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>* Selected Process Workflow is already deployed in ANTbot. Remove the process and try again.</Name>
-    <Value>選択されたプロセスワークフローは既にANT Botにデプロイされています。 プロセスを削除して、もう一度お試しください</Value>
+    <Value>選択されたプロセスワークフローは既にANT Botにデプロイされています。プロセスを削除して、もう一度お試しください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Selected Process Workflow cannot be deployed to the ANTbot. Please refer the error log for more details.</Name>
-    <Value>選択されたプロセスワークフローをANT Botにデデプロイする事はできません。 詳細についてはエラーログを参照してください。</Value>
+    <Value>選択されたプロセスワークフローをANT Botにデデプロイする事はできません。詳細についてはエラーログを参照してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Error in starting the ANTbot server.</Name>
@@ -546,7 +546,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>* Target Machine server is not started. Please start the Target Machine server and try again.</Name>
-    <Value>ターゲットマシンサーバーが起動していません。 ターゲットマシンサーバーを起動して、もう一度お試しください</Value>
+    <Value>ターゲットマシンサーバーが起動していません。ターゲットマシンサーバーを起動して、もう一度お試しください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Selected process cannot be deleted in Target Machine as It is currently being executed. Stop the process before deleting again.</Name>
@@ -586,7 +586,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>* Selected Process Workflow is already executing in Target Machine. Please stop the process and try again.</Name>
-    <Value>選択されたプロセスワークフローは既にターゲットマシンで実行されています。 プロセスを停止してもう一度お試しください。</Value>
+    <Value>選択されたプロセスワークフローは既にターゲットマシンで実行されています。プロセスを停止してもう一度お試しください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Would you like to Save changes? - </Name>
@@ -610,7 +610,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>* Selected Schedule already exists. Please change the time </Name>
-    <Value>選択されたスケジュールは既に存在します。 時間を変更してください</Value>
+    <Value>選択されたスケジュールは既に存在します。時間を変更してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Select at least one action 'Activate' or 'Stop</Name>
@@ -710,11 +710,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>* Unable to start FTP; Deployment failed</Name>
-    <Value>* FTPを開始できません。 展開に失敗しました</Value>
+    <Value>* FTPを開始できません。展開に失敗しました</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* ANTbot machine server is not started. Please start the ANTbot machine server and try again.</Name>
-    <Value>* ANT Botサーバーは開始されていません。 ANT Botサーバーを起動して、もう一度お試しください。</Value>
+    <Value>* ANT Botサーバーは開始されていません。ANT Botサーバーを起動して、もう一度お試しください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Selected deployment is Failed.</Name>
@@ -726,11 +726,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>* ANTbot server is not started in the ANTbot machine. Please start it and try again.</Name>
-    <Value>* ANT BotサーバーがANT Botマシンで開始されていません。 開始してもう一度試してください。</Value>
+    <Value>* ANT BotサーバーがANT Botマシンで開始されていません。開始してもう一度試してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Email Id entered is not valid. Please review / correct and try again.</Name>
-    <Value>入力されたメールアドレスは無効です。 見直し/訂正してもう一度お試しください。</Value>
+    <Value>入力されたメールアドレスは無効です。見直し/訂正してもう一度お試しください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Please enter valid Email-id.</Name>
@@ -738,7 +738,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Database connection details are changed. Application will be close. Please restart.</Name>
-    <Value>データベース接続の詳細が変更されます。 申し込みは終了します。 再起動してください。</Value>
+    <Value>データベース接続の詳細が変更されます。申し込みは終了します。再起動してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Email Configured Successfully.</Name>
@@ -746,7 +746,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Error in establishing DB connection. Please check the parameters and try again..</Name>
-    <Value>DB接続の確立中にエラーが発生しました。 パラメータを確認してもう一度お試しください。</Value>
+    <Value>DB接続の確立中にエラーが発生しました。パラメータを確認してもう一度お試しください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Please select Database Type.</Name>
@@ -810,7 +810,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Connection is Missing in the process workflow. in {0} on {1} Please Connect the components and try again.</Name>
-    <Value>プロセスワークフローに接続がありません。 {0}の{1}にコンポーネントを接続して、試してください。</Value>
+    <Value>プロセスワークフローに接続がありません。{0}の{1}にコンポーネントを接続して、試してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Re-Sequence process is complete.</Name>
@@ -818,11 +818,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>WFML ensurity failed. Saving may corrupt the canvas.\nDo you want to save anyways?</Name>
-    <Value>WFMLの確保は失敗しました。 保存するとキャンバスが破損する可能性があります。保存しますか？</Value>
+    <Value>WFMLの確保は失敗しました。保存するとキャンバスが破損する可能性があります。保存しますか？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* ANTbot  server is not started in the ANTbot machine. Please start it and try again.</Name>
-    <Value>* ANT BotのマシンにANT Botサーバーは開始されていません。 もう一度起動してお試しください。</Value>
+    <Value>* ANT BotのマシンにANT Botサーバーは開始されていません。もう一度起動してお試しください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to Delete selected Process?</Name>
@@ -838,11 +838,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Error in starting the ANTbot machine server. Please check the Error logs..</Name>
-    <Value>ANTbotマシンサーバーの起動中にエラーが発生しました。 エラーログを確認してください。</Value>
+    <Value>ANTbotマシンサーバーの起動中にエラーが発生しました。エラーログを確認してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Error in re-activating the ANTBOT machine Server. Please check the error logs.</Name>
-    <Value>* ANTBOTマシンサーバーの再起動中にエラーが発生しました。 エラーログを確認してください。</Value>
+    <Value>* ANTBOTマシンサーバーの再起動中にエラーが発生しました。エラーログを確認してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Error in clearing the Cache from the ANTbot machine Server.</Name>
@@ -870,7 +870,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>* Selected Process Workflow is already executing in ANTbot machine. Please stop the process and try again.</Name>
-    <Value>*選択したプロセスワークフローはすでにANTBOTマシンで実行されています。 プロセスを停止して試してください。</Value>
+    <Value>*選択したプロセスワークフローはすでにANTBOTマシンで実行されています。プロセスを停止して試してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>License is Expired</Name>
@@ -906,19 +906,19 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Connection already exists. please choose a different connection.</Name>
-    <Value>接続は既に存在します。 別の接続を選択してください。</Value>
+    <Value>接続は既に存在します。別の接続を選択してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Invalid connection in the process.check the connection and try again.</Name>
-    <Value>プロセス内に無効な接続が発生。 接続を確認してもう一度試してください。</Value>
+    <Value>プロセス内に無効な接続が発生。接続を確認してもう一度試してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>No component found in the process workflow. Please add component and try again</Name>
-    <Value>プロセスワークフローにコンポーネントが見つかりません。 コンポーネントを追加してもう一度試してください</Value>
+    <Value>プロセスワークフローにコンポーネントが見つかりません。コンポーネントを追加してもう一度試してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Error in Process workflow compression. Please try again. If issue persists, Please contact administrator. </Name>
-    <Value>プロセスワークフローの圧縮中にエラーが発生しました。 もう一度試してください。 問題が続ける場合は、管理者に連絡してください。</Value>
+    <Value>プロセスワークフローの圧縮中にエラーが発生しました。もう一度試してください。問題が続ける場合は、管理者に連絡してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Queen Bot repository folder not accessible.</Name>
@@ -930,15 +930,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Invalid Process Workflow name. Please choose a different name.</Name>
-    <Value>無効なプロセスワークフロー名。 別の名前を選択してください。</Value>
+    <Value>無効なプロセスワークフロー名。別の名前を選択してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>The orchestrator connection is aborted . Please check the connection and try again.</Name>
-    <Value>オーケストレーター接続は中止されます。 接続を確認してもう一度試してください。</Value>
+    <Value>オーケストレーター接続は中止されます。接続を確認してもう一度試してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Error in saving the process workflow. Please try again. </Name>
-    <Value>プロセスワークフローの保存中にエラーが発生しました。 もう一度試してください。</Value>
+    <Value>プロセスワークフローの保存中にエラーが発生しました。もう一度試してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Process workflow is successfully saved.</Name>
@@ -946,11 +946,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Process workflow build is failed. Please refer the output window for further detail.</Name>
-    <Value>プロセスワークフローのビルドが失敗しました。 詳細は出力ウィンドウを参照してください。</Value>
+    <Value>プロセスワークフローのビルドが失敗しました。詳細は出力ウィンドウを参照してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Build failed as a BOT is being activated in BOTbuilder. Please stop the Bot and perform the build.</Name>
-    <Value>BOTがBOTbuilderでアクティブ化されているため、ビルドに失敗しました。 Botを停止してビルドを実行してください。</Value>
+    <Value>BOTがBOTbuilderでアクティブ化されているため、ビルドに失敗しました。Botを停止してビルドを実行してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Process workflow build is successfully completed:</Name>
@@ -958,7 +958,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Process workflow build is failed. Please refer error log for further detail.</Name>
-    <Value>プロセスワークフローの構築に失敗しました。 詳細についてはエラーログを参照してください。</Value>
+    <Value>プロセスワークフローの構築に失敗しました。詳細についてはエラーログを参照してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Failed...!</Name>
@@ -966,19 +966,19 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Build Failed. Unavailable global variable is used in the canvas..</Name>
-    <Value>ビルドが失敗しました。 キャンバスで使用できないグローバル変数が使用されています。</Value>
+    <Value>ビルドが失敗しました。キャンバスで使用できないグローバル変数が使用されています。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>No valid component found in the process workflow. Please add component and try again</Name>
-    <Value>プロセスワークフローに有効なコンポーネントが見つかりません。 コンポーネントを追加してもう一度試してください</Value>
+    <Value>プロセスワークフローに有効なコンポーネントが見つかりません。コンポーネントを追加してもう一度試してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Process workflow compilation failed. Please check the error log.</Name>
-    <Value>プロセスワークフローのコンパイルに失敗しました。 エラーログを確認してください。</Value>
+    <Value>プロセスワークフローのコンパイルに失敗しました。エラーログを確認してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Linker circular reference found.\nPlease change the Selected Canvas Name.</Name>
-    <Value>リンカの循環参照が見つかりました。\ n選択したキャンバス名を変更してください。</Value>
+    <Value>リンカの循環参照が見つかりました。\n選択したキャンバス名を変更してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Please Enter new password.</Name>
@@ -1050,7 +1050,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>InitiEvent function not support in machine</Name>
-    <Value>イニシイベント機能がマシンでサポートされていません</Value>
+    <Value>初期化イベント機能がマシンでサポートされていません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Error</Name>
@@ -1074,7 +1074,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Selected date is past. Please select the date in the future.</Name>
-    <Value>選択された日付は過ぎています。 将来の日付を選択してください。</Value>
+    <Value>選択された日付は過ぎています。将来の日付を選択してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Selected Hour is past. Please select the hour in the future</Name>
@@ -1110,11 +1110,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>* Unable to add the the schedule. Please check the input data.</Name>
-    <Value>*スケジュールを追加できません。 入力データを確認してください。</Value>
+    <Value>*スケジュールを追加できません。入力データを確認してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Schedule added successfully. Number of Bots ={0}</Name>
-    <Value>*スケジュールを追加しました。 ボット数= {0}</Value>
+    <Value>*スケジュールを追加しました。ボット数= {0}</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Hours should be of 2 digits between [00-23]</Name>
@@ -1122,7 +1122,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Invalid Hour value. Hours should be between [00-23]</Name>
-    <Value>時間の値が無効です。 時間は[00-23]の間にしてください</Value>
+    <Value>時間の値が無効です。時間は[00-23]の間にしてください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Only Numerics Allowed</Name>
@@ -1134,7 +1134,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Invalid Minutes value. Minutes should be of 2 digits between [00-59]</Name>
-    <Value>分の値が無効です。 分は[00-59]の間の2桁で設定してください</Value>
+    <Value>分の値が無効です。分は[00-59]の間の2桁で設定してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>From Date cannot be greater than To Date</Name>
@@ -1154,11 +1154,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to Log Off -{0} ?</Name>
-    <Value>ログオフしますか -  {0}？</Value>
+    <Value>ログオフしますか - {0}？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Unable to connect to QueenBot / License File is missing</Name>
-    <Value>QueenBotに接続できない /  ライセンス ファイルが見つかりません</Value>
+    <Value>QueenBotに接続できない / ライセンス ファイルが見つかりません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Connection is Missing in the process workflow.Please Connect the components</Name>
@@ -1166,7 +1166,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>No valid component found in the process workflow. Please add component and try again.</Name>
-    <Value>プロセスワークフローに有効なコンポーネントが見つかりません。 コンポーネントを追加してやり直してください。</Value>
+    <Value>プロセスワークフローに有効なコンポーネントが見つかりません。コンポーネントを追加してやり直してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Are you want to save this details</Name>
@@ -1382,7 +1382,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Invalid Minutes value. Minutes should be of 2 digits between [00-59]</Name>
-    <Value>分の値が無効です。 分は[00-59]の間の2桁にしてください</Value>
+    <Value>分の値が無効です。分は[00-59]の間の2桁にしてください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Only Numerics Allowed</Name>
@@ -1394,7 +1394,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Invalid Hour value. Hours should be between [00-23]</Name>
-    <Value>時間の値が無効です。 時間は[00-23]の間にしてください</Value>
+    <Value>時間の値が無効です。時間は[00-23]の間にしてください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Hours should be of 2 digits between [00-23]</Name>
@@ -1422,15 +1422,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Selected minutes is past. Please select the minutes in the future.</Name>
-    <Value>選択した時間(分)は過ぎています。 今後の時間(分)を選択してください</Value>
+    <Value>選択した時間(分)は過ぎています。今後の時間(分)を選択してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Selected Hour is past. Please select the hour in the future.</Name>
-    <Value>選択された時間(時)は過ぎています。 今後の時間(時)を選択してください。</Value>
+    <Value>選択された時間(時)は過ぎています。今後の時間(時)を選択してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Selected date is past. Please select the date in the future.</Name>
-    <Value>選択された日付は過ぎています。 今後の日付を選択してください。</Value>
+    <Value>選択された日付は過ぎています。今後の日付を選択してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Please select valid status....</Name>
@@ -1526,7 +1526,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Selected Attribute already added. Do you want clear all the conditions?</Name>
-    <Value>選択した属性は既に追加されています。 すべての条件をクリアしますか？</Value>
+    <Value>選択した属性は既に追加されています。すべての条件をクリアしますか？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Please select any one the option</Name>
@@ -1538,7 +1538,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Entered collection name has already exists. Please enter different name</Name>
-    <Value>入力したコレクション名は既に存在します。 別の名前を入力してください</Value>
+    <Value>入力したコレクション名は既に存在します。別の名前を入力してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Please select column header</Name>
@@ -1682,11 +1682,11 @@
 </LanguageTable>
 <LanguageTable>
     <Name>*Entered e-mail ID is not valid. Correct it and try again.</Name>
-    <Value>*入力したメールアドレスは無効です。 修正してやり直してください。</Value>
+    <Value>*入力したメールアドレスは無効です。修正してやり直してください。</Value>
 </LanguageTable>
 <LanguageTable>
     <Name>Entered e-mail ID is not valid. Correct it and try again.</Name>
-    <Value>入力したEメールアドレスが無効です。 修正してやり直してください。</Value>
+    <Value>入力したEメールアドレスが無効です。修正してやり直してください。</Value>
 </LanguageTable>
 <LanguageTable>
     <Name>Provide a valid e-mail address.</Name>
@@ -1722,7 +1722,7 @@
   </LanguageTable>
 <LanguageTable>
     <Name>Canvas connection has failed. Check the connection.</Name>
-    <Value>キャンバス接続に失敗しました。 接続を確認してください。</Value>
+    <Value>キャンバス接続に失敗しました。接続を確認してください。</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Only one BOT is allowed here.</Name>
@@ -1730,11 +1730,11 @@
   </LanguageTable>
 <LanguageTable>
     <Name>Invalid connection to EndBot  . Please choose a different connection.</Name>
-    <Value>EndBotへの接続が無効です。 別の接続を選択してください。</Value>
+    <Value>EndBotへの接続が無効です。別の接続を選択してください。</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Invalid connection to {0} . Please choose a different connection.</Name>
-    <Value>{0}への接続が無効です。 別の接続を選択してください。</Value>
+    <Value>{0}への接続が無効です。別の接続を選択してください。</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>enter a name</Name>
@@ -1742,7 +1742,7 @@
   </LanguageTable>
 <LanguageTable>
     <Name>Variable name exist already. Try again.</Name>
-    <Value>変数名はすでに存在します。 再試行してください。</Value>
+    <Value>変数名はすでに存在します。再試行してください。</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Choose a type</Name>
@@ -1766,7 +1766,7 @@
   </LanguageTable>
   <LanguageTable>
 <Name>Connection is missing in process workflow. Connect the components and try again.</Name>
-    <Value>プロセスワークフローに接続がありません。 コンポーネントを接続してやり直してください。</Value>
+    <Value>プロセスワークフローに接続がありません。コンポーネントを接続してやり直してください。</Value>
   </LanguageTable>
   <LanguageTable>
 <Name>Custom Component Published Sucessfully</Name>
@@ -1802,7 +1802,7 @@
   </LanguageTable>
 <LanguageTable>
     <Name>{0} - Workflow Package is already deployed. Please check on process table.</Name>
-    <Value>{0} - ワークフローパッケージは既にデプロイされています。 工程表を確認してください。</Value>
+    <Value>{0} - ワークフローパッケージは既にデプロイされています。工程表を確認してください。</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Please select Process workflow and publish again</Name>
@@ -1850,11 +1850,11 @@
   </LanguageTable>
 <LanguageTable>
     <Name>Selected process workflow is deployed in ANTbot already. Remove the process and try again.</Name>
-    <Value>選択したプロセスワークフローはすでにANTbotにデプロイされています。 プロセスを削除してやり直してください</Value>
+    <Value>選択したプロセスワークフローはすでにANTbotにデプロイされています。プロセスを削除してやり直してください</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Selected process workflow cannot be deployed to the ANTbot. Refer the error log for more details.</Name>
-    <Value>選択したプロセスワークフローをANTbotにデプロイすることはできません。 詳細についてはエラーログを参照してください。</Value>
+    <Value>選択したプロセスワークフローをANTbotにデプロイすることはできません。詳細についてはエラーログを参照してください。</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Selected process has not successfully deployed.Colony Access is not available - {0}</Name>
@@ -1878,7 +1878,7 @@
   </LanguageTable>
 <LanguageTable>
     <Name>Ant BOT Machine server has not started. Start it and try again.</Name>
-    <Value>AntBOTマシンサーバーが起動していません。 それを起動してやり直してください。</Value>
+    <Value>AntBOTマシンサーバーが起動していません。それを起動してやり直してください。</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>No RunTime Variables available</Name>
