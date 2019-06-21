@@ -94,11 +94,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Linking </Name>
-    <Value>連係</Value>
+    <Value>リンキング</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>parser</Name>
-    <Value>パーサ</Value>
+    <Value>パーサー</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Runner</Name>
@@ -1274,7 +1274,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Delay</Name>
-    <Value>遅れ</Value>
+    <Value>スリープ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>View log</Name>
@@ -1450,7 +1450,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Credential Access</Name>
-    <Value>信任状アクセス</Value>
+    <Value>クレデンシャル</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>CyberArc Connector</Name>
@@ -2042,7 +2042,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Wait For</Name>
-    <Value>待機</Value>
+    <Value>トリガー待ち</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input Field</Name>
