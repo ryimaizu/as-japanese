@@ -2,7 +2,7 @@
 <DocumentElement>
   <LanguageTable>
     <Name>Set the Value if Html File Has Dynamic Text Give with | Seperated)</Name>
-    <Value>htmlファイルのダイナミックテキスト値は |(パイプ）で取り替える。</Value>
+    <Value>HTMLファイルのダイナミックテキスト値は |(パイプ)で分割します。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Folder name where the Excel file exists</Name>
@@ -10,31 +10,31 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Row number to write. If left blank, data would be written Column Wise</Name>
-    <Value>行数字を書く。ブランクのままにした場合、データは列別に書き込まれる</Value>
+    <Value>書き込む行番号。空欄の場合、データは列方向に書き込まれます</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Column number to write. If left blank, data would be written Row Wise</Name>
-    <Value>列数字を書く。ブランクのままにした場合、データは行別に書き込まれる</Value>
+    <Value>書き込む列番号。空欄の場合、データは行単位で書き込まれます。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Folder name where the CSV file exists</Name>
-    <Value> CSVファイルが存在するフォルダ名</Value>
+    <Value>CSVファイルが存在するフォルダ名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>JSon Keys to get values</Name>
-    <Value>JSONキーが値を取得為に使用されます。</Value>
+    <Value>値を取得するためのJSONキー</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>API URL of the ViaNet SMS gateway</Name>
-    <Value> API URLのSMSゲートウェイ</Value>
+    <Value>SMSゲートウェイのAPI URL</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Name of the mail server</Name>
-    <Value>メールサーバーの名前</Value>
+    <Value>メールサーバの名前</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Watching mail ID</Name>
-    <Value>メールIDを見ている</Value>
+    <Value>メールアドレス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name> Attachments download location (optional)</Name>
@@ -42,19 +42,19 @@
   </LanguageTable>
   <LanguageTable>
     <Name>File types to download (optional)</Name>
-    <Value>ファイルのタイプをダウンロードする(オプショナル)</Value>
+    <Value>ダウンロードするファイルの形式(オプショナル)</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Email folder to be watched (optional)</Name>
-    <Value>電子メールフォルダを監視する(オプショナル)</Value>
+    <Value>Eメールフォルダを監視する(オプショナル)</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Enable Secure Sockets Layer (SSL)</Name>
-    <Value>SSL（セキュア・ソケット・レイヤー）を有効にする</Value>
+    <Value>SSL(セキュア・ソケット・レイヤー)を有効にする</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to download the attachments?</Name>
-    <Value>添付ファイルをダウンロードしたいですか？</Value>
+    <Value>添付ファイルをダウンロードしますか？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name> Want to read unseen mails? (optional)</Name>
@@ -62,15 +62,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Function box name when an email arrives</Name>
-    <Value>電子メールが到着時にファンクションボックス名を呼ぶ</Value>
+    <Value>Eメールが到着時にファンクションボックス名を呼ぶ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Outlook/Gmail/Others (optional)</Name>
-    <Value> アウトルック/Gメール/その他(オプショナル)</Value>
+    <Value> Outlook/Gmail/その他(オプショナル)</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Field to be filtered (Subject/Body/FromID - optional)</Name>
-    <Value>フィールドをフィルタリングする（件名/ボディ/IDからー（オプショナル）</Value>
+    <Value>フィールドをフィルタリングする（件名/ボディ/ID - (オプショナル)</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Containing Text (optional)</Name>
@@ -78,7 +78,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Outlook email folder to be watched</Name>
-    <Value>アウトルックの電子メールフォルダを監視する</Value>
+    <Value>OutlookのEメールフォルダを監視する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Enter Excption Message </Name>
@@ -310,7 +310,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name> Sending mail ID</Name>
-    <Value>メールIDを送信</Value>
+    <Value>メールアドレスを送信</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Enable Secure Sockets Layer (SSL)TRUE/FALSE. Default is TRUE</Name>
@@ -318,7 +318,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Pipe (|) separated list of receiving mail IDs</Name>
-    <Value>パイプ (|) で受信メールIDのリストを分離された。</Value>
+    <Value>パイプ (|) で受信メールアドレスのリストを分離された。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Send as Alias mail</Name>
@@ -438,7 +438,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to append at last row?</Name>
-    <Value>最後の行に追加したいですか？</Value>
+    <Value>最後の行に追加しますか？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Data to be written in the text file</Name>
@@ -554,7 +554,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to search the entire word?</Name>
-    <Value>全体単語を検索したいですか？</Value>
+    <Value>全体単語を検索しますか？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Database Type to be 'MS SQL'</Name>
@@ -686,7 +686,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to overwrite the file? (Yes/No)</Name>
-    <Value>ファイルを上書きしたいですか？ （はい/いいえ）</Value>
+    <Value>ファイルを上書きしますか？ （はい/いいえ）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>FullPath to be operated</Name>
@@ -702,7 +702,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to remove duplicate records?</Name>
-    <Value>重複レコードを削除したいですか？</Value>
+    <Value>重複レコードを削除しますか？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Color to be searched</Name>
@@ -734,7 +734,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name> Do you want to open and show the excel while running the macro? Default is NO</Name>
-    <Value>マクロが実行中にエクセルを開いて、表示したいですか？ 既定は”いいえ”です</Value>
+    <Value>マクロが実行中にエクセルを開いて、表示しますか？ 既定は”いいえ”です</Value>
   </LanguageTable>
   <LanguageTable>
     <Name> CSV filename to be read</Name>
@@ -762,15 +762,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to run this as ADMIN (optional)? (True/False)</Name>
-    <Value>管理者として実行したいですか（オプショナル）？（真偽）</Value>
+    <Value>管理者として実行しますか（オプショナル）？（真偽）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to run this in backgroud? (True/False)</Name>
-    <Value>これをバックグラウンドで実行したいですか？（オプショナル）？（真偽）</Value>
+    <Value>これをバックグラウンドで実行しますか？（オプショナル）？（真偽）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to run this in Shell? (True/False)</Name>
-    <Value>シェルでこれを実行したいですか？（オプショナル）？（真偽）</Value>
+    <Value>シェルでこれを実行しますか？（オプショナル）？（真偽）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name> Data format </Name>
@@ -826,7 +826,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>User mail ID</Name>
-    <Value>使用者メールID</Value>
+    <Value>使用者メールアドレス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Sending mobile number</Name>
@@ -1134,7 +1134,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to ignore the run-time exceptions?</Name>
-    <Value>実行時の例外を無視したいですか？</Value>
+    <Value>実行時の例外を無視しますか？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Result = Number1 - Number2</Name>
@@ -1387,7 +1387,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Mail ID password</Name>
-    <Value>メールIDパスワード</Value>
+    <Value>メールアドレスパスワード</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Message</Name>
@@ -1515,7 +1515,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to Convert the file?</Name>
-    <Value>ファイルを変換したいですか？</Value>
+    <Value>ファイルを変換しますか？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Does the file exist?</Name>
