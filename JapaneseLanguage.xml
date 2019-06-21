@@ -2,15 +2,15 @@
 <DocumentElement>
   <LanguageTable>
     <Name>Reimagine</Name>
-    <Value>再想像</Value>
+    <Value>Reimagine</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Rethink</Name>
-    <Value>再考</Value>
+    <Value>Rethink</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Recreate</Name>
-    <Value>再作成</Value>
+    <Value>Recreate</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ANTstein</Name>
@@ -22,7 +22,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Triangle</Name>
-    <Value>トライアングル</Value>
+    <Value>Triangle</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>I am</Name>
@@ -30,7 +30,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Let's go</Name>
-    <Value>行きましょ</Value>
+    <Value>行きましょう</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Login </Name>
@@ -58,7 +58,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Frequently used</Name>
-    <Value>よく使う</Value>
+    <Value>よく使う項目</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Arithmetic</Name>
@@ -66,11 +66,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Cognitive machine reading</Name>
-    <Value>コグニティブ機械読書</Value>
+    <Value>CMR</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Conditional (decision)</Name>
-    <Value>状態による（決定）</Value>
+    <Value>条件分岐</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Database</Name>
@@ -98,7 +98,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>parser</Name>
-    <Value>パーザー</Value>
+    <Value>パーサ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Runner</Name>
@@ -106,7 +106,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>SMS</Name>
-    <Value>SMS（伝言）</Value>
+    <Value>SMS</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Webcomponent</Name>
@@ -126,7 +126,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Folder watcher</Name>
-    <Value>フォルダ監視</Value>
+    <Value>フォルダウォッチャ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Rename</Name>
@@ -166,7 +166,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Triangale</Name>
-    <Value>トライアングル</Value>
+    <Value>Triangale</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>License information</Name>
@@ -186,11 +186,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Activated on</Name>
-    <Value>アクティブ化の日時</Value>
+    <Value>有効化した日時</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Expires on</Name>
-    <Value>期限の日時</Value>
+    <Value>期限切れになる日時</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Expired</Name>
@@ -198,7 +198,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Return to landing page</Name>
-    <Value>ログインページの前のページに戻る</Value>
+    <Value>ログイン前のページに戻る</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Functionbox</Name>
@@ -230,19 +230,19 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Active ANTbots</Name>
-    <Value>活動的なアントボット</Value>
+    <Value>アクティブなアントボット</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Activated at</Name>
-    <Value>活性化の日時</Value>
+    <Value>アクティブ化した日時</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Antbot status</Name>
-    <Value>Antbotの状態</Value>
+    <Value>Antbotのステータス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>FTP server status</Name>
-    <Value>FTPサーバーの状態</Value>
+    <Value>FTPサーバーのステータス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Tool box</Name>
@@ -258,11 +258,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Emails</Name>
-    <Value>電子メール</Value>
+    <Value>Eメール</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>send crash report</Name>
-    <Value>クラッシュ報告を送信する</Value>
+    <Value>クラッシュを報告する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Multiple emails can be separated by semicolon</Name>
@@ -270,7 +270,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Publish date</Name>
-    <Value>公開日時</Value>
+    <Value>公開日</Value>
   </LanguageTable>
     <LanguageTable>
     <Name>Date</Name>
@@ -290,15 +290,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Ant bot status</Name>
-    <Value>Ant botの状態</Value>
+    <Value>Ant botのステータス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Bot builder status</Name>
-    <Value>ボットビルダーの状態</Value>
+    <Value>ボットビルダーのステータス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Help</Name>
-    <Value>助ける</Value>
+    <Value>ヘルプ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Process details</Name>
@@ -330,7 +330,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Stock watcher outlook</Name>
-    <Value>ストック観客アウトルック</Value>
+    <Value>ストックウォッチャ アウトルック</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Machine details</Name>
@@ -342,15 +342,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Clear temp files</Name>
-    <Value>一時的なファイルをクリアする</Value>
+    <Value>tempファイルをクリアする</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Remove proc</Name>
-    <Value>手順を削除する</Value>
+    <Value>プロセスを削除する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Edit config</Name>
-    <Value>構成を編集する</Value>
+    <Value>設定を編集する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Resource details</Name>
@@ -358,7 +358,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Computer name</Name>
-    <Value>コンピュータネーム</Value>
+    <Value>コンピュータ名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Processor</Name>
@@ -386,7 +386,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Microsoft windows NT</Name>
-    <Value>マイクロソフトウィンドウズNT</Value>
+    <Value>マイクロソフトWindowsNT</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Available memory(RAM)</Name>
@@ -394,7 +394,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>OK</Name>
-    <Value>オーケー</Value>
+    <Value>OK</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Config parameter</Name>
@@ -414,7 +414,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Waiting for activation from Queenbot</Name>
-    <Value>クインボットから活性化為に待っている</Value>
+    <Value>クインボットから有効化されるのを待っています</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Activated</Name>
@@ -426,7 +426,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Active</Name>
-    <Value>活動的</Value>
+    <Value>アクティブ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Error</Name>
@@ -438,7 +438,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Activity</Name>
-    <Value>活動</Value>
+    <Value>アクティビティ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>System log</Name>
@@ -450,7 +450,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>AM</Name>
-    <Value>午前</Value>
+    <Value>AM</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>End of log</Name>
@@ -466,7 +466,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Username</Name>
-    <Value>使用者名前</Value>
+    <Value>ユーザー名前</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>LDAP</Name>
@@ -478,7 +478,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>New user</Name>
-    <Value>新しい使用者</Value>
+    <Value>新しいユーザー</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Target machines</Name>
@@ -494,11 +494,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>User management</Name>
-    <Value>使用者管理</Value>
+    <Value>ユーザー管理</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Add user details</Name>
-    <Value>使用者の詳細を追加する</Value>
+    <Value>ユーザーの詳細を追加する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Password</Name>
@@ -510,7 +510,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Email</Name>
-    <Value>電子メール</Value>
+    <Value>Eメール</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Submit</Name>
@@ -610,11 +610,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>User name</Name>
-    <Value>使用者名前</Value>
+    <Value>ユーザー名前</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>User role</Name>
-    <Value>使用者役割</Value>
+    <Value>ユーザー役割</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Close Bot builder</Name>
@@ -642,7 +642,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Target machine name</Name>
-    <Value>ターゲットマシン名前</Value>
+    <Value>ターゲットマシン名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Target machine IP</Name>
@@ -654,7 +654,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Status</Name>
-    <Value>状態</Value>
+    <Value>ステータス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Required fields</Name>
@@ -686,19 +686,19 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Case</Name>
-    <Value>ケース</Value>
+    <Value>複数条件</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Conditional</Name>
-    <Value>状態による</Value>
+    <Value>条件分岐</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>DB processor</Name>
-    <Value>データベースのプロセッサー</Value>
+    <Value>データベースプロセッサ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>DB watcher</Name>
-    <Value>データベース監視</Value>
+    <Value>データベースウォッチャ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Grid viewer</Name>
@@ -734,7 +734,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>String operator</Name>
-    <Value>ストリングのオペレーター</Value>
+    <Value>ストリングのオペレータ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>String</Name>
@@ -742,11 +742,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>File operator</Name>
-    <Value>ファイルオペレーター</Value>
+    <Value>ファイルオペレータ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Path operator</Name>
-    <Value>パスのオペレーター</Value>
+    <Value>パスのオペレータ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Process</Name>
@@ -770,7 +770,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Iteration</Name>
-    <Value>反復</Value>
+    <Value>繰り返し</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Metrics</Name>
@@ -806,7 +806,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Json parser</Name>
-    <Value>Jsonパーサー</Value>
+    <Value>Json パーサー</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>XML parser</Name>
@@ -818,7 +818,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Windows</Name>
-    <Value>ウィンドウズ</Value>
+    <Value>Windows</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Web API</Name>
@@ -842,11 +842,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Build Canvas</Name>
-    <Value>キャンバスをビルド（確認）</Value>
+    <Value>キャンバスをビルド</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Run Exe</Name>
-    <Value>実行を実行する</Value>
+    <Value>実行する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Connector </Name>
@@ -870,15 +870,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>web api invoker</Name>
-    <Value>ウェブAPIインボーカー</Value>
+    <Value>ウェブAPI 呼び出し</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>SMS Responder</Name>
-    <Value>SMSレスポンダー</Value>
+    <Value>SMSレスポンダ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Windows Runner</Name>
-    <Value>ウィンドウズランナー</Value>
+    <Value>Windowsランナー</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Linking</Name>
@@ -910,7 +910,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Process Watcher</Name>
-    <Value>プロセス監視</Value>
+    <Value>プロセスウォッチャ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Excel File Reader</Name>
@@ -930,7 +930,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Email Watcher (Outlook)</Name>
-    <Value>メール監視(Outlook)</Value>
+    <Value>メールウォッチャ(Outlook)</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Document Generator</Name>
@@ -954,11 +954,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Case…</Name>
-    <Value>ケース</Value>
+    <Value>複数条件</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Conditional component</Name>
-    <Value>状態によるコンポーネント</Value>
+    <Value>条件分岐コンポーネント</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>New</Name>
@@ -998,7 +998,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Email Settings</Name>
-    <Value>電子メールの設定</Value>
+    <Value>Eメールの設定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Change Password</Name>
@@ -1010,7 +1010,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Windows Recorder</Name>
-    <Value>ウィンドウズレコーダー</Value>
+    <Value>Windowsレコーダー</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Remote Recorder</Name>
@@ -1054,7 +1054,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Queen Bot Salt Key</Name>
-    <Value>Queen Bot ソルトキー</Value>
+    <Value>QueenBot Saltキー</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>WFML Window</Name>
@@ -1086,7 +1086,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Database User Name :</Name>
-    <Value>データベース使用者名前</Value>
+    <Value>データベースユーザー名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Database Password :</Name>
@@ -1098,15 +1098,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>E-MAIL Configuration</Name>
-    <Value>電子メール構成</Value>
+    <Value>Eメール構成</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>QueenBOT Eamail :</Name>
-    <Value>QueenBOT の電子メール</Value>
+    <Value>QueenBOT のEメール</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Email Password :</Name>
-    <Value>電子メールパスワード</Value>
+    <Value>Eメールパスワード</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>SMTP Type :</Name>
@@ -1130,27 +1130,27 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Hi there! Setting up for the first time?</Name>
-    <Value>こんにちは、初めてセットアップする</Value>
+    <Value>こんにちは！セットアップするのは初めてですか？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Show Debug Window</Name>
-    <Value>デバッグウィンドウを見せる</Value>
+    <Value>デバッグウィンドウを表示する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Re-Sequence</Name>
-    <Value>リシーケンス</Value>
+    <Value>再シーケンス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Auto-Activate/Debug</Name>
-    <Value>自動ーアクティブ化/デバッグ</Value>
+    <Value>自動 - アクティブ/デバッグ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Straight Line</Name>
-    <Value>直線</Value>
+    <Value>モジュールを繋げる</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Flow editor</Name>
-    <Value>フロー編者</Value>
+    <Value>フローエディタ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Excel mapping</Name>
@@ -1202,7 +1202,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>created at</Name>
-    <Value>作成されたの日時</Value>
+    <Value>作成日</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Ip address</Name>
@@ -1210,19 +1210,19 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Service status</Name>
-    <Value>サービスの状態</Value>
+    <Value>サービスのステータス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Win recorder</Name>
-    <Value>ウィンドウズレコーダー</Value>
+    <Value>Windowsレコーダー</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Continuous control reading</Name>
-    <Value>連続的な管理読み取り</Value>
+    <Value>連続でコントロールを読み取る</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Continuous location reading</Name>
-    <Value>連続的なロケーション読み取り</Value>
+    <Value>連続でロケーションを読み取る</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Run</Name>
@@ -1290,15 +1290,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Read excel cell</Name>
-    <Value>エクセルセルを読む</Value>
+    <Value>セルを読む</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Excel row count</Name>
-    <Value>エクセルの行カウント</Value>
+    <Value>エクセルの行数</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Write excel cell</Name>
-    <Value>エクセルセルを書く</Value>
+    <Value>セルへ書く</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Search text</Name>
@@ -1330,11 +1330,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Show ANT code</Name>
-    <Value>ANTコードを見せる</Value>
+    <Value>ANTコードを表示する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Selected application</Name>
-    <Value>選択されたアプリケーション</Value>
+    <Value>選択したアプリケーション</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Window details</Name>
@@ -1354,11 +1354,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Backward</Name>
-    <Value>後方</Value>
+    <Value>戻る</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Forward</Name>
-    <Value>前方</Value>
+    <Value>進む</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Close tab</Name>
@@ -1514,7 +1514,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>ANTstein QueenBOT suite</Name>
-    <Value>ANTstein QueenBOT組 </Value>
+    <Value>ANTstein QueenBOT suite</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Code View</Name>
@@ -1558,15 +1558,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Continuous Recording</Name>
-    <Value>録画を連続</Value>
+    <Value>続けて録画する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Continuous Control Recording</Name>
-    <Value>連続的な管理録画</Value>
+    <Value>続けてコントロール録画する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Continuous Location Recording</Name>
-    <Value>連続的なロケーション録画</Value>
+    <Value>続けてロケーション録画する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Sign off  Exit</Name>
@@ -1574,7 +1574,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>File Name</Name>
-    <Value>ファイル名前</Value>
+    <Value>ファイル名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Message</Name>
@@ -1582,7 +1582,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Action on Hover</Name>
-    <Value>ホバー上のアクション</Value>
+    <Value>Hoverした際のアクション</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ANT File</Name>
@@ -1590,7 +1590,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Stright Line</Name>
-    <Value>直線</Value>
+    <Value>モジュールを繋げる</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>String Tokenizer</Name>
@@ -1606,7 +1606,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Activity Log</Name>
-    <Value>活動ログ</Value>
+    <Value>アクティビティログ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Property Value</Name>
@@ -1618,7 +1618,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>SelectedValue</Name>
-    <Value>選択された値</Value>
+    <Value>選択した値</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Select Folder</Name>
@@ -1630,7 +1630,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Antbot server is not started in the target machine.please start it and try again</Name>
-    <Value>アントボットサーバーがターゲットマシンで起動していません。起動してもう一度お試し下さい</Value>
+    <Value>アントボットサーバがターゲットマシン上で起動していません。起動してもう一度お試し下さい</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Variable mapping</Name>
@@ -1638,15 +1638,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>If ant file have input parameters then map the variables with global variables and click ok</Name>
-    <Value>アントファイルが入力パラメータがある場合は、変数をグローバル変数にマップし、”オーケー”をクリックします。</Value>
+    <Value>アントファイルに入力パラメータがある場合は、変数をグローバル変数にマップし、”OK”をクリックします。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>If ant file have output parameters then click ok</Name>
-    <Value>アントファイルが出力パラメータがある場合は、”オーケー”をクリックします</Value>
+    <Value>アントファイルに出力パラメータがある場合は、”OK”をクリックします</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>If antfile havent output or input parameters then click ok</Name>
-    <Value>アントファイルが出力または入力パラメータを持ってない場合は、”オーケー”をクリックします</Value>
+    <Value>アントファイルが出力または入力パラメータを持ってない場合は、”OK”をクリックします</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Timer Input</Name>
@@ -1670,7 +1670,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>QueenBOT Email</Name>
-    <Value>QueenBOT電子メール</Value>
+    <Value>QueenBOT Eメール</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ANTbot machines</Name>
@@ -1766,7 +1766,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Operator</Name>
-    <Value>オペレーター</Value>
+    <Value>オペレータ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Enter Value</Name>
@@ -1826,7 +1826,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Enter Password</Name>
-    <Value>パスワードを入力する</Value>
+    <Value>パスワードを入力してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Excel Sorter</Name>
@@ -1918,11 +1918,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>New Colony</Name>
-    <Value>ニューコロニー</Value>
+    <Value>新しいコロニー</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Forced Logout</Name>
-    <Value>無理やりログアウト</Value>
+    <Value>強制ログアウト</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Colony</Name>
@@ -1970,7 +1970,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Queue_Order</Name>
-    <Value>待ち行列順</Value>
+    <Value>キューの順番</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Queue_Name</Name>
@@ -1978,7 +1978,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>FireAnt_Name</Name>
-    <Value>火の蟻の名前</Value>
+    <Value>FireAnt名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Process_name</Name>
@@ -1990,7 +1990,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Logical</Name>
-    <Value>論理的</Value>
+    <Value>ロジカル</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Add Break Point</Name>
@@ -2006,11 +2006,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Image Operator</Name>
-    <Value>イメージコンプレッサー</Value>
+    <Value>イメージオペレータ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Zip Operator</Name>
-    <Value>ジップオペレーター</Value>
+    <Value>ジップオペレータ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Http Responder</Name>
@@ -2018,27 +2018,27 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Http Watcher</Name>
-    <Value>HTTPウォッチャー</Value>
+    <Value>HTTPウォッチャ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Switch To Dark</Name>
-    <Value>ダークに変更する</Value>
+    <Value>ダークモードに変更する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>SWITCH TO LIGHT</Name>
-    <Value>ライトに変更する</Value>
+    <Value>ライトモードに変更する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ScriptCaller</Name>
-    <Value>スクリプトコーラー</Value>
+    <Value>スクリプト呼び出し</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>CollectionData</Name>
-    <Value>収集データ</Value>
+    <Value>データコレクション</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>DataTable Operator</Name>
-    <Value>データ表オペレーター</Value>
+    <Value>データテーブルオペレータ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Wait For</Name>
@@ -2050,23 +2050,23 @@
   </LanguageTable>
   <LanguageTable>
     <Name>DoWhile</Name>
-    <Value>一方を行います</Value>
+    <Value>Do While</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Custom Expression</Name>
-    <Value>カスタム表現</Value>
+    <Value>カスタムエクスプレッション</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>StringSearch</Name>
-    <Value>ストリングの検索</Value>
+    <Value>文字列検索</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>StringTocken</Name>
-    <Value>ストリングのトーケニザー</Value>
+    <Value>文字列トークン化</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>PathOperation</Name>
-    <Value>パスのオペレーター</Value>
+    <Value>パスのオペレータ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>DelayComponent</Name>
@@ -2098,7 +2098,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>WinAppRunner</Name>
-    <Value>ウィンドウズアプリケーションランナー</Value>
+    <Value>Windowsアプリケーションランナー</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>WebAPICall</Name>
@@ -2122,27 +2122,27 @@
   </LanguageTable>
   <LanguageTable>
     <Name>TextReader</Name>
-    <Value>テキストファイル読者</Value>
+    <Value>テキストファイル読み込み</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>TextGenerate</Name>
-    <Value>テキストジェネレータ</Value>
+    <Value>テキスト作成</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>OutlookEmailSender</Name>
-    <Value>アウトルック電子メール送信者</Value>
+    <Value>Outlook Eメール送信</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>OutlookEmailWatcher</Name>
-    <Value>電子メール観客</Value>
+    <Value>Outlook Eメールウォッチャ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ExcelRowReader</Name>
-    <Value>エクセル行読者</Value>
+    <Value>エクセルの行を読み込む</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ExcelSearch</Name>
-    <Value>エクセルの検索</Value>
+    <Value>エクセル検索</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>NumberSearch</Name>
@@ -2150,7 +2150,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>RegexSearch</Name>
-    <Value>模様検索</Value>
+    <Value>正規表現による検索</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Reset Connection Settings</Name>
@@ -2174,11 +2174,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Tool_Tip</Name>
-    <Value>ツール＿チップ</Value>
+    <Value>ツール_チップ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Component_Group</Name>
-    <Value>コンポーネント＿グループ</Value>
+    <Value>コンポーネント_グループ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Generate</Name>
@@ -2226,15 +2226,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Component Description</Name>
-    <Value>コンポーネント記載</Value>
+    <Value>コンポーネントの情報</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Chrome Recorder</Name>
-    <Value>クロムレコーダー</Value>
+    <Value>Google Chrome レコーダー</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Internet Explorer Recorder</Name>
-    <Value>インターネットエクスプローラーレコーダー</Value>
+    <Value>Internet Explorer レコーダー</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Current Message</Name>
@@ -2258,7 +2258,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Categorized</Name>
-    <Value>分類された</Value>
+    <Value>分類</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Alphabetical</Name>
@@ -2286,11 +2286,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>FireID</Name>
-    <Value>火災ID</Value>
+    <Value>Fire ID</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Inactive</Name>
-    <Value>イナクティブ</Value>
+    <Value>アクティブではない</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Select Headers</Name>
@@ -2334,15 +2334,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Do While</Name>
-    <Value>一方を行います</Value>
+    <Value>Do While</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Threshold Increment</Name>
-    <Value>しきい値の増分</Value>
+    <Value>しきい値を増やす</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Threshold Decrement</Name>
-    <Value>しきい値の減少</Value>
+    <Value>しきい値の減らす</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Parameter Name</Name>
@@ -2350,11 +2350,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>AutoScaling BOTList</Name>
-    <Value>オートスケーリングボットリ</Value>
+    <Value>オートスケーリングするボットのリスト</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>AutoScaleID</Name>
-    <Value>オートスケールID</Value>
+    <Value>オートスケール ID</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>machinename</Name>
@@ -2386,11 +2386,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>ChromeBrowser</Name>
-    <Value>クロムブラウザ</Value>
+    <Value>Google Chrome ブラウザ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>IERecorder</Name>
-    <Value>インターネットレコーダー</Value>
+    <Value>InternetExplore レコーダー</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Publish Selected Package</Name>
@@ -2406,7 +2406,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>User Forced Logout</Name>
-    <Value>ユーザ強制ログアウト</Value>
+    <Value>ユーザー強制ログアウト</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>User Email</Name>
@@ -2426,7 +2426,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>CyberArk Connector</Name>
-    <Value>サイバーアークコネクタ</Value>
+    <Value>CyberArkコネクタ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Debug window</Name>
@@ -2446,15 +2446,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Export</Name>
-    <Value>取得</Value>
+    <Value>エクスポート</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Export Path</Name>
-    <Value>取得パス</Value>
+    <Value>エクスポートパス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ExportBot Details</Name>
-    <Value>取得ボットの詳細</Value>
+    <Value>エクスポートボットの詳細</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Active BOTbuilder</Name>
@@ -2482,7 +2482,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Toggle</Name>
-    <Value>トグル</Value>
+    <Value>オンオフ切り替え</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Orchestrator Information</Name>
@@ -2510,7 +2510,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Category</Name>
-    <Value>カテゴリー</Value>
+    <Value>カテゴリ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>DefaultValue</Name>
@@ -2530,7 +2530,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>ReadOnly</Name>
-    <Value>リードオンリー</Value>
+    <Value>読み取りのみ可能</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>DisplayName</Name>
@@ -2554,7 +2554,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>QueueOrderID</Name>
-    <Value>キュー注文ID</Value>
+    <Value>キューオーダーID</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Login Type</Name>
@@ -2562,7 +2562,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Total Users</Name>
-    <Value>総ユーザー</Value>
+    <Value>トータルユーザー</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Remove Colony</Name>
@@ -2602,7 +2602,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Ok </Name>
-    <Value>オーケー</Value>
+    <Value>OK</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Clear</Name>
@@ -2618,11 +2618,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Collection List</Name>
-    <Value>コレクション一覧</Value>
+    <Value>コレクションリスト</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Collection Type</Name>
-    <Value>コレクションリスト</Value>
+    <Value>コレクションタイプ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Row Number</Name>
@@ -2751,8 +2751,7 @@
   <LanguageTable>
     <Name>Release key</Name>
     <Value>キーを解放する</Value>
-  </LanguageTable>
-  
+  </LanguageTable>  
   <LanguageTable>
     <Name>Intelligent Management</Name>
     <Value>インテリジェント管理</Value>
@@ -2771,11 +2770,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Enter a valid user name. User Name must contain at least 5 characters (maximum 14 characters).</Name>
-    <Value>有効なユーザー名を入力してください。パスワードには少なくても5文字含める必要があります。（最大14文字</Value>
+    <Value>有効なユーザー名を入力してください。パスワードには少なくとも5文字必要です(最大14文字)</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>LDAP user Does not exist</Name>
-    <Value>LDAPユーザー名は存在しません。</Value>
+    <Value>LDAPユーザーは存在しません。</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Select a user role.</Name>
@@ -2787,19 +2786,19 @@
   </LanguageTable>
    <LanguageTable>
     <Name>Enter an e-mail ID.</Name>
-    <Value>メールIDを入力してください</Value>
+    <Value>メールアドレスを入力してください</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Passwords must contain at least 6 characters, including uppercase, lowercase letters and numbers</Name>
-    <Value>パスワードには、大文字、小文字、数字など6文字以上を含める必要があります</Value>
+    <Value>パスワードには、大文字、小文字、数字など合計で6文字以上である必要があります</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Password must contain at least 6 characters, including uppercase, lowercase and numbers.</Name>
-    <Value>パスワードには、大文字、小文字、数字など6文字以上を含める必要があります</Value>
+    <Value>パスワードには、大文字、小文字、数字など合計で6文字以上である必要があります</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Password and confirmation password do not match</Name>
-    <Value>パスワードと確認パスワードが一致しません。</Value>
+    <Value>パスワードと確認用パスワードが一致しません。</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Provide a valid e-mail address.</Name>
@@ -2863,7 +2862,7 @@
   </LanguageTable>
     <LanguageTable>
     <Name>E-mail configured successfully.</Name>
-    <Value>電子メールは設定されました。</Value>
+    <Value>Eメール設定が完了しました。</Value>
   </LanguageTable>
     <LanguageTable>
     <Name>Selected User is successfully Logoff.</Name>
@@ -2923,7 +2922,7 @@
   </LanguageTable>
    <LanguageTable>
     <Name>chrome Browser Recording</Name>
-    <Value>クロムブラウザの記録</Value>
+    <Value>Google Chromeの記録</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to sleep until browser loads?</Name>
@@ -2967,7 +2966,7 @@
   </LanguageTable>
    <LanguageTable>
     <Name>Started</Name>
-    <Value>始めました</Value>
+    <Value>開始しました</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Completed</Name>
@@ -3007,7 +3006,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Desktop Recording</Name>
-    <Value>デスクトップレコーディング)</Value>
+    <Value>デスクトップレコーディング</Value>
 </LanguageTable>
 	 <LanguageTable>
 	 <Name>Process workflow is saved successfully.</Name>
@@ -3035,7 +3034,7 @@
   </LanguageTable>
    <LanguageTable>
     <Name>IE Browser Recorder</Name>
-    <Value>IEブラウザレコーダ</Value>
+    <Value>IEブラウザ レコーダ</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>QueenBOT Remote Recording</Name>
@@ -3059,7 +3058,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Activity Log</Name>
-    <Value>活動記録</Value>
+    <Value>アクティビティログ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Error Grid</Name>
@@ -3123,7 +3122,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>References List</Name>
-    <Value>参考文献リスト</Value>
+    <Value>参照リスト</Value>
   </LanguageTable>
  <LanguageTable>
     <Name>--Select--</Name>
@@ -3171,7 +3170,7 @@
   </LanguageTable>
     <LanguageTable>
     <Name>Operator</Name>
-    <Value>オペレーター</Value>
+    <Value>オペレータ</Value>
   </LanguageTable>
     <LanguageTable>
     <Name>Initialize</Name>
@@ -3187,15 +3186,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>for</Name>
-    <Value>にとって</Value>
+    <Value>forループ</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Do</Name>
-    <Value>行う</Value>
+    <Value>Doループ</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>while</Name>
-    <Value>しながら</Value>
+    <Value>whileループ</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>If</Name>
@@ -3211,15 +3210,15 @@
   </LanguageTable>
    <LanguageTable>
     <Name>Nil</Name>
-    <Value>無</Value>
+    <Value>Nil</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>AND</Name>
-    <Value>そして</Value>
+    <Value>AND</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>OR</Name>
-    <Value>または</Value>
+    <Value>OR</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Operators</Name>
@@ -3235,7 +3234,7 @@
   </LanguageTable>
    <LanguageTable>
     <Name>MachineID</Name>
-    <Value>機械ID</Value>
+    <Value>マシンID</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Orchestrator / BOT Builder</Name>
@@ -3243,7 +3242,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Hi there! Are you setting up for the first time?</Name>
-    <Value>こんにちは！初めて設定しますか？</Value>
+    <Value>こんにちは！設定は初めてですか？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Textbox</Name>
@@ -3263,7 +3262,7 @@
   </LanguageTable>
    <LanguageTable>
     <Name>Return to Landing Page</Name>
-    <Value>着陸ページに戻る</Value>
+    <Value>ログイン前のページに戻る</Value>
   </LanguageTable>
     <LanguageTable>
     <Name>Add Key</Name>
@@ -3275,7 +3274,7 @@
   </LanguageTable>
     <LanguageTable>
     <Name>Find References</Name>
-    <Value>参考文献を探す</Value>
+    <Value>参照を探す</Value>
   </LanguageTable>
     <LanguageTable>
     <Name>Download Location</Name>
@@ -3383,7 +3382,7 @@
   </LanguageTable>
 <LanguageTable>
     <Name>Clear temporary files</Name>
-    <Value>一時的なクリアファイル</Value>
+    <Value>tempファイルをクリアする</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Edit Configuration</Name>
@@ -3423,7 +3422,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>IsEnableSendKeys</Name>
-    <Value>センド・キーは有効しますか</Value>
+    <Value>SnedKeys 有効/無効</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>FilePath</Name>
@@ -3435,7 +3434,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Column</Name>
-    <Value>カラム</Value>
+    <Value>列</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Extraction Type</Name>
@@ -3475,15 +3474,15 @@
   </LanguageTable>
 <LanguageTable>
     <Name>First Name:</Name>
-    <Value>ファーストネーム：</Value>
+    <Value>名：</Value>
 </LanguageTable>
 <LanguageTable>
     <Name>Last Name:</Name>
-    <Value>苗字：</Value>
+    <Value>姓：</Value>
 </LanguageTable>
 <LanguageTable>
     <Name>E-mail ID:</Name>
-    <Value>電子メールID：</Value>
+    <Value>EメールID：</Value>
 </LanguageTable>
 <LanguageTable>
     <Name>Company Name:</Name>
@@ -3559,7 +3558,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Use LDAP</Name>
-    <Value>つかいます LDAP</Value>
+    <Value>LDAPを使用する</Value>
   </LanguageTable>
  <LanguageTable>
     <Name>Reuse Queue</Name>
@@ -3627,11 +3626,11 @@
   </LanguageTable>
 <LanguageTable>
     <Name>Days</Name>
-    <Value>日々</Value>
+    <Value>日</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>in</Name>
-    <Value>に</Value>
+    <Value>in</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Download_Threshold</Name>
@@ -3643,7 +3642,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Element_Threshold</Name>
-    <Value>要素しきい値</Value>
+    <Value>要素のしきい値</Value>
   </LanguageTable>
 </DocumentElement>
  
