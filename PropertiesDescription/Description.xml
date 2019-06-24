@@ -714,7 +714,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Find if the cell exactly matches or just contains the Search Text. Default is Contains</Name>
-    <Value>セルが正確に一致するか、検索テキストだけが含まれていますと検索する。既定は含むです。</Value>
+    <Value>セルを"完全一致"か"含む"で検索します。既定は"含む"です。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>DOC Filename</Name>
@@ -1503,11 +1503,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to throw the run-time exceptions?</Name>
-    <Value>実行時例外をスローしますか？</Value>
+    <Value>実行中のエラーを検知しますか？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Delimiter to separate the set of input parameter </Name>
-    <Value>入力パラメータのセットを区切る区切り文字</Value>
+    <Value>入力パラメータの区切り文字</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Destination folder for Compression (optional)</Name>
@@ -1531,7 +1531,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Enter the ImageType(jpeg,png,tiff,bmp,ico)</Name>
-    <Value>イメージタイプを入力して下さい（jpeg,png,tiff,bmp,ico）</Value>
+    <Value>画像の種類を入力して下さい（jpeg,png,tiff,bmp,ico）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Source folder for Compression (optional)</Name>
@@ -1551,7 +1551,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Password to protect the files (optional)</Name>
-    <Value>パスワードがファイルを守るです（オプショナル）</Value>
+    <Value>ファイルを保護するためのパスワード（オプショナル）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Inline Script</Name>
@@ -1559,7 +1559,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Enter Script Type(.vbs|.js)</Name>
-    <Value>スクリプトのタイプを入力する</Value>
+    <Value>スクリプトの種類を入力する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Select Script File(.vbs|.js)</Name>
@@ -1571,11 +1571,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Input parameter for Script File</Name>
-    <Value>スクリプト名の入力パラメータ</Value>
+    <Value>スクリプトの入力パラメータ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Delimiter to separate the set of input parameter</Name>
-    <Value>デリミタが入力パラメータのセットを分離する</Value>
+    <Value>入力パラメータを複数に分けるための区切り文字</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Result of Script File</Name>
@@ -1583,15 +1583,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Enter Namespace for adding new functionality</Name>
-    <Value>ネームスペースを入力して新しい機能性を追加する</Value>
+    <Value>ネームスペースを入力して新しい機能を追加する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>The requested ID of  URL. (optional)</Name>
-    <Value>要求されたURLのID。 （オプショナル）</Value>
+    <Value>要求されたURLのID（オプショナル）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>The responce String for requested URL. (optional)</Name>
-    <Value>要求されたURLの応答ストリング。 （オプショナル）</Value>
+    <Value>要求されたURLの応答文字列（オプショナル）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>The requested URL1. (optional)</Name>
@@ -1615,31 +1615,31 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Function box name when an Url1 arrives</Name>
-    <Value>URL1が到着時にファンクションボックス名を呼ぶ</Value>
+    <Value>URL1の時に実行するファンクションボックス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Function box name when an Url2 arrives</Name>
-    <Value>URL2が到着時にファンクションボックス名を呼ぶ</Value>
+    <Value>URL2の時に実行するファンクションボックス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Function box name when an Url3 arrives</Name>
-    <Value>URL3が到着時にファンクションボックス名を呼ぶ</Value>
+    <Value>URL3の時に実行するファンクションボックス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Function box name when an Url4 arrives</Name>
-    <Value>URL4が到着時にファンクションボックス名を呼ぶ</Value>
+    <Value>URL4の時に実行するファンクションボックス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Function box name when an Url5 arrives</Name>
-    <Value>URL5が到着時にファンクションボックス名を呼ぶ</Value>
+    <Value>URL5の時に実行するファンクションボックス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Processed API result</Name>
-    <Value>処理されたAPI結果</Value>
+    <Value>APIの返り値</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Name of the collection</Name>
-    <Value>コレクションの名前</Value>
+    <Value>コレクション名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Index of the Row</Name>
@@ -1655,47 +1655,47 @@
   </LanguageTable>
   <LanguageTable>
     <Name>DataTable to be processed</Name>
-    <Value>データ表を処理する</Value>
+    <Value>処理を行うデータテーブル</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>The delimiter character between each row</Name>
-    <Value>デリミタが各行の文字を分離する事が出来ます（オプショナル）</Value>
+    <Value>行の区切り文字</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>The delimiter character between each column</Name>
-    <Value>デリミタが各列の文字を分離する事が出来ます（オプショナル）</Value>
+    <Value>列の区切り文字</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ID of the row to be read (-1 for all rows)</Name>
-    <Value>行のID を読む（すべての行に-1 ）</Value>
+    <Value>行ID（行番号-1 ）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ID/Name of the column to be read (-1 for all columns)</Name>
-    <Value>例のID/名前を読む（全ての例に-1 ）</Value>
+    <Value>列ID/名前（例番号-1 ）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Pipe '|' separated list of Keywords to be searched</Name>
-    <Value>パイプ(|)でキーワードのリストを分離して検索する</Value>
+    <Value>検索に使用するパイプ(|)区切りのキーワードリスト</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Pipe '|' separated list of columns to be searched</Name>
-    <Value>パイプ(|)で例のリストを分離して検索する</Value>
+    <Value>検索に使用するパイプ(|)区切りの例リスト</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Find if the cell exactly matches or just contains the Search Text.</Name>
-    <Value>セルが正確に一致するか、検索テキストだけが含まれていますと検索する。</Value>
+    <Value>セルを"完全一致"か"含む"で検索します</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Sorting column name</Name>
-    <Value>例名を並び替え</Value>
+    <Value>例名で並び替え</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Pipe(|) separated values of all records.</Name>
-    <Value>パイプ（|）が全ての値を分離される</Value>
+    <Value>パイプ（|）で区切られたレコード内の全ての値</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Pipe(|) separated column names.</Name>
-    <Value>パイプ（|）が例名を分離される</Value>
+    <Value>パイプ（|）で区切られた例名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Number of rows.</Name>
@@ -1707,7 +1707,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>DataTable containing the processed data</Name>
-    <Value>データ表が処理されたデータを含んでいます</Value>
+    <Value>処理されたデータを含むデータテーブル</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>To wait until a folder becomes free</Name>
@@ -1715,11 +1715,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>To wait until a file becomes unlocked</Name>
-    <Value>フォルダがアンロックまで待つ</Value>
+    <Value>フォルダのロックが解除されるまで待つ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>To wait until a Key is pressed</Name>
-    <Value>キーが押すまで待つ</Value>
+    <Value>キーが押されるまで待つ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>To wait until a mouse clicked/double-clicked</Name>
@@ -1731,43 +1731,43 @@
   </LanguageTable>
   <LanguageTable>
     <Name>To wait until the TIME is reached</Name>
-    <Value>時間が達するまで待つ</Value>
+    <Value>ある時間に達するまで待つ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>CSV filename to be read</Name>
-    <Value>CSV ファイル名を読む</Value>
+    <Value>読み取るCSVファイル名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ID of the row to be read (optional)</Name>
-    <Value>行のID を読む（オプショナル）</Value>
+    <Value>読み取る行ID（オプショナル）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ID of the column to be read (optional)</Name>
-    <Value>例のID を読む（オプショナル）</Value>
+    <Value>読み取る例のID（オプショナル）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Does the sheet have a header (True / False)? Default is True</Name>
-    <Value>シートにヘッタがありますか？（真または為）既定は真です</Value>
+    <Value>シートにヘッダがありますか？(True / False)デフォルトはTrueです</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>The delimiter character between each row (optional)</Name>
-    <Value>デリミタが各行の文字を分離する事が出来ます（オプショナル）</Value>
+    <Value>行の区切り文字（オプショナル）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>The delimiter character between each column (optional)</Name>
-    <Value>デリミタが各列の文字を分離する事が出来ます（オプショナル）</Value>
+    <Value>列の区切り文字（オプショナル）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Function box name when a row is read (optional)</Name>
-    <Value>行が読む時にファンクションボックス名を呼ぶ</Value>
+    <Value>行が読み取られる時に呼び出されるファンクションボックス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Source CSV filename</Name>
-    <Value>ソースCSV ファイル名を読む。</Value>
+    <Value>ソースとなるCSVファイル名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Target Excel filename to be written</Name>
-    <Value>ターゲットエクセルファイル名を書く</Value>
+    <Value>書き込むエクセルファイル名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Target folder (optional)</Name>
@@ -1775,7 +1775,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Sheet name to be written. Default is Sheet1</Name>
-    <Value>シート名を書く。既定はシート1</Value>
+    <Value>書き込まれる先のシート名。デフォルトはSheet1</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Specify whether to create a new file or overwrite existing. Default is Yes</Name>
@@ -1787,11 +1787,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to ignore formula to excel?, Default is Yes</Name>
-    <Value>エクセルに式を無視しますか？規定は”はい”です</Value>
+    <Value>エクセルの式を無視しますか？規定は”はい”です</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>File System Status</Name>
-    <Value>ファイルシスタムの状態</Value>
+    <Value>ファイルシステムの状態</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Is this a password field?</Name>
@@ -1799,7 +1799,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Caption to be displayed on the Input Box (max. 32 chars)</Name>
-    <Value>入力ボックスにキャプションを表示する（最大32文字）</Value>
+    <Value>入力ボックスに表示するキャプション（最大32文字）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Label Text</Name>
@@ -1807,7 +1807,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Custom Expression</Name>
-    <Value>カスタム表現</Value>
+    <Value>カスタムエクスプレッション</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Right Side Variable</Name>
@@ -1819,11 +1819,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Zip</Name>
-    <Value>ジップ</Value>
+    <Value>圧縮</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>UnZip</Name>
-    <Value>ジップなし</Value>
+    <Value>解凍</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Script</Name>
@@ -1843,7 +1843,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Write Options</Name>
-    <Value>書くのオプション</Value>
+    <Value>書き込みオプション</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Folder</Name>
@@ -1859,7 +1859,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Enter true to enable credentiality feature</Name>
-    <Value>信任状機能を有効にするには、真と入力してください。</Value>
+    <Value>クレデンシャル機能を有効にするには、真と入力してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Security</Name>
@@ -1871,11 +1871,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Enter 'True' and 'False'</Name>
-    <Value>真または為を入力してください</Value>
+    <Value>TrueまたはFalseを入力してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Property description. It is something like a hint.</Name>
-    <Value>プロパティの説明。 それはヒントのようなものです</Value>
+    <Value>プロパティの説明。ヒントになるようなものです</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Display property</Name>
@@ -1887,7 +1887,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Enter the multiple name use ',' seperator</Name>
-    <Value>複数の名前を入力するには、 （'、'）セパーラトーを入力してください</Value>
+    <Value>複数の名前を入力するには ',' で分けて入力してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Default Value.</Name>
@@ -1899,7 +1899,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Possibility to edit property</Name>
-    <Value>プロパティを編集する可能性</Value>
+    <Value>プロパティを編集するかどうか</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>To show property or not</Name>
@@ -1907,7 +1907,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Specify Status Completed|Error</Name>
-    <Value>完了ステータスの指定|エラー</Value>
+    <Value>ステータスの指定 Completed|Error</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Specify End Message</Name>
@@ -1919,15 +1919,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Value to pull</Name>
-    <Value>引く価値</Value>
+    <Value>Pullされる値</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Value to push</Name>
-    <Value>プッシュする価値</Value>
+    <Value>Pushする値</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Security token to pull the message</Name>
-    <Value>メッセージを引き出すためのセキュリティトークン</Value>
+    <Value>メッセージを取得するためのセキュリティトークン</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Return message from orchestrator</Name>
@@ -1991,15 +1991,15 @@
   </LanguageTable>
  <LanguageTable>
     <Name>User can enter customized Do.While...expression here. Ex: $Invoker_4.$Code != "01"</Name>
-    <Value>ユーザーはここでカスタマイズされたDo.While ...式を入力できます。 例：$ 呼び出し側_4。$ Code！= \"01\"</Value>
+    <Value>ユーザーはここでカスタマイズされたDo.While ...式を入力できます。 例：$Invoker_4.$Code！= \"01\"</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Pattern to be searched</Name>
-    <Value>検索するパターン</Value>
+    <Value>検索パターン</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Custom Value as Result</Name>
-    <Value>結果としてのカスタム値</Value>
+    <Value>結果のカスタム値</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Pattern 1</Name>
@@ -2039,11 +2039,11 @@
   </LanguageTable>
    <LanguageTable>
     <Name>Maximun number of attempts, if fails.</Name>
-    <Value>失敗した場合の最大試行回数。</Value>
+    <Value>失敗した場合の最大試行回数</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Second Date Time(Now/yyyy-MM-dd HH:mm:ss)</Name>
-    <Value>2番目の日付時刻（今/ yyyy-MM-dd HH：mm：ss）</Value>
+    <Value>2番目の日付時刻（Now/ yyyy-MM-dd HH：mm：ss）</Value>
   </LanguageTable>
     <LanguageTable>
     <Name>End Type</Name>
@@ -2051,7 +2051,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Expression</Name>
-    <Value>式</Value>
+    <Value>エクスプレッション</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Status Type</Name>
@@ -2127,7 +2127,7 @@
   </LanguageTable>
 <LanguageTable>
     <Name>Other Properties to be given |(Pipe) separated</Name>
-    <Value>その他のプロパティ|(パイプ) 切り離された</Value>
+    <Value>|(パイプ) で区切られたその他のプロパティ</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Reason For Accessing Data</Name>
@@ -2139,7 +2139,7 @@
   </LanguageTable>
 <LanguageTable>
     <Name>Port No of Vault</Name>
-    <Value>金庫のポート番号</Value>
+    <Value>ボールトのポート番号</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Object Name</Name>
@@ -2159,7 +2159,7 @@
   </LanguageTable>
 <LanguageTable>
     <Name>CyberArk Server to be accessed via local machine(True) or via Orchestrator(False)</Name>
-    <Value>ローカルマシン経由（本当の）またはオーケストレーター経由（偽）でアクセスするサイバーアークサーバー</Value>
+    <Value>ローカルマシン経由(True)またはオーケストレーター経由(False)でアクセスするサイバーアークサーバー</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Database Type to be 'MS SQL / MYSQL /ORACLE'</Name>
@@ -2171,7 +2171,7 @@
   </LanguageTable>
 <LanguageTable>
     <Name>Provides Installed Fontname to use WORD</Name>
-    <Value>単語を使用するためのインストール済みフォント名を提供します</Value>
+    <Value>Wordで使用するインストール済みフォントを提供します</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Source filename to be read.File types allowed are XLS,XLSX,DOCX or PDF</Name>
@@ -2179,7 +2179,7 @@
   </LanguageTable>
 <LanguageTable>
     <Name>Provides Installed Fontname to Use PDF.Japanese language use this font ARIALUNI.TTF</Name>
-    <Value>PDFを使用するためにインストールされているフォント名を提供します。日本語このフォントを使用していますARIALUNI.TTF</Value>
+    <Value>PDFで使用するインストール済みフォントを提供します。日本語はこのフォントを使用しています ARIALUNI.TTF</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Text filename to be read</Name>
@@ -2195,15 +2195,15 @@
   </LanguageTable>
 <LanguageTable>
     <Name>1-based Column number to write. If left blank, data would be written Row Wise</Name>
-    <Value>書き込む1から始まる列番号。 空白のままにすると、データは行単位で書き込まれます。</Value>
+    <Value>1から始まる列番号。 空白のままにすると、データは行単位で書き込まれます。</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>1-based Row number to write. If left blank, data would be written Column Wise</Name>
-    <Value>書き込む1から始まる行番号。 空白のままにすると、データは列方向に書き込まれます。</Value>
+    <Value>1から始まる行番号。 空白のままにすると、データは列方向に書き込まれます。</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Provides Installed Fontname to Use EXCEL</Name>
-    <Value>EXCELを使用するためのインストール済みフォント名を提供</Value>
+    <Value>EXCELを使用するためのインストール済みフォント</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Identifier to split the row. Example, \\n \\t (\\r mac user)</Name>
@@ -2219,19 +2219,19 @@
   </LanguageTable>
 <LanguageTable>
     <Name>Custom Value as Result true/false</Name>
-    <Value>結果としてのカスタム値本当の/偽</Value>
+    <Value>結果としてのカスタム値 True/False</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Ignore Case  True/False</Name>
-    <Value>大文字と小文字の区別を無視する</Value>
+    <Value>大文字と小文字の区別を無視する True/False</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Enter Exception Message,the process need to pass:</Name>
-    <Value>例外メッセージを入力して、プロセスが合格する必要があります。</Value>
+    <Value>例外メッセージを入力してプロセスをパスします</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Pipe '|' separated list of zero based column IDs to be searched</Name>
-    <Value>パイプ '|' 検索対象の0から始まる列IDの分離リスト</Value>
+    <Value>0から始まる列IDのパイプ'|'区切りリスト</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Do you want to overwrite the file?(copy/move) </Name>
@@ -2255,11 +2255,11 @@
   </LanguageTable>
 <LanguageTable>
     <Name>Operation needed(Invoke/Kill)</Name>
-    <Value>必要な操作（呼び出し/強制終了）</Value>
+    <Value>操作が必要です（呼び出し/強制終了）</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Does the Process Name exactly matches or just contains or process id matches.</Name>
-    <Value>プロセス名が完全に一致するのか、それとも単に含まれているか、プロセスIDが一致するのか。</Value>
+    <Value>プロセス名が"完全一致"か"含む"、もしくはプロセスIDが"完全一致"するかどうか</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Process Name to be watched (.exe) or Process Id to be watched</Name>
@@ -2275,19 +2275,19 @@
   </LanguageTable>
    <LanguageTable>
     <Name>CondVar</Name>
-    <Value> 条件変数</Value>
+    <Value>条件変数</Value>
   </LanguageTable>
  <LanguageTable>
     <Name>IncOrDecr</Name>
-    <Value> 増減</Value>
+    <Value>増減</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>DataList</Name>
-    <Value> データリスト</Value>
+    <Value>データリスト</Value>
   </LanguageTable>
  <LanguageTable>
     <Name>ExcelFileFullPath</Name>
-    <Value> Excelファイルのフルパス</Value>
+    <Value>Excelファイルのフルネーム</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Input Keys - Pipe (|) separated text in case of multiple keys</Name>
@@ -2311,7 +2311,7 @@
   </LanguageTable>
  <LanguageTable>
     <Name>FromId</Name>
-    <Value>IDから</Value>
+    <Value>FromID</Value>
   </LanguageTable>
  <LanguageTable>
     <Name>Entire Word</Name>
@@ -2343,6 +2343,6 @@
   </LanguageTable>
  <LanguageTable>
     <Name>Enter Exception Message , the procees need to pass:</Name>
-    <Value>例外メッセージを入力して、プロセスが合格する必要があります。</Value>
+    <Value>例外メッセージを入力してプロセスをパスします</Value>
   </LanguageTable>
 </DocumentElement>
