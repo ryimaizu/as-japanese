@@ -10,11 +10,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Email ID</Name>
-    <Value>電子メール</Value>
+    <Value>メールアドレス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Download Location</Name>
-    <Value>ロケーションをダウンロード</Value>
+    <Value>ダウンロード先</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Attachment Filters</Name>
@@ -30,7 +30,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>New mail Arrived Event</Name>
-    <Value>新しいメール到着したイベント</Value>
+    <Value>新規メール到着イベント</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Read Unseen mails?</Name>
@@ -38,7 +38,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Email Folder</Name>
-    <Value>電子メールフォルダ</Value>
+    <Value>Eメールフォルダ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Download Attachments?</Name>
@@ -46,23 +46,23 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Status Code</Name>
-    <Value>状態コード</Value>
+    <Value>ステータスコード</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>User Notes</Name>
-    <Value>使用者ノート</Value>
+    <Value>ユーザーノート</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Ignore Exception?</Name>
-    <Value>例外(エラー）を無視しますか？</Value>
+    <Value>例外(エラー)を無視しますか？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Exception Message</Name>
-    <Value>例外(エラー）メッセージ</Value>
+    <Value>例外(エラー)メッセージ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Pause Duration</Name>
-    <Value>時間を休止する</Value>
+    <Value>一時停止時間</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Left Value</Name>
@@ -70,7 +70,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Expression</Name>
-    <Value>表現</Value>
+    <Value>エクスプレッション</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Right Value</Name>
@@ -98,7 +98,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Customized Expression</Name>
-    <Value>カスタマイズされた表現</Value>
+    <Value>カスタマイズされたエクスプレッション</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Canvas Name</Name>
@@ -106,43 +106,43 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Input_1</Name>
-    <Value>入力＿１</Value>
+    <Value>入力_１</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input_2</Name>
-    <Value>入力＿２</Value>
+    <Value>入力_２</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input_3</Name>
-    <Value>入力＿３</Value>
+    <Value>入力_３</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input_4</Name>
-    <Value>入力＿４</Value>
+    <Value>入力_４</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input_5</Name>
-    <Value>入力＿５</Value>
+    <Value>入力_５</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input_6</Name>
-    <Value>入力＿６</Value>
+    <Value>入力_６</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input_7</Name>
-    <Value>入力＿７</Value>
+    <Value>入力_７</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input_8</Name>
-    <Value>入力＿８</Value>
+    <Value>入力_８</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input_9</Name>
-    <Value>入力＿９</Value>
+    <Value>入力_９</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input_10</Name>
-    <Value>入力＿１０</Value>
+    <Value>入力_１０</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>CanvasName</Name>
@@ -150,56 +150,56 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Output_1</Name>
-    <Value>出力＿１</Value>
+    <Value>出力_１</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output_2</Name>
-    <Value>出力＿２</Value>
+    <Value>出力_２</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output_3</Name>
-    <Value>出力＿３</Value>
+    <Value>出力_３</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output_4</Name>
-    <Value>出力＿４</Value>
+    <Value>出力_４</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output_5</Name>
-    <Value>出力＿５</Value>
+    <Value>出力_５</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output_6</Name>
-    <Value>出力＿６</Value>
+    <Value>出力_６</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output_7</Name>
-    <Value>出力＿７</Value>
+    <Value>出力_７</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output_8</Name>
-    <Value>出力＿８</Value>
+    <Value>出力_８</Value>
     <F22>#NAME?</F22>
   </LanguageTable>
   <LanguageTable>
     <Name>Output_9</Name>
-    <Value>出力＿９</Value>
+    <Value>出力_９</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output_10</Name>
-    <Value>出力＿１０</Value>
+    <Value>出力_１０</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>True Event</Name>
-    <Value>真のイベント</Value>
+    <Value>Trueのイベント</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>False Event</Name>
-    <Value>偽（フォールス)のイベント</Value>
+    <Value>Falseのイベント</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Left Value 1</Name>
-    <Value>左値１</Value>
+    <Value>左値1</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Right Value 1</Name>
@@ -211,7 +211,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Right Value 2</Name>
-    <Value>右値２</Value>
+    <Value>右値2</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Switch Data</Name>
@@ -263,7 +263,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Sending mail ID</Name>
-    <Value>メールIDを送信しています</Value>
+    <Value>メールアドレスを送信しています</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>SMTP Port Number</Name>
@@ -275,7 +275,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Send as mail ID</Name>
-    <Value>メールIDとして送信する</Value>
+    <Value>メールアドレスとして送信する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Message ID</Name>
@@ -291,15 +291,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Secure Text</Name>
-    <Value>セーフテキスト</Value>
+    <Value>セキュアなテキスト</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>User Name</Name>
-    <Value>使用者名前</Value>
+    <Value>ユーザー名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Receiving mail IDs</Name>
-    <Value>メールID受け取る</Value>
+    <Value>メールアドレス受け取る</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Mail Subject</Name>
@@ -323,7 +323,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Dynamic Texts</Name>
-    <Value>ダイナミックなテキスト</Value>
+    <Value>動的なテキスト</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Send As</Name>
@@ -331,7 +331,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Status</Name>
-    <Value>状態</Value>
+    <Value>ステータス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>CMR Output Filename</Name>
@@ -351,7 +351,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Watching Folder</Name>
-    <Value>フォルダを見ています</Value>
+    <Value>監視するフォルダ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Type Filter</Name>
@@ -359,23 +359,23 @@
   </LanguageTable>
   <LanguageTable>
     <Name>File Name Pattern</Name>
-    <Value>ファイル名模様</Value>
+    <Value>ファイル名パターン</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>File Added Event</Name>
-    <Value>ファイルが追加されたイベント</Value>
+    <Value>ファイル追加イベント</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>File Deleted Event</Name>
-    <Value>ファイルが削除されたイベント</Value>
+    <Value>ファイル削除イベント</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>File Updated Event</Name>
-    <Value>ファイルが更新されたイベント</Value>
+    <Value>ファイル更新イベント</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>File Renamed Event</Name>
-    <Value>ファイルが変更されたイベント</Value>
+    <Value>ファイル変更イベント</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Label</Name>
@@ -463,7 +463,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Process Result</Name>
-    <Value>プロセス結果</Value>
+    <Value>プロセスの結果</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Process Start Event</Name>
@@ -475,7 +475,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Regex Pattern</Name>
-    <Value>正規表現模様</Value>
+    <Value>正規表現</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Validation Result</Name>
@@ -495,15 +495,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Match Entire Word?</Name>
-    <Value>完全な単語を一致しますか？</Value>
+    <Value>完全一致にしますか？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Product</Name>
-    <Value>製品</Value>
+    <Value>プロダクト</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input Numbers</Name>
-    <Value>入力番号</Value>
+    <Value>入力数値</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Database Type</Name>
@@ -511,7 +511,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Server Name</Name>
-    <Value>サーバーの名前</Value>
+    <Value>サーバー名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Database Name</Name>
@@ -531,31 +531,31 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Delimiter Position</Name>
-    <Value>デリミタりの位置</Value>
+    <Value>区切り文字の位置</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Merged String</Name>
-    <Value>追加されたストリング</Value>
+    <Value>追加された文字列</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input String</Name>
-    <Value>入力ストリング</Value>
+    <Value>入力文字列</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>String Operator</Name>
-    <Value>ストリングオペレーター</Value>
+    <Value>文字列オペレーター</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Parameter String</Name>
-    <Value>パラメータストリング</Value>
+    <Value>パラメータ文字列</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Replacing String</Name>
-    <Value>ストリングを取り替える</Value>
+    <Value>置換する文字列</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output String</Name>
-    <Value>出力ストリング</Value>
+    <Value>出力文字列</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Text Filename</Name>
@@ -579,7 +579,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Excel File Name</Name>
-    <Value>エクセルファイル名前</Value>
+    <Value>エクセルファイル名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Maintain Session</Name>
@@ -611,15 +611,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Filename with Extension</Name>
-    <Value>拡張付いたのファイル名前</Value>
+    <Value>拡張子付きのファイル名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Filename Only</Name>
-    <Value>ファイル名前のみ</Value>
+    <Value>ファイル名のみ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>File Extension</Name>
-    <Value>ファイル拡張</Value>
+    <Value>ファイル拡張子</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Search Headers</Name>
@@ -643,11 +643,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Excel Row Count</Name>
-    <Value>エクセル行カウント</Value>
+    <Value>エクセル行数</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>FileName</Name>
-    <Value>ファイル名前</Value>
+    <Value>ファイル名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input Text</Name>
@@ -683,7 +683,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Ref. Date Time</Name>
-    <Value>日付時間を参照する</Value>
+    <Value>日付/時間を参照する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Increment/Decrement</Name>
@@ -695,7 +695,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Format String</Name>
-    <Value>形式ストリング</Value>
+    <Value>フォーマット</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Date</Name>
@@ -703,11 +703,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Month Number</Name>
-    <Value>月の番号</Value>
+    <Value>月(数値)</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Month Name</Name>
-    <Value>月の名前</Value>
+    <Value>月(名前)</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Year</Name>
@@ -719,7 +719,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Full Date Time</Name>
-    <Value>完全な日付時間</Value>
+    <Value>完全な日付/時間</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Hours</Name>
@@ -743,11 +743,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Run As Admin?</Name>
-    <Value>管理者として実行ですか？</Value>
+    <Value>管理者として実行しますか？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Run In Background?</Name>
-    <Value>バックグラウンドで実行ですか？</Value>
+    <Value>バックグラウンドで実行しますか？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Run In Shell?</Name>
@@ -755,11 +755,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Execution Status</Name>
-    <Value>実行の状態</Value>
+    <Value>実行ステータス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Interval</Name>
-    <Value>合間</Value>
+    <Value>インターバル</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Time to Stop the Timer(Optional)</Name>
@@ -767,7 +767,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Parallel or Sequential</Name>
-    <Value>平行またはシーケンシャル</Value>
+    <Value>並列またはシーケンシャル</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>JSon String</Name>
@@ -839,11 +839,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>From Mobile</Name>
-    <Value>電話から</Value>
+    <Value>モバイルから</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>To Mobile</Name>
-    <Value>電話へ</Value>
+    <Value>モバイルへ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>API URL</Name>
@@ -923,7 +923,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Delimiter</Name>
-    <Value>デリミタ</Value>
+    <Value>区切り文字</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ObjectName</Name>
@@ -935,11 +935,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Expression2</Name>
-    <Value>表現２</Value>
+    <Value>表現2</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>MultiplieExpression</Name>
-    <Value>複数表現</Value>
+    <Value>複数のエクスプレッション</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Query</Name>
@@ -975,47 +975,47 @@
   </LanguageTable>
   <LanguageTable>
     <Name>string1</Name>
-    <Value>ストリング1</Value>
+    <Value>文字列1</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>string2</Name>
-    <Value>ストリング２</Value>
+    <Value>文字列2</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>string3</Name>
-    <Value>ストリング３</Value>
+    <Value>文字列3</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>string4</Name>
-    <Value>ストリング４</Value>
+    <Value>文字列4</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>string5</Name>
-    <Value>ストリング５</Value>
+    <Value>文字列5</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>string6</Name>
-    <Value>ストリング６</Value>
+    <Value>文字列6</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>string7</Name>
-    <Value>ストリング７</Value>
+    <Value>文字列7</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>string8</Name>
-    <Value>ストリング８</Value>
+    <Value>文字列8</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>string9</Name>
-    <Value>ストリング９</Value>
+    <Value>文字列9</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>string10</Name>
-    <Value>ストリング10</Value>
+    <Value>文字列10</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Expression1</Name>
-    <Value>表現1</Value>
+    <Value>エクスプレッション1</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Is processed</Name>
@@ -1075,7 +1075,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>CustomizedExpression</Name>
-    <Value>カスタマイズされた表現</Value>
+    <Value>カスタマイズされたエクスプレッション</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Ignore Empty?</Name>
@@ -1095,7 +1095,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Throw Exception?</Name>
-    <Value>例外をスローしますか？</Value>
+    <Value>エラーを検知しますか？？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input Parameter</Name>
@@ -1191,23 +1191,23 @@
   </LanguageTable>
   <LanguageTable>
     <Name>New Url1 Arrived Event</Name>
-    <Value>新しいUrl1が到着したイベント</Value>
+    <Value>新規Url1到着イベント</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>New Url2 Arrived Event</Name>
-    <Value>新しいUrl2が到着したイベント</Value>
+    <Value>新規Url2到着イベント</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>New Url3 Arrived Event</Name>
-    <Value>新しいUrl3が到着したイベント</Value>
+    <Value>新規Url3到着イベント</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>New Url4 Arrived Event</Name>
-    <Value>新しいUrl4が到着したイベント</Value>
+    <Value>新規Url4到着イベント</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>New Url5 Arrived Event</Name>
-    <Value>新しいUrl5が到着したイベント</Value>
+    <Value>新規Url5到着イベント</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Web Site</Name>
@@ -1235,7 +1235,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Collection Name</Name>
-    <Value>収集名</Value>
+    <Value>コレクション名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input DataTable</Name>
@@ -1247,7 +1247,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Remove Duplicates?</Name>
-    <Value>ユープリケーツを削除しますか？</Value>
+    <Value>重複を削除しますか？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Search Columns</Name>
@@ -1255,11 +1255,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Exact/Contains</Name>
-    <Value>正確/含む</Value>
+    <Value>完全一致/含む</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Sort Column Id or Name</Name>
-    <Value>列IDまたは名前を並べ替え</Value>
+    <Value>列IDまたは名前で並べ替え</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output Data</Name>
@@ -1291,7 +1291,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Mouse Click/DoubleClick</Name>
-    <Value>マウスクリック/ダブルクリック</Value>
+    <Value>クリック/ダブルクリック</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Process Name</Name>
@@ -1299,15 +1299,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Date &amp;&amp; Time</Name>
-    <Value>日付＆＆時間</Value>
+    <Value>日付/時間</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Interval (sec)</Name>
-    <Value>合間（秒）</Value>
+    <Value>間隔（秒）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Threshold (sec)</Name>
-    <Value>スレシュホールド（秒）</Value>
+    <Value>閾値（秒）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Row Read Event</Name>
@@ -1315,11 +1315,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Column Delimiter</Name>
-    <Value>列デリミタ</Value>
+    <Value>列の区切り文字</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Row Delimiter</Name>
-    <Value>行デリミタ</Value>
+    <Value>行の区切り文字</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Column ID</Name>
@@ -1331,7 +1331,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>CSV Filename</Name>
-    <Value>CSV ファイル名</Value>
+    <Value>CSVファイル名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Excel Filename</Name>
@@ -1347,7 +1347,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Overwrite?(Yes/No)</Name>
-    <Value>上書き？（はい/いいえ）</Value>
+    <Value>上書きしますか？（はい/いいえ）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Append?(Yes/No)</Name>
@@ -1355,7 +1355,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Skip Empty Rows?(Yes/No)</Name>
-    <Value>空の行をスキップ</Value>
+    <Value>空の行をスキップしますか？（はい/いいえ）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Ignore Formula?(Yes/No)</Name>
@@ -1363,7 +1363,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Threshold Time(sec)</Name>
-    <Value>スレシュホールド時間（秒）</Value>
+    <Value>閾値の時間（秒）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Applicable only if secure text is enabled.</Name>
@@ -1379,7 +1379,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>GlobalVarAssigner</Name>
-    <Value>グローバル変数アサイナ</Value>
+    <Value>グローバル変数追加</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Compnenty_Name</Name>
@@ -1387,11 +1387,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>ComponentPropAssigner</Name>
-    <Value>コンポーネントプロパティアサイナ</Value>
+    <Value>コンポーネントプロパティ追加</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Idle Time(sec)</Name>
-    <Value>アイドル時間（秒）</Value>
+    <Value>待機時間（秒）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>File System Status</Name>
@@ -1411,11 +1411,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Relative Path</Name>
-    <Value>レラティブパス</Value>
+    <Value>相対パス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Modulus</Name>
-    <Value>モジュラス</Value>
+    <Value>モジュール</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>UseLocal</Name>
@@ -1431,11 +1431,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>CondValue</Name>
-    <Value>条件によって値</Value>
+    <Value>条件による値</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>MultipleExpression</Name>
-    <Value>複数表現</Value>
+    <Value>複数のエクスプレッション</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>CustomeIfElse</Name>
@@ -1443,7 +1443,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>CustExpression</Name>
-    <Value>カスタム表現</Value>
+    <Value>カスタムエクスプレッション</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Server</Name>
@@ -1451,7 +1451,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>DBName</Name>
-    <Value>DB名称</Value>
+    <Value>DB名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>RowsAffected</Name>
@@ -1471,11 +1471,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>SourcePath</Name>
-    <Value>ソースパス</Value>
+    <Value>操作元パス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>DestinationPath</Name>
-    <Value>行先パス</Value>
+    <Value>操作先パス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>StorageLocation</Name>
@@ -1499,7 +1499,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>IsSSL</Name>
-    <Value>SSLです</Value>
+    <Value>SSLかどうか</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Subject</Name>
@@ -1523,11 +1523,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>IsDownload</Name>
-    <Value>ダウンロードです</Value>
+    <Value>ダウンロードかどうか</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ReadUnseenmail</Name>
-    <Value>見えないメールを読む</Value>
+    <Value>Unseenmailを読む</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>MailFolder</Name>
@@ -1535,11 +1535,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>ColDelimiter</Name>
-    <Value>コルデリミタ</Value>
+    <Value>行区切り文字</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>IsAppend</Name>
-    <Value>追加ですか</Value>
+    <Value>追加かどうか</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>SkipEmptyRows</Name>
@@ -1567,11 +1567,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>MatchOrContain</Name>
-    <Value>正確または含む</Value>
+    <Value>一致または含む</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>IsRecordFound</Name>
-    <Value>レコーダーが見つかりましたか？</Value>
+    <Value>レコードが見つかったかどうか</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>SelectedRowIds</Name>
@@ -1591,11 +1591,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Regexstring</Name>
-    <Value>正規表現文字列</Value>
+    <Value>正規表現</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>DelimterPosition</Name>
-    <Value>デリミタの位置</Value>
+    <Value>区切り文字の位置</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ParamString</Name>
@@ -1639,7 +1639,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>IdleTime</Name>
-    <Value>アイドルタイム</Value>
+    <Value>待機時間</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>SystemStatus</Name>
@@ -1675,7 +1675,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>IsprocessID</Name>
-    <Value>処理IDですか</Value>
+    <Value>処理IDかどうか</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ExecStatus</Name>
@@ -1683,19 +1683,19 @@
   </LanguageTable>
   <LanguageTable>
     <Name>IsExact</Name>
-    <Value>正確ですか</Value>
+    <Value>一致？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>IspProcessID</Name>
-    <Value>処理IDですか</Value>
+    <Value>処理ID？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>UnZipSource</Name>
-    <Value>ソースをアンジップ</Value>
+    <Value>ソースを解凍</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>UnZipDestination</Name>
-    <Value>行先をアンジップ</Value>
+    <Value>行先を解凍</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>WatchedFilename</Name>
@@ -1703,7 +1703,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>KeyPress</Name>
-    <Value>キープレス</Value>
+    <Value>キー</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>MouseAction</Name>
@@ -1719,7 +1719,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>BotStatus</Name>
-    <Value>ボット状態</Value>
+    <Value>ボットステータス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>BotMessage</Name>
@@ -1763,11 +1763,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>ExactOrContains</Name>
-    <Value>正確または含む</Value>
+    <Value>一致または含む</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>SortColumn</Name>
-    <Value>列をソーティングする</Value>
+    <Value>列でソーティングする</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>InputTableObj</Name>
@@ -1833,7 +1833,6 @@
     <Name>ResponceResult</Name>
     <Value>応答結果</Value>
   </LanguageTable>
-  
   <LanguageTable>
     <Name>Value1</Name>
     <Value>値1</Value>
@@ -1874,7 +1873,6 @@
     <Name>Value10</Name>
     <Value>値10</Value>
   </LanguageTable>
-  
   <LanguageTable>
     <Name>Param1</Name>
     <Value>パラメータ1</Value>
@@ -1915,7 +1913,6 @@
     <Name>Param10</Name>
     <Value>パラメータ10</Value>
   </LanguageTable>
-  
   <LanguageTable>
     <Name>Security Token</Name>
     <Value>セキュリティトークン</Value>
@@ -1942,11 +1939,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>True</Name>
-    <Value>本当</Value>
+    <Value>True</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>False</Name>
-    <Value>偽</Value>
+    <Value>False</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output Password</Name>
@@ -1966,83 +1963,83 @@
   </LanguageTable>
 <LanguageTable>
     <Name>Inc/Dec</Name>
-    <Value>増減</Value>
+    <Value>増/減</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Expression</Name>
-    <Value>式</Value>
+    <Value>エクスプレッション</Value>
   </LanguageTable>
  <LanguageTable>
     <Name>Pattern 1</Name>
-    <Value>パターン 1</Value>
+    <Value>パターン1</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Text Class 1</Name>
-    <Value>テキストクラス 1</Value>
+    <Value>テキストクラス1</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Pattern 2</Name>
-    <Value>パターン 2</Value>
+    <Value>パターン2</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Text Class 2</Name>
-    <Value>テキストクラス 2</Value>
+    <Value>テキストクラス2</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Pattern 3</Name>
-    <Value>パターン 3</Value>
+    <Value>パターン3</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Text Class 3</Name>
-    <Value>テキストクラス 3</Value>
+    <Value>テキストクラス3</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Pattern 4</Name>
-    <Value>パターン 4</Value>
+    <Value>パターン4</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Text Class 4</Name>
-    <Value>テキストクラス 4</Value>
+    <Value>テキストクラス4</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Pattern 5</Name>
-    <Value>パターン 5</Value>
+    <Value>パターン5</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Text Class 5</Name>
-    <Value>テキストクラス 5</Value>
+    <Value>テキストクラス5</Value>
   </LanguageTable>
     <LanguageTable>
     <Name>Pattern 6</Name>
-    <Value>パターン 6</Value>
+    <Value>パターン6</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Text Class 6</Name>
-    <Value>テキストクラス 6</Value>
+    <Value>テキストクラス6</Value>
   </LanguageTable>
     <LanguageTable>
     <Name>Pattern 7</Name>
-    <Value>パターン 7</Value>
+    <Value>パターン7</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Text Class 7</Name>
-    <Value>テキストクラス 7</Value>
+    <Value>テキストクラス7</Value>
   </LanguageTable>
     <LanguageTable>
     <Name>Pattern 8</Name>
-    <Value>パターン 8</Value>
+    <Value>パターン8</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Text Class 8</Name>
-    <Value>テキストクラス 8</Value>
+    <Value>テキストクラス8</Value>
   </LanguageTable>
     <LanguageTable>
     <Name>Pattern 9</Name>
-    <Value>パターン 9</Value>
+    <Value>パターン9</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Text Class 9</Name>
-    <Value>テキストクラス 9</Value>
+    <Value>テキストクラス9</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Custom Result</Name>
@@ -2058,39 +2055,39 @@
   </LanguageTable>
   <LanguageTable>
     <Name>ClassPattern1</Name>
-    <Value>クラスパターン</Value>
+    <Value>クラスパターン1</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>ClassPattern2</Name>
-    <Value>クラスパターン</Value>
+    <Value>クラスパターン2</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>ClassPattern3</Name>
-    <Value>クラスパターン</Value>
+    <Value>クラスパターン3</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>ClassPattern4</Name>
-    <Value>クラスパターン</Value>
+    <Value>クラスパターン4</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>ClassPattern5</Name>
-    <Value>クラスパターン</Value>
+    <Value>クラスパターン5</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>ClassPattern6</Name>
-    <Value>クラスパターン</Value>
+    <Value>クラスパターン6</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>ClassPattern7</Name>
-    <Value>クラスパターン</Value>
+    <Value>クラスパターン7</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>ClassPattern8</Name>
-    <Value>クラスパターン</Value>
+    <Value>クラスパターン8</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>ClassPattern9</Name>
-    <Value>クラスパターン</Value>
+    <Value>クラスパターン9</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>OutputClass</Name>
@@ -2106,7 +2103,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Exact/Contains/Process Id</Name>
-    <Value>完全/含む/プロセスID</Value>
+    <Value>一致/含む/プロセスID</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Max.Trials</Name>
@@ -2122,7 +2119,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Idle Time (In Seconds)</Name>
-    <Value>アイドル時間（秒）</Value>
+    <Value>待機時間（秒）</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Key1</Name>
@@ -2162,7 +2159,7 @@
   </LanguageTable>
  <LanguageTable>
     <Name>From Mobile Key</Name>
-    <Value>携帯キーから</Value>
+    <Value>モバイルキーから</Value>
   </LanguageTable>
  <LanguageTable>
     <Name>User Name Key</Name>
@@ -2190,7 +2187,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>To Mobile Key</Name>
-    <Value>携帯キーへ</Value>
+    <Value>モバイルキーへ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>CreatedFileNameWithPath</Name>
@@ -2214,7 +2211,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>MailTo</Name>
-    <Value>にメールする</Value>
+    <Value>メールTO</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>EmailBody</Name>
@@ -2258,7 +2255,7 @@
   </LanguageTable>
  <LanguageTable>
     <Name>Permanent Delete?</Name>
-    <Value>永久削除？</Value>
+    <Value>完全に削除しますか？</Value>
   </LanguageTable>
  <LanguageTable>
     <Name>Values Delimiter</Name>
