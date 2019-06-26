@@ -22,7 +22,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Show ant code</Name>
-    <Value>アントコードを見せる</Value>
+    <Value>アントコードを表示する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Start application'</Name>
@@ -58,7 +58,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Get value</Name>
-    <Value>値を得る</Value>
+    <Value>値を取得する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Image based options</Name>
@@ -86,11 +86,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Read excel cell</Name>
-    <Value>エクセルセルを読む</Value>
+    <Value>エクセルのセルを読む</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Write excel cell</Name>
-    <Value>エクセルセルを書く</Value>
+    <Value>エクセルのセルに書く</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Close window</Name>
@@ -134,7 +134,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Flow editor</Name>
-    <Value>フロー編者</Value>
+    <Value>フローの編集</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Open</Name>
@@ -146,7 +146,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>save as</Name>
-    <Value>新規保存</Value>
+    <Value>名前を付けて保存</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Clear </Name>
@@ -154,7 +154,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Default.ant</Name>
-    <Value>既定。アント</Value>
+    <Value>Default.ant</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Selected application</Name>
@@ -170,7 +170,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Go </Name>
-    <Value>行く</Value>
+    <Value>Go</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Extract</Name>
@@ -210,7 +210,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Explore</Name>
-    <Value>探検する</Value>
+    <Value>走査する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Fill selected excel header</Name>
@@ -410,23 +410,23 @@
   </LanguageTable>
   <LanguageTable>
     <Name>while</Name>
-    <Value>しながら</Value>
+    <Value>whileループ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>For</Name>
-    <Value>にとって</Value>
+    <Value>Forループ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Do</Name>
-    <Value>行う</Value>
+    <Value>Doループ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Break</Name>
-    <Value>ブレーク</Value>
+    <Value>Break(処理から抜ける)</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Continue</Name>
-    <Value>持続</Value>
+    <Value>Continue(処理を継続する)</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Variable</Name>
@@ -538,11 +538,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>By Screen Scrapping</Name>
-    <Value>スクリーンスクレイピング（得る）に基づく</Value>
+    <Value>スクリーンスクレイピングに基づく</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>By Scrape Relative</Name>
-    <Value>スクラップ（得る）参照に基づく</Value>
+    <Value>スクレイピング参照に基づく</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Image Based Operations</Name>
@@ -558,11 +558,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Split Count</Name>
-    <Value>カウントを分かれる</Value>
+    <Value>カウントを分ける</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Split String</Name>
-    <Value>ストリングを分かれる</Value>
+    <Value>ストリングを分ける</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Send Keystrokes</Name>
@@ -582,11 +582,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Backward</Name>
-    <Value>逆行</Value>
+    <Value>戻る</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Forward</Name>
-    <Value>前方</Value>
+    <Value>進む</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Close Tab</Name>
@@ -614,7 +614,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Get Entire Element Xpath</Name>
-    <Value>全体要素Xパースを取得する</Value>
+    <Value>全体要素Xパスを取得する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Get Element Collection Count</Name>
@@ -634,7 +634,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Extract Text Xpath</Name>
-    <Value>テキストXパースを抽出する</Value>
+    <Value>テキストXパスを抽出する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Extract by Range</Name>
@@ -654,7 +654,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Get Entire Table</Name>
-    <Value>全体な表を取得する</Value>
+    <Value>表全体を取得する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Write ExtractedTable into Excel</Name>
@@ -666,7 +666,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Table Xpath</Name>
-    <Value>表Xpath</Value>
+    <Value>表Xパス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Download Click</Name>
@@ -714,11 +714,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Cell  Value</Name>
-    <Value>セル値</Value>
+    <Value>セルの値</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>UserName</Name>
-    <Value>使用者名</Value>
+    <Value>ユーザー名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Password</Name>
@@ -726,7 +726,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Show Password</Name>
-    <Value>パスワードを見せる</Value>
+    <Value>パスワードを表示する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Value: Password not display</Name>
@@ -746,11 +746,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Show Text</Name>
-    <Value>テキストを見せる</Value>
+    <Value>テキストを表示する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>AntInputBox</Name>
-    <Value>アント入力ボックス</Value>
+    <Value>ANTInputボックス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Set Input Variable</Name>
@@ -782,7 +782,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Dropdown</Name>
-    <Value>落ちる</Value>
+    <Value>ドロップダウン</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>FillSelectedHeader</Name>
@@ -790,7 +790,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Write excel cell Formula</Name>
-    <Value>エクセルセルを書く式</Value>
+    <Value>エクセルのセルの式を書く</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>File</Name>
@@ -898,7 +898,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Inspect IFrame</Name>
-    <Value>iframeを調べる</Value>
+    <Value>Iframeを調べる</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Next</Name>
@@ -926,7 +926,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>By Scrape Image Relative</Name>
-    <Value>スクレープイミッジレラティブで</Value>
+    <Value>スクレープイメージレラティブで</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>By Scrape Text Relative</Name>
@@ -966,7 +966,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>AutoComplete Textbox</Name>
-    <Value>オート完了テキストボックス</Value>
+    <Value>入力補完テキストボックス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Attributes</Name>
@@ -978,7 +978,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>GetCollectionData</Name>
-    <Value>収集データを取得する</Value>
+    <Value>コレクションデータを取得する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Reference</Name>
@@ -986,7 +986,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Start Recording</Name>
-    <Value>録音開始</Value>
+    <Value>記録開始</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Open Browser</Name>
@@ -1038,11 +1038,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Read Cell</Name>
-    <Value>読み取りセル</Value>
+    <Value>セルを読み取る</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Write Cell Value</Name>
-    <Value>セル値を書き込む</Value>
+    <Value>セルへ値を書き込む</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Using Dropdown Option </Name>
@@ -1050,7 +1050,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Write Cell Value Formula </Name>
-    <Value>セル値式を書き込む</Value>
+    <Value>セルへ値式を書き込む</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Configuration Data </Name>
@@ -1106,15 +1106,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>iFramePath</Name>
-    <Value>i枠パス</Value>
+    <Value>Iframeパス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>iframe Name</Name>
-    <Value>iフレーム名</Value>
+    <Value>Iframe名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Iframe Xpath</Name>
-    <Value>iframe Xのパス</Value>
+    <Value>Iframe Xのパス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Value</Name>
@@ -1134,7 +1134,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>isFrame</Name>
-    <Value>フレームです</Value>
+    <Value>フレームかどうか</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>No.</Name>
@@ -1206,7 +1206,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>ExeName</Name>
-    <Value>エグゼ名</Value>
+    <Value>Exe名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Argument</Name>
@@ -1222,7 +1222,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Column</Name>
-    <Value>カラム</Value>
+    <Value>列</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>MouseButton</Name>
@@ -1234,7 +1234,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>X</Name>
-    <Value>Xパス</Value>
+    <Value>X</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Y</Name>
@@ -1242,7 +1242,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>IsShow</Name>
-    <Value>ショーです</Value>
+    <Value>表示かどうか</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Speed</Name>
@@ -1258,7 +1258,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Delay</Name>
-    <Value>ディレイ</Value>
+    <Value>待機</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>IsFrameSet</Name>
@@ -1310,7 +1310,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>IsIFrame</Name>
-    <Value>IFrameです</Value>
+    <Value>IFrameかどうか</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>File Upload Location</Name>
@@ -1422,7 +1422,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Property</Name>
-    <Value>物件</Value>
+    <Value>プロパティ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Message</Name>
@@ -1450,7 +1450,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>SecuredValue</Name>
-    <Value>担保価値</Value>
+    <Value>保護された値</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>WindowName</Name>
@@ -1478,7 +1478,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>ScrollCount</Name>
-    <Value>スクロール数</Value>
+    <Value>スクロールカウント</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>TargetImage</Name>
@@ -1486,7 +1486,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Accuracy</Name>
-    <Value>正確さ</Value>
+    <Value>精度</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Width</Name>
