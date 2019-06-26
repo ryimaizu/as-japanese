@@ -490,7 +490,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Pending</Name>
-    <Value>未決</Value>
+    <Value>保留</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>User management</Name>
@@ -1050,7 +1050,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Default Gateway IP</Name>
-    <Value>既定ゲートウェイIP</Value>
+    <Value>デフォルトゲートウェイIP</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Queen Bot Salt Key</Name>
@@ -1062,7 +1062,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>C# Code Window</Name>
-    <Value>C＃コードウィンドウ</Value>
+    <Value>C#コードウィンドウ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ANTstein - QueenBOT Details</Name>
@@ -1078,7 +1078,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>DatabaseServer Name /IP :</Name>
-    <Value>データベースサーバー名/ IP</Value>
+    <Value>データベースサーバー名 / IP</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Authentication :</Name>
@@ -1170,7 +1170,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>save as</Name>
-    <Value>新規保存</Value>
+    <Value>名前を付けて保存</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>clear </Name>
@@ -1218,11 +1218,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Continuous control reading</Name>
-    <Value>連続でコントロールを読み取る</Value>
+    <Value>連続してコントロールを読み取る</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Continuous location reading</Name>
-    <Value>連続でロケーションを読み取る</Value>
+    <Value>連続してロケーションを読み取る</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Run</Name>
