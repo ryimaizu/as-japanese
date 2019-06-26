@@ -26,11 +26,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>I am</Name>
-    <Value>わたしは</Value>
+    <Value>ログインID</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Let's go</Name>
-    <Value>行きましょう</Value>
+    <Value>ログイン</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Login </Name>
@@ -710,7 +710,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>generator</Name>
-    <Value>ジェネレータ</Value>
+    <Value>ファイル作成</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Email sender</Name>
@@ -914,11 +914,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Excel File Reader</Name>
-    <Value>エクセルファイル読者</Value>
+    <Value>エクセルファイル読み取り</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Excel Generator</Name>
-    <Value>エクセルジェネレータ</Value>
+    <Value>エクセルファイル作成</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Excel Macro Runner</Name>
@@ -942,7 +942,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>PDF Generator</Name>
-    <Value>PDFジェネレータ</Value>
+    <Value>PDFファイル作成</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Text File Reader</Name>
@@ -950,7 +950,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Text Generator</Name>
-    <Value>テキストジェネレータ</Value>
+    <Value>テキストファイル作成</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Case…</Name>
@@ -1570,7 +1570,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Sign off  Exit</Name>
-    <Value>サインオフ＆エグジット</Value>
+    <Value>アプリケーションを終了</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>File Name</Name>
@@ -2118,7 +2118,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>PDFgenerate</Name>
-    <Value>PDFジェネレータ</Value>
+    <Value>PDFファイル作成</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>TextReader</Name>
