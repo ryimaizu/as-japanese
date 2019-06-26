@@ -466,7 +466,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Username</Name>
-    <Value>ユーザー名前</Value>
+    <Value>ユーザー名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>LDAP</Name>
@@ -610,7 +610,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>User name</Name>
-    <Value>ユーザー名前</Value>
+    <Value>ユーザー名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>User role</Name>
