@@ -758,7 +758,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Working directory of the command (optional)</Name>
-    <Value>コマンドの作業ディレクトリ（オプショナル）</Value>
+    <Value>コマンドの作業フォルダ（オプショナル）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to run this as ADMIN (optional)? (True/False)</Name>

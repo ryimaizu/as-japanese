@@ -622,7 +622,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Invalid Working directory</Name>
-    <Value>無効な作業ディレクトリ</Value>
+    <Value>無効な作業フォルダ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Time should be greater than current time</Name>

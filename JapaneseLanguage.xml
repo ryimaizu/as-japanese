@@ -186,11 +186,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Activated on</Name>
-    <Value>有効化した日時</Value>
+    <Value>有効化した日付</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Expires on</Name>
-    <Value>期限切れになる日時</Value>
+    <Value>期限切れになる日付</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Expired</Name>
@@ -830,11 +830,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Project Folder Path</Name>
-    <Value>プロジェクトのフォルダパス</Value>
+    <Value>プロジェクトの場所</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Create Directory</Name>
-    <Value>ディレクトリを作成</Value>
+    <Value>フォルダを作成</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>New Project</Name>
@@ -1266,7 +1266,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Set value</Name>
-    <Value>値を設定</Value>
+    <Value>値を設定する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Clip board</Name>
@@ -3230,7 +3230,7 @@
   </LanguageTable>
     <LanguageTable>
     <Name>Condition Configuration Data</Name>
-    <Value>条件設定データ</Value>
+    <Value>条件構成データ</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>MachineID</Name>
