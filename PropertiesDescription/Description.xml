@@ -486,7 +486,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Connection string of the database. Alternatively</Name>
-    <Value>データベースの接続ストリング。あるいは</Value>
+    <Value>データベースの接続文字列。あるいは</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Query to execute the DB. Alternatively</Name>
@@ -574,31 +574,31 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Input string to be merged</Name>
-    <Value>入力ストリングをマージする</Value>
+    <Value>入力文字列をマージする</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Delimiter</Name>
-    <Value>デリミタ</Value>
+    <Value>区切り文字</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Position of the delimiter (Start/End/Both/Middle)</Name>
-    <Value>デリミタの位置（開始/完了/両方/真ん中）</Value>
+    <Value>区切り文字の位置（開始/完了/両方/真ん中）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input string to be processed</Name>
-    <Value>入力ストリングを処理する</Value>
+    <Value>入力文字列を処理する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>String operator (TrimStart/TrimEnd/Trim/ToUpper/ToLower/Length/IndexOf/Replace)</Name>
-    <Value>ストリング演算子（トリムス開始/トリム完了/トリム/上部に/下げる/長さ/インデックス/取り替える</Value>
+    <Value>文字列演算子（トリムス開始/トリム完了/トリム/上部に/下げる/長さ/インデックス/取り替える</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Parameter string for the operation</Name>
-    <Value>オペレーション為のパラメータストリング</Value>
+    <Value>オペレーションの為のパラメータ文字列</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Replacing string for the operation</Name>
-    <Value>オペレーション為の取り替えるストリング</Value>
+    <Value>オペレーションの為の置換文字列</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Text filename to be read (without path)</Name>
@@ -650,7 +650,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Delimiter separated Keywords to be searched (case sensitive)</Name>
-    <Value>デリミタでキーワードを分離して検索する（大文字と小文字を区別）</Value>
+    <Value>区切り文字でキーワードを分離して検索する（大文字と小文字を区別）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name> Search ID (from 1)</Name>
@@ -658,15 +658,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Delimiter separated text values</Name>
-    <Value>デリミタがテキスト値を分離された</Value>
+    <Value>区切り文字がテキスト値を分離された</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Delimiter to separate each data of header/values</Name>
-    <Value>デリミタが各データのヘッダー/値を分離する</Value>
+    <Value>区切り文字が各データのヘッダー/値を分離する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Delimiter separated header text</Name>
-    <Value>デリミタがヘッダーテキストを分離する</Value>
+    <Value>区切り文字がヘッダーテキストを分離する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Filename to be operated</Name>
@@ -746,7 +746,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Format String (optional)</Name>
-    <Value>形式ストリング（オプショナル）</Value>
+    <Value>形式文字列（オプショナル）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Exe filename to be executed.</Name>
@@ -782,11 +782,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name> The JSon string to be parsed</Name>
-    <Value>Json ストリングを分類する</Value>
+    <Value>Json 文字列を分類する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>The XML string to be parsed</Name>
-    <Value>XMLストリングを分類する</Value>
+    <Value>XML文字列を分類する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name> The XML file to be parsed</Name>
@@ -842,7 +842,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name> Delimiter separated Parameters</Name>
-    <Value>デリミタがパラメータを分離された</Value>
+    <Value>区切り文字がパラメータを分離された</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Connection</Name>
@@ -942,7 +942,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Delimiters</Name>
-    <Value>デリミタ</Value>
+    <Value>区切り文字</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Range</Name>
@@ -1086,7 +1086,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>MISC</Name>
-    <Value>雑多</Value>
+    <Value>その他</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Enter no of seconds,the process need to pause</Name>
@@ -1102,11 +1102,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Delimiter to separate the set of input numbers</Name>
-    <Value>デリミタがセットの入力数字を分離する</Value>
+    <Value>区切り文字がセットの入力数字を分離する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Delimiter separated numbers</Name>
-    <Value>デリミタで数字を分離された</Value>
+    <Value>区切り文字で数字を分離された</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Second Number</Name>
@@ -1146,7 +1146,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Connection string of the database. Alternatively, Server, Database, User and password details can be provided individually</Name>
-    <Value>データベースの接続ストリング。 あるいは、サーバー、データベース、ユーザー、およびパスワードの詳細を個別に提供することもできます</Value>
+    <Value>データベースの接続文字列。 あるいは、サーバー、データベース、ユーザー、およびパスワードの詳細を個別に提供することもできます</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Password</Name>
@@ -1170,7 +1170,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Connection string of the database</Name>
-    <Value>データベースの接続ストリング</Value>
+    <Value>データベースの接続文字列</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Pipe(|) separated values</Name>
@@ -1247,7 +1247,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Single or multiple filename to be operated using Delimiter('|') operator </Name>
-    <Value>デリミタ（ '|'）演算子を使用して単一または複数のファイル名を操作する</Value>
+    <Value>区切り文字（ '|'）演算子を使用して単一または複数のファイル名を操作する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Seconds</Name>
@@ -1299,7 +1299,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>The delimiter character between each filename</Name>
-    <Value>各ファイル名の間のデリミタ文字</Value>
+    <Value>各ファイル名の間の区切り文字文字</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Number of files searched</Name>
@@ -1363,15 +1363,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Merged string of all the input strings　</Name>
-    <Value>すべての入力ストリングがマージされます</Value>
+    <Value>すべての入力文字列がマージされます</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to ignore empty strings?</Name>
-    <Value>空のストリングを無視しますか？</Value>
+    <Value>空の文字列を無視しますか？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Delimiter (optional)</Name>
-    <Value>デリミタ（オプショナル）</Value>
+    <Value>区切り文字（オプショナル）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Mail Password</Name>
@@ -1439,7 +1439,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Processes string</Name>
-    <Value>処理されるストリング</Value>
+    <Value>処理される文字列</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Yes if search is case sensitive, else No</Name>
@@ -1451,7 +1451,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Searched string data, if the keyword exists; else, empty</Name>
-    <Value>キーワードが存在する時、検索されたストリングデータです。 そうでなければ、空 です</Value>
+    <Value>キーワードが存在する時、検索された文字列データです。 そうでなければ、空 です</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Returns True/False/Partial based on the key availability</Name>

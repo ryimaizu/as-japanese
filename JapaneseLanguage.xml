@@ -2174,15 +2174,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Tool_Tip</Name>
-    <Value>ツール_チップ</Value>
+    <Value>ツールチップ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Component_Group</Name>
-    <Value>コンポーネント_グループ</Value>
+    <Value>コンポーネントグループ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Generate</Name>
-    <Value>生成する</Value>
+    <Value>作成する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Code Window</Name>
