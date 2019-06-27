@@ -226,7 +226,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Wait for element</Name>
-    <Value>要素為に待つ</Value>
+    <Value>ある要素の描画を待機</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>preview</Name>
@@ -266,7 +266,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>SRC</Name>
-    <Value>SRC</Value>
+    <Value>src属性</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>URL</Name>
@@ -422,11 +422,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Break</Name>
-    <Value>Break(処理から抜ける)</Value>
+    <Value>処理を終了</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Continue</Name>
-    <Value>Continue(処理を継続する)</Value>
+    <Value>処理を継続</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Variable</Name>

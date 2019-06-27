@@ -514,7 +514,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Submit</Name>
-    <Value>提出</Value>
+    <Value>保存</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Schedule list</Name>
@@ -1754,7 +1754,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Condition</Name>
-    <Value>調子</Value>
+    <Value>条件</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Increment</Name>
@@ -2685,7 +2685,7 @@
     <Value>カスタム値</Value>
   </LanguageTable>
   <LanguageTable>
-    <Name>Constains</Name>
+    <Name>Contains</Name>
     <Value>含む</Value>
   </LanguageTable>
   <LanguageTable>
@@ -2702,7 +2702,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Submit</Name>
-    <Value>提出する</Value>
+    <Value>保存</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Component Name</Name>
@@ -3194,7 +3194,7 @@
   </LanguageTable>
    <LanguageTable>
     <Name>while</Name>
-    <Value>whileループ</Value>
+    <Value>Whileループ</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>If</Name>
@@ -3202,11 +3202,11 @@
   </LanguageTable>
    <LanguageTable>
     <Name>ELSE IF</Name>
-    <Value>そうでなければ</Value>
+    <Value>追加条件</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>ELSE</Name>
-    <Value>それ以外の</Value>
+    <Value>それ以外では</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Nil</Name>
