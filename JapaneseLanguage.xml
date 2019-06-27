@@ -42,7 +42,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>View</Name>
-    <Value>ビュー</Value>
+    <Value>表示</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Tools</Name>
@@ -970,7 +970,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Import Process</Name>
-    <Value>インポートプロセス</Value>
+    <Value>プロセスをインポートする</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Save All</Name>
@@ -1438,7 +1438,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Go</Name>
-    <Value>行く</Value>
+    <Value>Go</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Code</Name>
@@ -2398,7 +2398,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Users</Name>
-    <Value>ユーザー</Value>
+    <Value>管理</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Colony Management</Name>
