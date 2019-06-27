@@ -1542,7 +1542,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Property Modifiers</Name>
-    <Value>プロパティモディファイウズ</Value>
+    <Value>プロパティ変更</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>POP-OUT</Name>
@@ -1582,7 +1582,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Action on Hover</Name>
-    <Value>Hoverした際のアクション</Value>
+    <Value>マウスオーバーした時のアクション</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ANT File</Name>

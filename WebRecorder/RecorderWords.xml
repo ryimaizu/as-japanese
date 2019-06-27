@@ -386,7 +386,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Action on Hover</Name>
-    <Value>ホバー上のアクション</Value>
+    <Value>マウスオーバーした時のアクション</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ANT File</Name>
@@ -514,7 +514,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Hover</Name>
-    <Value>ホバー</Value>
+    <Value>マウスオーバー</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Click Relative</Name>
