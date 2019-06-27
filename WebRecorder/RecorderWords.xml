@@ -70,7 +70,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Delay</Name>
-    <Value>遅れ</Value>
+    <Value>待機</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>View log</Name>
@@ -210,7 +210,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Explore</Name>
-    <Value>走査する</Value>
+    <Value>エクスプローラー</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Fill selected excel header</Name>
@@ -402,7 +402,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>IF</Name>
-    <Value>もし</Value>
+    <Value>条件の指定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Loop</Name>
@@ -433,7 +433,7 @@
     <Value>変数</Value>
   </LanguageTable>
   <LanguageTable>
-    <Name>Assign varible</Name>
+    <Name>Assign Variable</Name>
     <Value>変数を割り当てる</Value>
   </LanguageTable>
   <LanguageTable>
@@ -486,23 +486,23 @@
   </LanguageTable>
   <LanguageTable>
     <Name>By Text</Name>
-    <Value>テキストに基づく</Value>
+    <Value>テキストで設定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>By Excel</Name>
-    <Value>エクセルに基づく</Value>
+    <Value>エクセルで設定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>By Secure Text</Name>
-    <Value>安全なテキストに基づく</Value>
+    <Value>安全なテキストで設定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>By Control</Name>
-    <Value>コントロール（要素）に基づく</Value>
+    <Value>コントロールで設定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>By Location</Name>
-    <Value>ロケーションに基づく</Value>
+    <Value>ロケーションで設定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Right Click</Name>
@@ -762,7 +762,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Navigate To</Name>
-    <Value>案内する</Value>
+    <Value>ページを移動する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Fill Inputs</Name>
