@@ -1514,11 +1514,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>* Selected item field is empty. Either add property to it or remove the collection name</Name>
-    <Value>選択された項目のフィールドが空欄です。プロパティーを追加するまたはコレクション名を削除してください</Value>
+    <Value>選択された項目のフィールドが空欄です。プロパティを追加するまたはコレクション名を削除してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Please select any one of the selected item property field before clicking the Remove button</Name>
-    <Value>削除ボタンをクリックする前に一つの選択したアイテムプロパティーを選択してください</Value>
+    <Value>削除ボタンをクリックする前に一つの選択したアイテムプロパティを選択してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>click on any one of the operator button to add condition</Name>

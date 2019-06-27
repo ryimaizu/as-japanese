@@ -990,15 +990,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>QueenBot Settings</Name>
-    <Value>QueenBotの設定</Value>
+    <Value>QueenBot設定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>DataBase Settings</Name>
-    <Value>データベースの設定</Value>
+    <Value>データベース設定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Email Settings</Name>
-    <Value>Eメールの設定</Value>
+    <Value>Eメール設定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Change Password</Name>
@@ -2198,7 +2198,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Property</Name>
-    <Value>プロパティー</Value>
+    <Value>プロパティ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Component Creator</Name>
@@ -2218,7 +2218,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Property Details</Name>
-    <Value>プロパティーの詳細</Value>
+    <Value>プロパティの詳細</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Custom Property</Name>
@@ -3578,11 +3578,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Save File</Name>
-    <Value>ファイルを保存</Value>
+    <Value>ファイル保存</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Open File</Name>
-    <Value>ファイルを開く</Value>
+    <Value>ファイル開く</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Save Name</Name>
