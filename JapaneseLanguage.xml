@@ -2050,7 +2050,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>DoWhile</Name>
-    <Value>Do While</Value>
+    <Value>Whileループ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Custom Expression</Name>
