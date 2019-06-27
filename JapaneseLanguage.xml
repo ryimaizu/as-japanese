@@ -98,7 +98,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>parser</Name>
-    <Value>パーサー</Value>
+    <Value>構文解析</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Runner</Name>
@@ -806,11 +806,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Json parser</Name>
-    <Value>Json パーサー</Value>
+    <Value>Json 構文解析</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>XML parser</Name>
-    <Value>XML パーサー</Value>
+    <Value>XML 構文解析</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Remote runner</Name>
@@ -2086,11 +2086,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>ParseJSon</Name>
-    <Value>Jsonパーサー</Value>
+    <Value>Json構文解析</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ParseXML</Name>
-    <Value>XML パーサー</Value>
+    <Value>XML 構文解析</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>RemoteAppRunner</Name>
