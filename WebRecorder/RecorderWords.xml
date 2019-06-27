@@ -62,7 +62,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Image based options</Name>
-    <Value>イメージベースのオプション</Value>
+    <Value>画像ベースのオプション</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Clipboard</Name>
@@ -494,15 +494,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>By Secure Text</Name>
-    <Value>安全なテキストで設定</Value>
+    <Value>保護されたテキストで設定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>By Control</Name>
-    <Value>コントロールで設定</Value>
+    <Value>操作で設定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>By Location</Name>
-    <Value>ロケーションで設定</Value>
+    <Value>場所で設定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Right Click</Name>
@@ -546,7 +546,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Image Based Operations</Name>
-    <Value>イメージベースの操作</Value>
+    <Value>画像ベースの操作</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Find Image</Name>
@@ -554,7 +554,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Wait Image Vanish</Name>
-    <Value>イメージが閉じるまでお待ちください</Value>
+    <Value>画像が閉じるまでお待ちください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Split Count</Name>
@@ -878,7 +878,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>By Scrap Image Relative</Name>
-    <Value>スクラップイメージによる</Value>
+    <Value>スクラップ画像による</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>By Scrap Text Relative</Name>
@@ -914,7 +914,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>By Secure Value</Name>
-    <Value>安全な値で</Value>
+    <Value>保護された値で設定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>By Credential Value</Name>
@@ -926,11 +926,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>By Scrape Image Relative</Name>
-    <Value>スクレープイメージレラティブで</Value>
+    <Value>取得した画像との相対位置で設定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>By Scrape Text Relative</Name>
-    <Value>スクレープテキストレラティブで</Value>
+    <Value>取得したテキストとの相対位置で設定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Down Scroll</Name>
@@ -950,7 +950,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Image Url</Name>
-    <Value>イメージURL</Value>
+    <Value>画像URL</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>URL</Name>
