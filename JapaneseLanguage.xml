@@ -1230,7 +1230,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Recording actions</Name>
-    <Value>録画アクション</Value>
+    <Value>アクション</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Start application</Name>
@@ -1546,11 +1546,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>POP-OUT</Name>
-    <Value>ポップアウト</Value>
+    <Value>別画面表示</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>POP-IN</Name>
-    <Value>ポップイン</Value>
+    <Value>画面を戻す</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Stop Recording</Name>

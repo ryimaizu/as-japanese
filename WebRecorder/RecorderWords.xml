@@ -190,7 +190,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Save image</Name>
-    <Value>イメージを保存する</Value>
+    <Value>画像を保存する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Download file</Name>
@@ -314,19 +314,19 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Auto complete</Name>
-    <Value>自動完了</Value>
+    <Value>入力候補</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Using dropdown options</Name>
-    <Value>ドロップダウンオプションを使用している</Value>
+    <Value>ドロップダウンオプションを使用する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Using sendkeys selection</Name>
-    <Value>送信キー選択を使用している</Value>
+    <Value>送信キー選択を使用する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Fill secure text</Name>
-    <Value>安全なテキストを記入</Value>
+    <Value>パスワードを入力(暗号化されます)</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Element</Name>
@@ -550,7 +550,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Find Image</Name>
-    <Value>イメージを検索</Value>
+    <Value>画像を検索</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Wait Image Vanish</Name>
@@ -766,7 +766,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Fill Inputs</Name>
-    <Value>塗りつぶし入力</Value>
+    <Value>入力操作</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Select Dropdown</Name>
