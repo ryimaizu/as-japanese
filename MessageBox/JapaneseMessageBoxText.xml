@@ -1362,11 +1362,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Passwords must contain at least 8 characters</Name>
-    <Value>パスワードは少なくとも８文字が含む必要があります</Value>
+    <Value>パスワードは少なくとも8文字以上としてください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Passwords must contain at least 8 characters, including uppercase, lowercase letters and numbers</Name>
-    <Value>パスワードは少なくとも８文字が含む必要があります。大文字、小文字、数字を含むなければなりません</Value>
+    <Value>パスワードは少なくとも8文字以上としてください。大文字、小文字、数字を含まなければなりません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Change Password Failed.The old password and new password is same</Name>
@@ -1686,7 +1686,7 @@
 </LanguageTable>
 <LanguageTable>
     <Name>Entered e-mail ID is not valid. Correct it and try again.</Name>
-    <Value>入力したEメールアドレスが無効です。修正してやり直してください。</Value>
+    <Value>入力したメールアドレスが無効です。修正してやり直してください。</Value>
 </LanguageTable>
 <LanguageTable>
     <Name>Provide a valid e-mail address.</Name>

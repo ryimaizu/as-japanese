@@ -46,7 +46,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Email folder to be watched (optional)</Name>
-    <Value>Eメールフォルダを監視する(オプショナル)</Value>
+    <Value>メールフォルダを監視する(オプショナル)</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Enable Secure Sockets Layer (SSL)</Name>
@@ -62,7 +62,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Function box name when an email arrives</Name>
-    <Value>Eメールが到着時にファンクションボックス名を呼ぶ</Value>
+    <Value>メールが到着時にファンクションボックス名を呼ぶ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Outlook/Gmail/Others (optional)</Name>
@@ -78,7 +78,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Outlook email folder to be watched</Name>
-    <Value>OutlookのEメールフォルダを監視する</Value>
+    <Value>Outlookのメールフォルダを監視する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Enter Excption Message </Name>
@@ -138,83 +138,83 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Input 1</Name>
-    <Value>入力１</Value>
+    <Value>入力1</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input 2</Name>
-    <Value>入力２</Value>
+    <Value>入力2</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input 3</Name>
-    <Value>入力３</Value>
+    <Value>入力3</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input 4</Name>
-    <Value>入力４</Value>
+    <Value>入力4</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input 5</Name>
-    <Value>入力５</Value>
+    <Value>入力5</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input 6</Name>
-    <Value>入力６</Value>
+    <Value>入力6</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input 7</Name>
-    <Value>入力７</Value>
+    <Value>入力7</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input 8</Name>
-    <Value>入力８</Value>
+    <Value>入力8</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input 9</Name>
-    <Value>入力９</Value>
+    <Value>入力9</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input 10</Name>
-    <Value>入力１０</Value>
+    <Value>入力10</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output 1</Name>
-    <Value>出力１</Value>
+    <Value>出力1</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output 2</Name>
-    <Value>出力２</Value>
+    <Value>出力2</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output 3</Name>
-    <Value>出力３</Value>
+    <Value>出力3</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output 4</Name>
-    <Value>出力４</Value>
+    <Value>出力4</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output 5</Name>
-    <Value>出力５</Value>
+    <Value>出力5</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output 6</Name>
-    <Value>出力６</Value>
+    <Value>出力6</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output 7</Name>
-    <Value>出力７</Value>
+    <Value>出力7</Value>
   </LanguageTable>
   <LanguageTable>
     <Name> Output 8</Name>
-    <Value>出力８</Value>
+    <Value>出力8</Value>
   </LanguageTable>
   <LanguageTable>
     <Name> Output 9</Name>
-    <Value>出力９</Value>
+    <Value>出力9</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output 10</Name>
-    <Value>出力１０</Value>
+    <Value>出力10</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Function Box to be assigned if the condition is TRUE</Name>
@@ -238,11 +238,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Logical expression 1 for checking (==/!=/&lt;/&gt;/&lt;=/&gt;=)</Name>
-    <Value>確認するためのロジカル表現１(==/!=/&lt;/&gt;/&lt;=/&gt;=)</Value>
+    <Value>確認するためのロジカル表現1(==/!=/&lt;/&gt;/&lt;=/&gt;=)</Value>
   </LanguageTable>
   <LanguageTable>
     <Name> Logical expression 2 for checking (==/!=/&lt;/&gt;/&lt;=/&gt;=)</Name>
-    <Value>確認するためのロジカル表現２(==/!=/&lt;/&gt;/&lt;=/&gt;=)</Value>
+    <Value>確認するためのロジカル表現2(==/!=/&lt;/&gt;/&lt;=/&gt;=)</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Logical expression for checking (&amp;&amp;&amp;&amp;,||)</Name>
@@ -654,7 +654,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name> Search ID (from 1)</Name>
-    <Value>検索ID（１から）</Value>
+    <Value>検索ID（1から）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Delimiter separated text values</Name>
@@ -1074,7 +1074,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Mobile Numbers</Name>
-    <Value>モバイル数字</Value>
+    <Value>電話番号</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Base Properties</Name>

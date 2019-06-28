@@ -210,7 +210,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Text Classifier</Name>
-    <Value>テキスト分類子</Value>
+    <Value>テキスト分類</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Console display</Name>
@@ -258,7 +258,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Emails</Name>
-    <Value>Eメール</Value>
+    <Value>メール</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>send crash report</Name>
@@ -510,7 +510,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Email</Name>
-    <Value>Eメール</Value>
+    <Value>メール</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Submit</Name>
@@ -998,7 +998,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Email Settings</Name>
-    <Value>Eメール設定</Value>
+    <Value>メール設定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Change Password</Name>
@@ -1098,15 +1098,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>E-MAIL Configuration</Name>
-    <Value>Eメール構成</Value>
+    <Value>メール構成</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>QueenBOT Eamail :</Name>
-    <Value>QueenBOT のEメール</Value>
+    <Value>QueenBOTのメール</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Email Password :</Name>
-    <Value>Eメールパスワード</Value>
+    <Value>メールパスワード</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>SMTP Type :</Name>
@@ -1670,7 +1670,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>QueenBOT Email</Name>
-    <Value>QueenBOT Eメール</Value>
+    <Value>QueenBOT メール</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ANTbot machines</Name>
@@ -2130,11 +2130,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>OutlookEmailSender</Name>
-    <Value>Outlook Eメール送信</Value>
+    <Value>Outlook メール送信</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>OutlookEmailWatcher</Name>
-    <Value>Outlook Eメールウォッチャ</Value>
+    <Value>Outlook メールウォッチャ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ExcelRowReader</Name>
@@ -2862,7 +2862,7 @@
   </LanguageTable>
     <LanguageTable>
     <Name>E-mail configured successfully.</Name>
-    <Value>Eメール設定が完了しました。</Value>
+    <Value>メール設定が完了しました。</Value>
   </LanguageTable>
     <LanguageTable>
     <Name>Selected User is successfully Logoff.</Name>
@@ -3482,7 +3482,7 @@
 </LanguageTable>
 <LanguageTable>
     <Name>E-mail ID:</Name>
-    <Value>EメールID：</Value>
+    <Value>メールアドレス：</Value>
 </LanguageTable>
 <LanguageTable>
     <Name>Company Name:</Name>

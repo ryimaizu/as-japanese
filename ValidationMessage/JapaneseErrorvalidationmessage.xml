@@ -214,7 +214,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>EmailTo is Empty</Name>
-    <Value>EメールToは空です</Value>
+    <Value>メールToは空です</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Subject is Empty</Name>
@@ -1530,11 +1530,11 @@
   </LanguageTable>
    <LanguageTable>
     <Name>Receiving mail ID is Empty</Name>
-    <Value>受信メールIDが空です</Value>
+    <Value>受信メールアドレスが空です</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Email ID field is Empty</Name>
-    <Value>EメールIDフィールドが空です</Value>
+    <Value>メールアドレスフィールドが空です</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Both Column IDs and Header Data are Empty.</Name>

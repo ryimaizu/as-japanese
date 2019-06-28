@@ -38,7 +38,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Email Folder</Name>
-    <Value>Eメールフォルダ</Value>
+    <Value>メールフォルダ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Download Attachments?</Name>
@@ -106,43 +106,43 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Input_1</Name>
-    <Value>入力_１</Value>
+    <Value>入力_1</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input_2</Name>
-    <Value>入力_２</Value>
+    <Value>入力_2</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input_3</Name>
-    <Value>入力_３</Value>
+    <Value>入力_3</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input_4</Name>
-    <Value>入力_４</Value>
+    <Value>入力_4</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input_5</Name>
-    <Value>入力_５</Value>
+    <Value>入力_5</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input_6</Name>
-    <Value>入力_６</Value>
+    <Value>入力_6</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input_7</Name>
-    <Value>入力_７</Value>
+    <Value>入力_7</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input_8</Name>
-    <Value>入力_８</Value>
+    <Value>入力_8</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input_9</Name>
-    <Value>入力_９</Value>
+    <Value>入力_9</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input_10</Name>
-    <Value>入力_１０</Value>
+    <Value>入力_10</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>CanvasName</Name>
@@ -150,44 +150,44 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Output_1</Name>
-    <Value>出力_１</Value>
+    <Value>出力_1</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output_2</Name>
-    <Value>出力_２</Value>
+    <Value>出力_2</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output_3</Name>
-    <Value>出力_３</Value>
+    <Value>出力_3</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output_4</Name>
-    <Value>出力_４</Value>
+    <Value>出力_4</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output_5</Name>
-    <Value>出力_５</Value>
+    <Value>出力_5</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output_6</Name>
-    <Value>出力_６</Value>
+    <Value>出力_6</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output_7</Name>
-    <Value>出力_７</Value>
+    <Value>出力_7</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output_8</Name>
-    <Value>出力_８</Value>
+    <Value>出力_8</Value>
     <F22>#NAME?</F22>
   </LanguageTable>
   <LanguageTable>
     <Name>Output_9</Name>
-    <Value>出力_９</Value>
+    <Value>出力_9</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Output_10</Name>
-    <Value>出力_１０</Value>
+    <Value>出力_10</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>True Event</Name>
@@ -839,11 +839,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>From Mobile</Name>
-    <Value>モバイルから</Value>
+    <Value>From 番号</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>To Mobile</Name>
-    <Value>モバイルへ</Value>
+    <Value>To 番号</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>API URL</Name>
@@ -915,11 +915,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Number1</Name>
-    <Value>番号１</Value>
+    <Value>番号1</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Number2</Name>
-    <Value>番号２</Value>
+    <Value>番号2</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Delimiter</Name>
@@ -2159,7 +2159,7 @@
   </LanguageTable>
  <LanguageTable>
     <Name>From Mobile Key</Name>
-    <Value>モバイルキーから</Value>
+    <Value>From SMSキー</Value>
   </LanguageTable>
  <LanguageTable>
     <Name>User Name Key</Name>
@@ -2187,7 +2187,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>To Mobile Key</Name>
-    <Value>モバイルキーへ</Value>
+    <Value>To SMSキー</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>CreatedFileNameWithPath</Name>
