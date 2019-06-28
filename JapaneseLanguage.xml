@@ -1002,7 +1002,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Change Password</Name>
-    <Value>パスワードを変更する</Value>
+    <Value>パスワード変更</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Web Recorder </Name>
@@ -3238,7 +3238,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Orchestrator / BOT Builder</Name>
-    <Value>オーケストレーター/ BOTビルダー</Value>
+    <Value>オーケストレータ / BOTビルダー</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Hi there! Are you setting up for the first time?</Name>
@@ -3638,7 +3638,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Is_Exception_Continue_at_Runner_Component</Name>
-    <Value>ランナーコンポーネントで例外が継続するか</Value>
+    <Value>ランナーコンポーネントでの例外(エラー)時に処理を継続する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Element_Threshold</Name>
