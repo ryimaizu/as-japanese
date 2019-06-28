@@ -10,7 +10,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Pop out</Name>
-    <Value>ポップ・アウト</Value>
+    <Value>別画面表示</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Continuous reading</Name>
@@ -1114,7 +1114,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Iframe Xpath</Name>
-    <Value>Iframe Xのパス</Value>
+    <Value>Iframe Xパス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Value</Name>
@@ -1342,7 +1342,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>iframeXpath</Name>
-    <Value>iframe Xのパス</Value>
+    <Value>iframe Xパス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>iframeElmPath</Name>
