@@ -94,7 +94,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Linking </Name>
-    <Value>リンキング</Value>
+    <Value>キャンバスリンク</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>parser</Name>
@@ -882,15 +882,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Linking</Name>
-    <Value>連係</Value>
+    <Value>キャンバスリンク</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>linkerinput</Name>
-    <Value>リンカ入力</Value>
+    <Value>リンク元から入力</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>linkeroutput</Name>
-    <Value>リンカ出力</Value>
+    <Value>リンク先へ出力</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>FrameWork</Name>
@@ -2006,11 +2006,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Image Operator</Name>
-    <Value>イメージオペレータ</Value>
+    <Value>画像オペレータ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Zip Operator</Name>
-    <Value>ジップオペレータ</Value>
+    <Value>ZIPオペレータ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Http Responder</Name>
@@ -2310,7 +2310,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Compression</Name>
-    <Value>イメージコンプレッサー</Value>
+    <Value>画像コンプレッサー</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Bot Queue</Name>
