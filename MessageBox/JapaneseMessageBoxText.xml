@@ -278,7 +278,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Queen Bot repository folder not accessible.</Name>
-    <Value>クインボットリポジトリ（保管）フォルダをアクセスできません。</Value>
+    <Value>QueenBotリポジトリ(保管)フォルダアクセスできません。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Error in Process workflow compression. Please try again. If issue persists, Please contact administrator. </Name>
@@ -290,7 +290,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Re-Sequence process is completed.</Name>
-    <Value>再シーケンス処理が完了した。</Value>
+    <Value>再シーケンス処理が完了しました</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Invalid connection in the process. Please check the connection and try again.</Name>
