@@ -602,7 +602,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Active Bot builder details</Name>
-    <Value>活動的なボットビルダーの詳細</Value>
+    <Value>現在開いているボットビルダーの詳細</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>IP</Name>
@@ -1038,7 +1038,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Queen Bot IP</Name>
-    <Value>Queen Bot　IP</Value>
+    <Value>Queen Bot IP</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Ant IP</Name>
@@ -1046,7 +1046,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Queen Bot Port</Name>
-    <Value>Queen Bot　ポート</Value>
+    <Value>Queen Bot ポート</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Default Gateway IP</Name>
@@ -1058,7 +1058,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>WFML Window</Name>
-    <Value>WFML　ウィンドウ</Value>
+    <Value>WFML ウィンドウ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>C# Code Window</Name>
@@ -1190,7 +1190,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Bot builder:Dashboard</Name>
-    <Value>ボットビルダ：ダッシュボード</Value>
+    <Value>ボットビルダー：ダッシュボード</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Process name </Name>
@@ -1530,7 +1530,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>ANTstein QueenBOT : BOTbuilder</Name>
-    <Value>ANTstein QueenBOT:ボットビルダー</Value>
+    <Value>ANTstein QueenBOT : BOTbuilder</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Global variable</Name>
