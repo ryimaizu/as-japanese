@@ -134,7 +134,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name> Linker Canvas Name</Name>
-    <Value>リンカのキャンバス名</Value>
+    <Value>リンクするキャンバス名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input 1</Name>

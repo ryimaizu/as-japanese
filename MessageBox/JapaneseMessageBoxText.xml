@@ -978,7 +978,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Linker circular reference found.\nPlease change the Selected Canvas Name.</Name>
-    <Value>リンカの循環参照が見つかりました。\n選択したキャンバス名を変更してください。</Value>
+    <Value>キャンバスリンクの循環参照が見つかりました。\n選択したキャンバス名を変更してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Please Enter new password.</Name>

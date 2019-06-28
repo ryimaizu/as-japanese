@@ -790,11 +790,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Linker input</Name>
-    <Value>リンカ入力</Value>
+    <Value>リンク元から入力</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Linker output</Name>
-    <Value>リンカ出力</Value>
+    <Value>リンク先へ入力</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Dynamic HTML</Name>
