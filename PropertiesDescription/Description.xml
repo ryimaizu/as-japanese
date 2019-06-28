@@ -30,7 +30,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Name of the mail server</Name>
-    <Value>メールサーバの名前</Value>
+    <Value>メールサーバ名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Watching mail ID</Name>
@@ -270,7 +270,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name> Event which needs to be triggered on Interval</Name>
-    <Value>ある間隔で実行する必要があるイベント</Value>
+    <Value>ある間隔で定期実行する必要があるイベント</Value>
   </LanguageTable>
   <LanguageTable>
     <Name> Timer Id</Name>
@@ -286,11 +286,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Input Keys - Pipe (|) separated text if it's Many</Name>
-    <Value>入力キーー多く場合はパイプ(|)でテキストを分離された</Value>
+    <Value>入力キー - 複数の場合はパイプ(|)で区切る</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input Values - Pipe (|) separated text if it's Many</Name>
-    <Value>入力値ー多く場合はパイプ(|)でテキストを分離された</Value>
+    <Value>入力値 - 複数の場合はパイプ(|)で区切る</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>First Number</Name>
@@ -374,7 +374,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Excel sheet name to be read</Name>
-    <Value>エクセルシート名前を読む</Value>
+    <Value>エクセルシート名を読み取る</Value>
   </LanguageTable>
   <LanguageTable>
     <Name> ID of the column to be read (optional)</Name>
@@ -382,7 +382,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to read within a range of cells?</Name>
-    <Value>セルの範囲内で読みたいですか？</Value>
+    <Value>範囲内のセル読み取りますか？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Folder to be watched</Name>
@@ -398,19 +398,19 @@
   </LanguageTable>
   <LanguageTable>
     <Name> Function box name when a new file is created</Name>
-    <Value>新しいファイルが作成された時にファンクションボックス名を呼ぶ</Value>
+    <Value>新しいファイルが作成された時に呼ばれるファンクションボックス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Function box name when a file is deleted</Name>
-    <Value>ファイルが削除された時にファンクションボックス名を呼ぶ</Value>
+    <Value>ファイルが削除された時に呼ばれるファンクションボックス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Function box name when a file is updated</Name>
-    <Value>ファイルが更新された時にファンクションボックス名を呼ぶ</Value>
+    <Value>ファイルが更新された時に呼ばれるファンクションボックス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Function box name when a file is renamed</Name>
-    <Value>ファイルが名前の変更された時にファンクションボックス名を呼ぶ</Value>
+    <Value>ファイル名が変更された時に呼ばれるファンクションボックス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Text to be displayed on the Message Box</Name>
@@ -682,7 +682,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>New filename for renaming (optional)</Name>
-    <Value>名前の変更為の新しいファイル名（オプショナル）</Value>
+    <Value>新しいファイル名（オプショナル）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to overwrite the file? (Yes/No)</Name>
@@ -690,7 +690,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>FullPath to be operated</Name>
-    <Value>フルパスを操作する</Value>
+    <Value>捜査対象のファイルのフルネーム(パスを含む)</Value>
   </LanguageTable>
   <LanguageTable>
     <Name> List of Keywords to be searched</Name>
