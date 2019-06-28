@@ -474,7 +474,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Server Name of the Database</Name>
-    <Value>データベースサーバー名</Value>
+    <Value>データベースサーバ名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Database Name</Name>
@@ -1146,7 +1146,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Connection string of the database. Alternatively, Server, Database, User and password details can be provided individually</Name>
-    <Value>データベースの接続文字列。 あるいは、サーバー、データベース、ユーザー、およびパスワードの詳細を個別に提供することもできます</Value>
+    <Value>データベースの接続文字列。 あるいは、サーバ、データベース、ユーザー、およびパスワードの詳細を個別に提供することもできます</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Password</Name>
@@ -2158,7 +2158,7 @@
   </LanguageTable>
 <LanguageTable>
     <Name>CyberArk Server to be accessed via local machine(True) or via Orchestrator(False)</Name>
-    <Value>ローカルマシン経由(True)またはオーケストレーター経由(False)でアクセスするサイバーアークサーバー</Value>
+    <Value>ローカルマシン経由(True)またはオーケストレーター経由(False)でアクセスするサイバーアークサーバ</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Database Type to be 'MS SQL / MYSQL /ORACLE'</Name>

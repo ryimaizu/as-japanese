@@ -2,7 +2,7 @@
 <DocumentElement>
   <LanguageTable>
     <Name>Mail Server</Name>
-    <Value>メールサーバー</Value>
+    <Value>メールサーバ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Port Number</Name>
@@ -287,7 +287,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Mail Server Specification</Name>
-    <Value>メールサーバーの仕様</Value>
+    <Value>メールサーバの仕様</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Secure Text</Name>
@@ -511,7 +511,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Server Name</Name>
-    <Value>サーバー名</Value>
+    <Value>サーバ名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Database Name</Name>
@@ -1447,7 +1447,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Server</Name>
-    <Value>サーバー</Value>
+    <Value>サーバ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>DBName</Name>

@@ -426,7 +426,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Error in starting the Target Machine server. Please check the Error logs..</Name>
-    <Value>ターゲットマシンサーバーにエラーが発生しました。エラーログを確認してください</Value>
+    <Value>ターゲットマシンサーバにエラーが発生しました。エラーログを確認してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>*- User {0} details are successfully Updated!</Name>
@@ -510,7 +510,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>* ANTbot server is not started in the target machine. Please start it and try again.</Name>
-    <Value>ANT Botサーバーはターゲットマシンで開始されていません。それを開始してもう一度お試しください。</Value>
+    <Value>ANT Botサーバはターゲットマシンで開始されていません。それを開始してもう一度お試しください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Selected deployment is Failed. {0}</Name>
@@ -530,7 +530,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>* Error in starting the ANTbot server.</Name>
-    <Value>ANT Botサーバーでエラーが発生します</Value>
+    <Value>ANT Botサーバでエラーが発生します</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Unable to start FTP</Name>
@@ -546,7 +546,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>* Target Machine server is not started. Please start the Target Machine server and try again.</Name>
-    <Value>ターゲットマシンサーバーが起動していません。ターゲットマシンサーバーを起動して、もう一度お試しください</Value>
+    <Value>ターゲットマシンサーバが起動していません。ターゲットマシンサーバを起動して、もう一度お試しください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Selected process cannot be deleted in Target Machine as It is currently being executed. Stop the process before deleting again.</Name>
@@ -558,7 +558,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>* Error in activating the Target Machine Server.</Name>
-    <Value>ターゲットマシンサーバーでエラーが発生しています。</Value>
+    <Value>ターゲットマシンサーバでエラーが発生しています。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Error in re-activating the Target Machine Server. Please check the error logs.</Name>
@@ -566,15 +566,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>* Error in retrieving the RAM details from the Target Machine Server.</Name>
-    <Value>ターゲットマシンサーバーからRAM詳細のエラーを送信しています。</Value>
+    <Value>ターゲットマシンサーバからRAM詳細のエラーを送信しています。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Cache in the Target Machine server is successfully cleared.</Name>
-    <Value>ターゲットマシンサーバーのキャッシュが正常にクリアされました</Value>
+    <Value>ターゲットマシンサーバのキャッシュが正常にクリアされました</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Error in clearing the Cache from the Target Machine Server.</Name>
-    <Value>ターゲットマシンサーバーでキャッシュをクリアする時にエラーが発生する</Value>
+    <Value>ターゲットマシンサーバでキャッシュをクリアする時にエラーが発生する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Failed to send the commad to Target Machine - {0}</Name>
@@ -706,7 +706,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>* Error in starting the ANTbot server</Name>
-    <Value>* ANT Botサーバーの起動時のエラー</Value>
+    <Value>* ANT Botサーバの起動時のエラー</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Unable to start FTP; Deployment failed</Name>
@@ -714,7 +714,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>* ANTbot machine server is not started. Please start the ANTbot machine server and try again.</Name>
-    <Value>* ANT Botサーバーは開始されていません。ANT Botサーバーを起動して、もう一度お試しください。</Value>
+    <Value>* ANT Botサーバは開始されていません。ANT Botサーバを起動して、もう一度お試しください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Selected deployment is Failed.</Name>
@@ -726,7 +726,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>* ANTbot server is not started in the ANTbot machine. Please start it and try again.</Name>
-    <Value>* ANT BotサーバーがANT Botマシンで開始されていません。開始してもう一度試してください。</Value>
+    <Value>* ANT BotサーバがANT Botマシンで開始されていません。開始してもう一度試してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Email Id entered is not valid. Please review / correct and try again.</Name>
@@ -754,7 +754,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Please enter Database Server Name or IP Address.</Name>
-    <Value>データベースサーバー名またはIPアドレスを入力してください。</Value>
+    <Value>データベースサーバ名またはIPアドレスを入力してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Please enter Database User Name.</Name>
@@ -822,7 +822,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>* ANTbot  server is not started in the ANTbot machine. Please start it and try again.</Name>
-    <Value>* ANT BotのマシンにANT Botサーバーは開始されていません。もう一度起動してお試しください。</Value>
+    <Value>* ANT BotのマシンにANT Botサーバは開始されていません。もう一度起動してお試しください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to Delete selected Process?</Name>
@@ -838,27 +838,27 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Error in starting the ANTbot machine server. Please check the Error logs..</Name>
-    <Value>ANTbotマシンサーバーの起動中にエラーが発生しました。エラーログを確認してください。</Value>
+    <Value>ANTbotマシンサーバの起動中にエラーが発生しました。エラーログを確認してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Error in re-activating the ANTBOT machine Server. Please check the error logs.</Name>
-    <Value>* ANTBOTマシンサーバーの再起動中にエラーが発生しました。エラーログを確認してください。</Value>
+    <Value>* ANTBOTマシンサーバの再起動中にエラーが発生しました。エラーログを確認してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Error in clearing the Cache from the ANTbot machine Server.</Name>
-    <Value>* ANTBOTマシンサーバーからキャッシュをクリアする時にエラーが発生した。</Value>
+    <Value>* ANTBOTマシンサーバからキャッシュをクリアする時にエラーが発生した。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Cache in the ANTbot machine server is successfully cleared.</Name>
-    <Value>* ANTBOTマシンサーバーのキャッシュは正常にクリアされました。</Value>
+    <Value>* ANTBOTマシンサーバのキャッシュは正常にクリアされました。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Error in retrieving the RAM details from the ANTbot machine Server.</Name>
-    <Value>* ANTBOTマシンサーバーからRAMの詳細を取得中にエラーが発生しました。</Value>
+    <Value>* ANTBOTマシンサーバからRAMの詳細を取得中にエラーが発生しました。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Error in activating the ANTbot machine Server.</Name>
-    <Value>* ANTBOTマシンサーバーの起動中にエラーが発生しました。</Value>
+    <Value>* ANTBOTマシンサーバの起動中にエラーが発生しました。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* Failed to send the commad to ANTBOTmachine</Name>
@@ -1446,7 +1446,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Please check the network connection if ANTbot server is already started.</Name>
-    <Value>ANT Botサーバーが既に起動している場合は、ネットワーク接続を確認してください</Value>
+    <Value>ANT Botサーバが既に起動している場合は、ネットワーク接続を確認してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ANTbot IP address need to be mentioned</Name>
@@ -1842,7 +1842,7 @@
   </LanguageTable>
 <LanguageTable>
     <Name>ANTbot server has not started in the target machine. Start it and try again.</Name>
-    <Value>ターゲットマシンでANTbotサーバーが起動していません。それを起動してやり直してください。</Value>
+    <Value>ターゲットマシンでANTbotサーバが起動していません。それを起動してやり直してください。</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Selected Ant BOT Machine configuration is deleted successfully.</Name>
@@ -1874,11 +1874,11 @@
   </LanguageTable>
 <LanguageTable>
     <Name>Cache in the Ant BOT Machine server is cleared successfully.</Name>
-    <Value>AntBOTマシンサーバーのキャッシュが正常にクリアされました。</Value>
+    <Value>AntBOTマシンサーバのキャッシュが正常にクリアされました。</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Ant BOT Machine server has not started. Start it and try again.</Name>
-    <Value>AntBOTマシンサーバーが起動していません。それを起動してやり直してください。</Value>
+    <Value>AntBOTマシンサーバが起動していません。それを起動してやり直してください。</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>No RunTime Variables available</Name>

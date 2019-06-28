@@ -242,7 +242,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>FTP server status</Name>
-    <Value>FTPサーバーのステータス</Value>
+    <Value>FTPサーバのステータス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Tool box</Name>
@@ -1078,7 +1078,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>DatabaseServer Name /IP :</Name>
-    <Value>データベースサーバー名 / IP</Value>
+    <Value>データベースサーバ名 / IP</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Authentication :</Name>
@@ -2842,7 +2842,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Enter a database server name or IP Address.</Name>
-    <Value>データベースサーバー名またはIPアドレスを入力してください。</Value>
+    <Value>データベースサーバ名またはIPアドレスを入力してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Enter a database user name.</Name>

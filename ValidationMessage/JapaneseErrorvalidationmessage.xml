@@ -2,7 +2,7 @@
 <DocumentElement>
   <LanguageTable>
     <Name>Mail Server Name is Empty</Name>
-    <Value>メールサーバー名が空です</Value>
+    <Value>メールサーバ名が空です</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>EmailId Name is Empty</Name>
@@ -366,7 +366,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Server name is mandatory when Connection string is not provided.</Name>
-    <Value>接続文字列が指定されていない場合はサーバー名は必須です</Value>
+    <Value>接続文字列が指定されていない場合はサーバ名は必須です</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>DBName name is mandatory when Connection string is not provided.</Name>
@@ -894,7 +894,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Unable to connect to mail server.</Name>
-    <Value>メールサーバーに接続できません。</Value>
+    <Value>メールサーバに接続できません。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>HtmlBody Indicator field is invalid. It should be any of these (TRUE / FALSE)</Name>
@@ -906,7 +906,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Unable to connect to Outlook server.</Name>
-    <Value>見通しサーバーに接続できません。</Value>
+    <Value>見通しサーバに接続できません。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Unable to open the mail box.</Name>
