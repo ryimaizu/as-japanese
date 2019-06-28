@@ -22,11 +22,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Containing Text cannot be empty for filtering</Name>
-    <Value>フィルタリングに使用する"含む"は空にする事は出来ません</Value>
+    <Value>フィルタリングに使用する"含む"は空にする事はできません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Collection Name cant be Empty</Name>
-    <Value>コレクション名を空にする事は出来ません</Value>
+    <Value>コレクション名を空にする事はできません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Exception Message is empty</Name>
@@ -38,19 +38,19 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Variable of this User Defined Type cannot be initialzied with Real Type Data</Name>
-    <Value>ユーザーが記載された変数は実数型データで初期化する事は出来ません</Value>
+    <Value>ユーザーが記載された変数は実数型データで初期化する事はできません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Left side value cannot be empty</Name>
-    <Value>左側の値は空にする事は出来ません</Value>
+    <Value>左側の値は空にする事はできません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Expression cannot be Empty</Name>
-    <Value>エクスプレッションは空にする事は出来ません</Value>
+    <Value>エクスプレッションは空にする事はできません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Right side value cannot be empty</Name>
-    <Value>右側の値は空にする事は出来ません</Value>
+    <Value>右側の値は空にする事はできません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Right side value should be empty</Name>
@@ -74,19 +74,19 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Both Condition and Custom Expression cannot be empty</Name>
-    <Value>条件式とカスタム式を両方とも空にする事は出来ません</Value>
+    <Value>条件式とカスタム式を両方とも空にする事はできません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Both Condition and Custom Expression are NOT allowed. Please give either</Name>
-    <Value>条件式とカスタム式の両方は許可出来ません。1つを選択してください</Value>
+    <Value>条件式とカスタム式の両方は許可できません。1つを選択してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Canvas Name cannot be emtpy;</Name>
-    <Value>キャンバス名は空にする事は出来ません。</Value>
+    <Value>キャンバス名は空にする事はできません。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>All Input values cannot be empty:</Name>
-    <Value>全ての入力値は空にする事は出来ません。</Value>
+    <Value>全ての入力値は空にする事はできません。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Custom Condition field is Empty</Name>
@@ -134,31 +134,31 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Case field cannot be Empty</Name>
-    <Value>ケースフィールドは空にする事は出来ません</Value>
+    <Value>ケースフィールドは空にする事はできません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Events field cannot be Empty</Name>
-    <Value>イベントフィールドは空にする事は出来ません</Value>
+    <Value>イベントフィールドは空にする事はできません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Condition Value field cannot be Empty</Name>
-    <Value>条件値フィールドは空にする事は出来ません</Value>
+    <Value>条件値フィールドは空にする事はできません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Timer Event cannot be Empty</Name>
-    <Value>タイマーイベントは空にする事は出来ません</Value>
+    <Value>タイマーイベントは空にする事はできません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Timer Id value cannot be empty:</Name>
-    <Value>タイマーIDの値は空にする事は出来ません</Value>
+    <Value>タイマーIDの値は空にする事はできません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Keys cannot be empty</Name>
-    <Value>キーは空にする事は出来ません</Value>
+    <Value>キーは空にする事はできません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Values cannot be empty</Name>
-    <Value>値は空にする事は出来ません</Value>
+    <Value>値は空にする事はできません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Number1 is not a valid number. Please enter only Numbers</Name>
@@ -182,11 +182,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Numerator property is a mandatory field and can't be empty.</Name>
-    <Value>分子プロパティは必須フィールドです。これを空にする事は出来ません</Value>
+    <Value>分子プロパティは必須フィールドです。これを空にする事はできません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Denominator property is a mandatory field and can't be empty.</Name>
-    <Value>分母プロパティは必須フィールドです。これを空にする事は出来ません</Value>
+    <Value>分母プロパティは必須フィールドです。これを空にする事はできません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Host Name is Empty</Name>
@@ -486,11 +486,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Parameter String cannot be empty for IndexOf operator</Name>
-    <Value>インデックス演算子のパラメータ文字列を空にする事は出来ません。</Value>
+    <Value>インデックス演算子のパラメータ文字列を空にする事はできません。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Parameter String cannot be empty for Replace operator</Name>
-    <Value>取り替える演算子のパラメータ文字列を空にする事は出来ません。</Value>
+    <Value>取り替える演算子のパラメータ文字列を空にする事はできません。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Invalid String Operator</Name>
@@ -574,7 +574,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Both Column IDs and Header Data cannot be Empty.</Name>
-    <Value>列IDとヘッダーデータの両方を空にする事は出来ません</Value>
+    <Value>列IDとヘッダーデータの両方を空にする事はできません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Exact/Contains field is empty. Default is CONTAINS</Name>
@@ -642,15 +642,15 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Interval field cannot be empty...</Name>
-    <Value>間隔フィールドは空にする事は出来ません</Value>
+    <Value>間隔フィールドは空にする事はできません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Timer Event cannot be empty...</Name>
-    <Value>タイマーイベントは空にする事は出来ません</Value>
+    <Value>タイマーイベントは空にする事はできません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>XML string &amp; fiename both cannot be empty</Name>
-    <Value>XML文字列とファイル名の両方を空にする事は出来ません</Value>
+    <Value>XML文字列とファイル名の両方を空にする事はできません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Invalid XML input</Name>
@@ -666,11 +666,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>XML Node cannot be empty</Name>
-    <Value>XMLノードを空にする事は出来ません</Value>
+    <Value>XMLノードを空にする事はできません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>HTML string &amp; fiename both cannot be empty</Name>
-    <Value>HTML文字列とファイル名の両方が空にする事は出来ません</Value>
+    <Value>HTML文字列とファイル名の両方が空にする事はできません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>HTML File not found</Name>
@@ -1378,11 +1378,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Unable to create the Excel Sheet</Name>
-    <Value>エクセルシートを作成出来ません</Value>
+    <Value>エクセルシートを作成できません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Unable to create the output Excel File . </Name>
-    <Value>出力エクセルファイルを作成出来ません</Value>
+    <Value>出力エクセルファイルを作成できません</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Invalid input CSV file</Name>
