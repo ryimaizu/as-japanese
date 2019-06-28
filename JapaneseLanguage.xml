@@ -734,7 +734,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>String operator</Name>
-    <Value>ストリングのオペレータ</Value>
+    <Value>ストリング操作</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>String</Name>
@@ -742,11 +742,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>File operator</Name>
-    <Value>ファイルオペレータ</Value>
+    <Value>ファイル操作</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Path operator</Name>
-    <Value>パスのオペレータ</Value>
+    <Value>ファイルパス操作</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Process</Name>
@@ -1682,7 +1682,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Folder Operator</Name>
-    <Value>フォルダオペレータ</Value>
+    <Value>フォルダ操作</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>File Lister</Name>
@@ -1766,7 +1766,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Operator</Name>
-    <Value>オペレータ</Value>
+    <Value>操作</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Enter Value</Name>
@@ -2006,11 +2006,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Image Operator</Name>
-    <Value>画像オペレータ</Value>
+    <Value>画像操作</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Zip Operator</Name>
-    <Value>ZIPオペレータ</Value>
+    <Value>ZIP操作</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Http Responder</Name>
@@ -2038,7 +2038,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>DataTable Operator</Name>
-    <Value>データテーブルオペレータ</Value>
+    <Value>データテーブル操作</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Wait For</Name>
@@ -2066,7 +2066,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>PathOperation</Name>
-    <Value>パスのオペレータ</Value>
+    <Value>ファイルパス操作</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>DelayComponent</Name>
@@ -2090,7 +2090,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>ParseXML</Name>
-    <Value>XML 構文解析</Value>
+    <Value>XML構文解析</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>RemoteAppRunner</Name>
@@ -3170,7 +3170,7 @@
   </LanguageTable>
     <LanguageTable>
     <Name>Operator</Name>
-    <Value>オペレータ</Value>
+    <Value>操作</Value>
   </LanguageTable>
     <LanguageTable>
     <Name>Initialize</Name>
@@ -3222,7 +3222,7 @@
   </LanguageTable>
    <LanguageTable>
     <Name>Operators</Name>
-    <Value>オペレータ</Value>
+    <Value>操作</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Line Number</Name>
