@@ -646,7 +646,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Dont Close the Browser After Run</Name>
-    <Value>実行後にブラウザを閉じないで下さい</Value>
+    <Value>実行後にブラウザを閉じないでください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Delimiter separated Keywords to be searched (case sensitive)</Name>
@@ -1530,7 +1530,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Enter the ImageType(jpeg,png,tiff,bmp,ico)</Name>
-    <Value>画像の種類を入力して下さい（jpeg,png,tiff,bmp,ico）</Value>
+    <Value>画像の種類を入力してください（jpeg,png,tiff,bmp,ico）</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Source folder for Compression (optional)</Name>
@@ -1854,7 +1854,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Enter User Name here</Name>
-    <Value>ここにユーザー名を入力して下さい</Value>
+    <Value>ここにユーザー名を入力してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Enter true to enable credentiality feature</Name>

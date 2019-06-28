@@ -58,7 +58,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Invalid Increment Operator.. Please refer the description for valid increment operators..</Name>
-    <Value>無効なインクリメント演算子です。有効なインクリメント演算子を参照して下さい</Value>
+    <Value>無効なインクリメント演算子です。有効なインクリメント演算子を参照してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Number of Iterations is Empty or invalid</Name>
@@ -162,11 +162,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Number1 is not a valid number. Please enter only Numbers</Name>
-    <Value>番号1は有効な番号ではありません。 数字だけを入力して下さい</Value>
+    <Value>番号1は有効な番号ではありません。 数字だけを入力してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Number2 is not a valid number..Please enter only Numbers</Name>
-    <Value>番号2は有効な番号ではありません。 数字だけを入力して下さい</Value>
+    <Value>番号2は有効な番号ではありません。 数字だけを入力してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>All the number fields are empty. At least one input property need to be filled</Name>
