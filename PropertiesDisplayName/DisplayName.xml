@@ -795,7 +795,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>XML Filename</Name>
-    <Value>XML ファイル名前</Value>
+    <Value>XML ファイル名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>XML Node</Name>
@@ -823,7 +823,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>HTML Filename</Name>
-    <Value>HTMLのファイル名前</Value>
+    <Value>HTMLファイル名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Dynamic Data</Name>
