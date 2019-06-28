@@ -82,7 +82,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Enter Excption Message </Name>
-    <Value>例外（エラー）メッセージを入力する</Value>
+    <Value>例外(エラー)メッセージを入力する</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Enter no of seconds </Name>
@@ -266,11 +266,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Interval for the Timer; In Milliseconds...</Name>
-    <Value>タイマーの合間。ミリ秒で..</Value>
+    <Value>タイマーの間隔。ミリ秒で..</Value>
   </LanguageTable>
   <LanguageTable>
     <Name> Event which needs to be triggered on Interval</Name>
-    <Value>合間でトリガする必要があるイベント</Value>
+    <Value>ある間隔で実行する必要があるイベント</Value>
   </LanguageTable>
   <LanguageTable>
     <Name> Timer Id</Name>
@@ -282,7 +282,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Exception Handle Event</Name>
-    <Value>例外（エラー）を扱うイベント</Value>
+    <Value>例外(エラー)を扱うイベント</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Input Keys - Pipe (|) separated text if it's Many</Name>
