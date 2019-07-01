@@ -1878,7 +1878,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Colony Name</Name>
-    <Value>コロニー名</Value>
+    <Value>グループ名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Package</Name>
@@ -1918,7 +1918,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>New Colony</Name>
-    <Value>新しいコロニー</Value>
+    <Value>新しいグループ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Forced Logout</Name>
@@ -1926,11 +1926,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Colony</Name>
-    <Value>コロニー</Value>
+    <Value>グループ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Colony ID</Name>
-    <Value>コロニーID</Value>
+    <Value>グループID</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Loggedin User</Name>
@@ -2318,7 +2318,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Target machine Colony</Name>
-    <Value>ターゲットマシンコロニー</Value>
+    <Value>ターゲットマシングループ</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>DeleteStatus</Name>
@@ -2402,7 +2402,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Colony Management</Name>
-    <Value>コロニー管理</Value>
+    <Value>グループ管理</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>User Forced Logout</Name>
@@ -2438,7 +2438,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>ColonyName</Name>
-    <Value>コロニー名</Value>
+    <Value>グループ名</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Import</Name>
@@ -2566,7 +2566,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Remove Colony</Name>
-    <Value>コロニーを削除</Value>
+    <Value>グループを削除</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>SSL Encryption</Name>
@@ -2782,7 +2782,7 @@
   </LanguageTable>
    <LanguageTable>
     <Name>Select a user colony.</Name>
-    <Value>ユーザーコロニーを選択してください。</Value>
+    <Value>ユーザーグループを選択してください。</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Enter an e-mail ID.</Name>
@@ -3158,7 +3158,7 @@
   </LanguageTable>
    <LanguageTable>
     <Name>Colony Name</Name>
-    <Value>コロニー名</Value>
+    <Value>グループ名</Value>
   </LanguageTable>
     <LanguageTable>
     <Name>Value</Name>

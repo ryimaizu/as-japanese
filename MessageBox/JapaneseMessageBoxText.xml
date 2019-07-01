@@ -1182,11 +1182,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Please select valid Colony</Name>
-    <Value>有効なコロニーを選択してください</Value>
+    <Value>有効なグループを選択してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Please select a Colony</Name>
-    <Value>コロニーを選択してください</Value>
+    <Value>グループを選択してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to Clear record for  selected AutoScalingID?</Name>
@@ -1274,7 +1274,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Please select a user Colony.</Name>
-    <Value>ユーザーのコロニーを選択してください</Value>
+    <Value>ユーザーのグループを選択してください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Please select a user role.</Name>
@@ -1458,23 +1458,23 @@
   </LanguageTable>
   <LanguageTable>
     <Name>* -Colony {0} is added successfully.</Name>
-    <Value>コロニー{0}は追加されました。</Value>
+    <Value>グループ{0}は追加されました。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* -Colony {0} is already in Records</Name>
-    <Value>コロニー{0}は既にレコードに含まれています</Value>
+    <Value>グループ{0}は既にレコードに含まれています</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* -Colony {0} is Unable to add. Please check.</Name>
-    <Value>コロニー{0}は追加できません。チェックしてください。</Value>
+    <Value>グループ{0}は追加できません。チェックしてください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* -Colony {0} is Deleted successfully.</Name>
-    <Value>コロニー{0}は削除しました</Value>
+    <Value>グループ{0}は削除しました</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>* -Colony {0} is Unable to Deleted. Please check.</Name>
-    <Value>コロニー{0}は削除できません。チェックしてください。</Value>
+    <Value>グループ{0}は削除できません。チェックしてください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>User {0} connected to {1} Orchestrator</Name>
@@ -1482,11 +1482,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Please provde valid Colony Name</Name>
-    <Value>有効なコロニー名を書いてください</Value>
+    <Value>有効なグループ名を書いてください</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to proceed publishing in the { 0 }colony?</Name>
-    <Value>{0}のコロニーでの公開を続けますか？</Value>
+    <Value>{0}のグループでの公開を続けますか？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to Close selected BOTbuilder?</Name>
@@ -1582,7 +1582,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name> Select a colony.</Name>
-    <Value>コロニーを選択してください。</Value>
+    <Value>グループを選択してください。</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Do you want to close Web recorder?</Name>
@@ -1794,7 +1794,7 @@
 </LanguageTable>
 <LanguageTable>
     <Name>Do you want to proceed Packaging in the {0}colony?</Name>
-    <Value>{0}コロニーへのパッケージングを続行しますか？</Value>
+    <Value>{0}グループへのパッケージングを続行しますか？</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>{0} - Workflow Package is successfully published.</Name>
@@ -1826,7 +1826,7 @@
   </LanguageTable>
 <LanguageTable>
     <Name>Do you want you want to Save the target machine colony mapping?</Name>
-    <Value>ターゲットマシンのコロニーマッピングを保存してよろしいですか？</Value>
+    <Value>ターゲットマシンのグループマッピングを保存してよろしいですか？</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Process Name is Empty</Name>
@@ -1858,11 +1858,11 @@
   </LanguageTable>
 <LanguageTable>
     <Name>Selected process has not successfully deployed.Colony Access is not available - {0}</Name>
-    <Value>選択されたプロセスは正常にデプロイされていません。コロニーアクセスが使用不可です -  {0}</Value>
+    <Value>選択されたプロセスは正常にデプロイされていません。グループアクセスが使用不可です -  {0}</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Selected process has not successfully deployed.Colony Access is not available</Name>
-    <Value>選択されたプロセスは正常にデプロイされていません。コロニーアクセスが使用できません</Value>
+    <Value>選択されたプロセスは正常にデプロイされていません。グループアクセスが使用できません</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Selected deployment has failed.</Name>
