@@ -374,7 +374,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Username is mandatory when Connection string is not provided.</Name>
-    <Value>接続文字列が指定されていない場合はユーザー名名は必須です</Value>
+    <Value>接続文字列が指定されていない場合はユーザー名は必須です</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Password is mandatory when Connection string is not provided.</Name>
