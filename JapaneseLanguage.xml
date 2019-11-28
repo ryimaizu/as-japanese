@@ -498,7 +498,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Add user details</Name>
-    <Value>ユーザーの詳細を追加する</Value>
+    <Value>ユーザーの詳細を追加</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Password</Name>
@@ -1490,7 +1490,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Add Target Machine</Name>
-    <Value>ターゲットマシンを追加する</Value>
+    <Value>ターゲットマシンを追加</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Yes</Name>
@@ -1958,7 +1958,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Add to Queue</Name>
-    <Value>キューに追加する</Value>
+    <Value>キューに追加</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Queue Name</Name>
@@ -3294,11 +3294,11 @@
   </LanguageTable>
 <LanguageTable>
     <Name>Add New MessageQueue</Name>
-    <Value>新しいメッセージキューを追加する</Value>
+    <Value>新しいメッセージキューを追加</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Add New MessageQueue</Name>
-    <Value>新しいメッセージキューを追加する</Value>
+    <Value>新しいメッセージキューを追加</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>MessageQueue Name</Name>
@@ -3322,7 +3322,7 @@
   </LanguageTable>
 <LanguageTable>
     <Name>Add New ProcessMetric</Name>
-    <Value>新しいプロセスメトリックを追加する</Value>
+    <Value>新しいプロセスメトリックを追加</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Average Handling Time</Name>
