@@ -530,11 +530,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>From</Name>
-    <Value>から</Value>
+    <Value>検索</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>To</Name>
-    <Value>まで</Value>
+    <Value>範囲</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Apply</Name>
