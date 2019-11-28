@@ -566,23 +566,23 @@
   </LanguageTable>
   <LanguageTable>
     <Name>End after</Name>
-    <Value>終了後で</Value>
+    <Value>回数指定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>occurrences</Name>
-    <Value>発生</Value>
+    <Value>回で終了</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Ends on</Name>
-    <Value>終わり</Value>
+    <Value>終了日時</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>HH:MM</Name>
-    <Value>時：分</Value>
+    <Value>例) 14:05</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Activate</Name>
-    <Value>アクティブ化</Value>
+    <Value>有効化</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Stop</Name>
@@ -598,7 +598,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Number of BOTs=10</Name>
-    <Value>ボット数= 10</Value>
+    <Value>ボット数=10</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Active Bot builder details</Name>
