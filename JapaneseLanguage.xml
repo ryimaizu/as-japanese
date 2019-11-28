@@ -478,7 +478,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>New user</Name>
-    <Value>新しいユーザー</Value>
+    <Value>新規追加</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Target machines</Name>
@@ -506,7 +506,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Confirm password</Name>
-    <Value>パスワードを確認する</Value>
+    <Value>パスワード(確認用)</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Email</Name>
@@ -614,7 +614,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>User role</Name>
-    <Value>ユーザー役割</Value>
+    <Value>ユーザーロール</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Close Bot builder</Name>
@@ -2246,7 +2246,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Reset Password</Name>
-    <Value>パスワードをリセットする</Value>
+    <Value>パスワードをリセット</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>New Password</Name>
