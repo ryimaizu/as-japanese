@@ -262,7 +262,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>send crash report</Name>
-    <Value>クラッシュを報告する</Value>
+    <Value>クラッシュを報告</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Multiple emails can be separated by semicolon</Name>
@@ -338,19 +338,19 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Antbot start</Name>
-    <Value>Antbot を開始する</Value>
+    <Value>Antbot を開始</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Clear temp files</Name>
-    <Value>tempファイルをクリアする</Value>
+    <Value>tempファイルをクリア</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Remove proc</Name>
-    <Value>プロセスを削除する</Value>
+    <Value>プロセスを削除</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Edit config</Name>
-    <Value>設定を編集する</Value>
+    <Value>設定を編集</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Resource details</Name>
@@ -398,7 +398,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Config parameter</Name>
-    <Value>パラメータを設定する</Value>
+    <Value>パラメータを設定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Process name</Name>
@@ -462,7 +462,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Clear log</Name>
-    <Value>ログをクリアする</Value>
+    <Value>ログをクリア</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Username</Name>
@@ -758,7 +758,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>End bot</Name>
-    <Value>ボットを終了する</Value>
+    <Value>ボットを終了</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Function box</Name>
@@ -778,7 +778,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Stop timer</Name>
-    <Value>タイマを停止する</Value>
+    <Value>タイマを停止</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Timer</Name>
@@ -846,7 +846,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Run Exe</Name>
-    <Value>実行する</Value>
+    <Value>実行</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Connector </Name>
@@ -970,7 +970,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Import Process</Name>
-    <Value>プロセスをインポートする</Value>
+    <Value>プロセスをインポート</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Save All</Name>
@@ -1122,19 +1122,19 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Connect</Name>
-    <Value>接続する</Value>
+    <Value>接続</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Configure</Name>
-    <Value>設定する</Value>
+    <Value>設定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Hi there! Setting up for the first time?</Name>
-    <Value>こんにちは！セットアップするのは初めてですか？</Value>
+    <Value>こんにちは！セットアップは初めてですか？</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Show Debug Window</Name>
-    <Value>デバッグウィンドウを表示する</Value>
+    <Value>デバッグウィンドウを表示</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Re-Sequence</Name>
@@ -1182,11 +1182,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Select file</Name>
-    <Value>ファイルを選択する</Value>
+    <Value>ファイルを選択</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Select sheet name</Name>
-    <Value>シート名を選択する</Value>
+    <Value>シート名を選択</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Bot builder:Dashboard</Name>
@@ -1234,7 +1234,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Start application</Name>
-    <Value>アプリケーションを開始する</Value>
+    <Value>アプリケーションを開始</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Find application</Name>
@@ -1250,11 +1250,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Select item</Name>
-    <Value>アイテムを選択する</Value>
+    <Value>アイテムを選択</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Set date</Name>
-    <Value>日付を設定する</Value>
+    <Value>日付を設定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Check </Name>
@@ -1266,7 +1266,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Set value</Name>
-    <Value>値を設定する</Value>
+    <Value>値を設定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Clip board</Name>
@@ -1314,23 +1314,23 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Set output parameter</Name>
-    <Value>出力パラメータを設定する</Value>
+    <Value>出力パラメータを設定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Set input parameter</Name>
-    <Value>入力パラメータを設定する</Value>
+    <Value>入力パラメータを設定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Set config data</Name>
-    <Value>構成データを設定する</Value>
+    <Value>構成データを設定</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Get config data</Name>
-    <Value>構成データを取得する</Value>
+    <Value>構成データを取得</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Show ANT code</Name>
-    <Value>ANTコードを表示する</Value>
+    <Value>ANTコードを表示</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Selected application</Name>
@@ -1370,7 +1370,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Clear cache</Name>
-    <Value>キャッシュをクリアする</Value>
+    <Value>キャッシュをクリア</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Toggle ANT file</Name>
@@ -1394,7 +1394,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Clears all stopped BOTs</Name>
-    <Value>停止した全てのボットをクリアする</Value>
+    <Value>停止した全てのボットをクリア</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Error type</Name>
@@ -1430,7 +1430,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Disconnect</Name>
-    <Value>切断する</Value>
+    <Value>切断</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Sum</Name>
@@ -1458,11 +1458,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Publish Package</Name>
-    <Value>パッケージを公開する</Value>
+    <Value>パッケージを公開</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Bot publish</Name>
-    <Value>ボットを公開する</Value>
+    <Value>ボットを公開</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Canvas</Name>
@@ -1510,7 +1510,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Launch application</Name>
-    <Value>アプリケーションを起動する</Value>
+    <Value>アプリケーションを起動</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ANTstein QueenBOT suite</Name>
@@ -1554,19 +1554,19 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Stop Recording</Name>
-    <Value>録画を停止する</Value>
+    <Value>録画を停止</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Continuous Recording</Name>
-    <Value>続けて録画する</Value>
+    <Value>続けて録画</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Continuous Control Recording</Name>
-    <Value>続けてコントロール録画する</Value>
+    <Value>続けてコントロール録画</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Continuous Location Recording</Name>
-    <Value>続けてロケーション録画する</Value>
+    <Value>続けてロケーション録画</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Sign off  Exit</Name>
@@ -1722,11 +1722,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>RunExe</Name>
-    <Value>実行を実行する</Value>
+    <Value>実行を実行</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Publish</Name>
-    <Value>公開する</Value>
+    <Value>公開</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Special characters are not allowed.</Name>
@@ -1750,7 +1750,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Initialize</Name>
-    <Value>初期化する</Value>
+    <Value>初期化</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Condition</Name>
@@ -1814,7 +1814,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Minimize</Name>
-    <Value>最小化する</Value>
+    <Value>最小化</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Sign Off</Name>
@@ -2022,11 +2022,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Switch To Dark</Name>
-    <Value>ダークモードに変更する</Value>
+    <Value>ダークモードに変更</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>SWITCH TO LIGHT</Name>
-    <Value>ライトモードに変更する</Value>
+    <Value>ライトモードに変更</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>ScriptCaller</Name>
@@ -2074,7 +2074,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>UpdateCustomField</Name>
-    <Value>カスタムフィールドを更新する</Value>
+    <Value>カスタムフィールドを更新</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>TimerComp</Name>
@@ -2154,7 +2154,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Reset Connection Settings</Name>
-    <Value>接続設定をリセットする</Value>
+    <Value>接続設定をリセット</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Stopped</Name>
@@ -2182,7 +2182,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Generate</Name>
-    <Value>作成する</Value>
+    <Value>作成</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Code Window</Name>
@@ -2466,7 +2466,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Disable</Name>
-    <Value>無効にする</Value>
+    <Value>無効化</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Threshold</Name>
@@ -2478,7 +2478,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Enable</Name>
-    <Value>有効にする</Value>
+    <Value>有効化</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Toggle</Name>
@@ -2646,11 +2646,11 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Get Column Data</Name>
-    <Value>列データを取得する</Value>
+    <Value>列データを取得</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Get Mentioned Row Data</Name>
-    <Value>記載された行データを取得する</Value>
+    <Value>記載された行データを取得</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Index Based</Name>
@@ -2662,7 +2662,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Extraction Using Filter</Name>
-    <Value>フィルタを使用して抽出する</Value>
+    <Value>フィルタを使用して抽出</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Choose Attributes</Name>
@@ -2750,7 +2750,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Release key</Name>
-    <Value>キーを解放する</Value>
+    <Value>キーを解放</Value>
   </LanguageTable>  
   <LanguageTable>
     <Name>Intelligent Management</Name>
@@ -2934,7 +2934,7 @@
   </LanguageTable>
    <LanguageTable>
     <Name>     Get Specific Data</Name>
-    <Value>特定のデータを取得する</Value>
+    <Value>特定のデータを取得</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Single Column Selection</Name>
@@ -3098,7 +3098,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Refresh</Name>
-    <Value>更新する</Value>
+    <Value>更新</Value>
   </LanguageTable>
     <LanguageTable>
     <Name>By Xpath</Name>
@@ -3126,7 +3126,7 @@
   </LanguageTable>
  <LanguageTable>
     <Name>--Select--</Name>
-    <Value>--選択する--</Value>
+    <Value>--選択--</Value>
   </LanguageTable>
  <LanguageTable>
     <Name>Multiple</Name>
@@ -3254,7 +3254,7 @@
 	</LanguageTable>
 	     <LanguageTable>
     <Name>Minimize</Name>
-    <Value>最小化する</Value>
+    <Value>最小化</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>Sign off</Name>
@@ -3362,7 +3362,7 @@
   </LanguageTable>
 <LanguageTable>
     <Name>Enable DownScaling</Name>
-    <Value>ダウンスケーリングを有効にする</Value>
+    <Value>ダウンスケーリングを有効化</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>BOT Capacity</Name>
@@ -3382,7 +3382,7 @@
   </LanguageTable>
 <LanguageTable>
     <Name>Clear temporary files</Name>
-    <Value>tempファイルをクリアする</Value>
+    <Value>tempファイルをクリア</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Edit Configuration</Name>
@@ -3442,7 +3442,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>IsExtractXpath</Name>
-    <Value>Xpathを抽出する</Value>
+    <Value>Xpathを抽出</Value>
   </LanguageTable>
     <LanguageTable>
     <Name>IsFrame</Name>
@@ -3558,7 +3558,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Use LDAP</Name>
-    <Value>LDAPを使用する</Value>
+    <Value>LDAPを使用</Value>
   </LanguageTable>
  <LanguageTable>
     <Name>Reuse Queue</Name>
@@ -3566,7 +3566,7 @@
   </LanguageTable>
  <LanguageTable>
     <Name>Enable</Name>
-    <Value>有効にする</Value>
+    <Value>有効化</Value>
   </LanguageTable>
    <LanguageTable>
     <Name>* Schedule added successfully. Number of Bots = </Name>
@@ -3638,7 +3638,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Is_Exception_Continue_at_Runner_Component</Name>
-    <Value>ランナーコンポーネントでの例外(エラー)時に処理を継続する</Value>
+    <Value>ランナーコンポーネントでの例外(エラー)時に処理を継続</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Element_Threshold</Name>
