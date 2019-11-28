@@ -1210,7 +1210,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Service status</Name>
-    <Value>サービスのステータス</Value>
+    <Value>ステータス</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>Win recorder</Name>
@@ -1622,7 +1622,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Select Folder</Name>
-    <Value>フォルダーを選択</Value>
+    <Value>フォルダを選択</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>FunctionBox information</Name>
