@@ -2254,7 +2254,7 @@
   </LanguageTable>
 <LanguageTable>
     <Name>Operation needed(Invoke/Kill)</Name>
-    <Value>操作が必要です（呼び出し/強制終了）</Value>
+    <Value>(Invoke/Kill)のいずれかを入力</Value>
   </LanguageTable>
 <LanguageTable>
     <Name>Does the Process Name exactly matches or just contains or process id matches.</Name>
