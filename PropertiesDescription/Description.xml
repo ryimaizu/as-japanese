@@ -1310,7 +1310,7 @@
   </LanguageTable>
   <LanguageTable>
     <Name>Operation needed (Create/Move/Copy/Delete/Rename)</Name>
-    <Value>操作が必要です（作成/移動/コピー/削除/名前の変更）</Value>
+    <Value>(Create/Move/Copy/Delete/Rename)のいずれかを入力</Value>
   </LanguageTable>
   <LanguageTable>
     <Name>New foldername for renaming (optional)</Name>
